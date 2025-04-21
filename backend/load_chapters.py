@@ -1,6 +1,11 @@
 """
 Script para carregar documentos da pasta 'chapters' no sistema LouiS Stroke.
 """
+# Adiciona o hack para sqlite3 antes de qualquer outra importação que possa usar chromadb
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import os
 import asyncio
 import logging
