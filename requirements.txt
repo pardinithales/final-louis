@@ -27,6 +27,8 @@ python-dotenv>=1.0.1      # Carrega .env em scripts standalone
 typing_extensions>=4.11.0 # Tipagem retrocompativel
 # Necessário para chromadb em sistemas com sqlite3 < 3.35.0 (como Ubuntu 20.04)
 pysqlite3-binary
+# Fixa a versão do posthog para compatibilidade com Python 3.8
+posthog<3.0.0
 
 # --- Dependencias de desenvolvimento/teste ---
 pytest>=8.0.0,<9.0.0
