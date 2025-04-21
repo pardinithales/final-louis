@@ -12,9 +12,11 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import logging
 from contextlib import asynccontextmanager
+import os # Adicionado import os
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles # Adicionado import
 
 from backend.app.core.config import settings
 from backend.app.routers import api_router
@@ -23,6 +25,15 @@ from backend.app.services.vector_store import get_vector_store_service
 # Configuração básica do logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+# --- Configuração de Arquivos Estáticos ---
+# Define o diretório base para arquivos estáticos
+STATIC_DIR = "static"
+# Define o subdiretório para imagens dentro do diretório estático
+IMAGES_DIR = os.path.join(STATIC_DIR, "images")
+# Garante que o diretório de imagens exista ao iniciar a aplicação
+os.makedirs(IMAGES_DIR, exist_ok=True)
+# -----------------------------------------
 
 
 @asynccontextmanager
@@ -53,24 +64,39 @@ async def lifespan(app: FastAPI):
 # Criação da aplicação FastAPI com o gerenciador de ciclo de vida
 app = FastAPI(
     lifespan=lifespan,
-    title="LouiS Stroke API",
+    title=settings.APP_TITLE, # Usando título do config
     description="API especializada em localização neurológica de AVC usando RAG.",
     version="1.0.0",
 )
 
-# Inclusão do roteador da API
-app.include_router(api_router)
+# --- Montar Arquivos Estáticos ---
+# Serve arquivos da pasta 'static' sob o caminho '/static' na URL
+# Ex: Uma imagem em static/images/img.png será acessível em http://.../static/images/img.png
+app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+# -------------------------------
 
-# Configuração do CORS para permitir chamadas de diferentes origens
+
+# Inclusão do roteador da API com prefixo /api/v1
+# Todas as rotas definidas em api_router (query, image, etc.) terão /api/v1 na frente
+app.include_router(api_router, prefix="/api/v1")
+
+# Configuração do CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Em produção é melhor especificar domínios
+    allow_origins=["*"], # Permite todas as origens (ajuste em produção!)
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    # Métodos HTTP permitidos
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    # Cabeçalhos permitidos nas requisições
+    allow_headers=["*"], # Permite todos os cabeçalhos (ajuste se necessário)
 )
 
 @app.get("/")
 async def root():
-    """Endpoint raiz simples."""
-    return {"message": "Bem-vindo à API LouiS Stroke - Especialista em Localização Neurológica!"}
+    """
+    Endpoint raiz simples para verificar se a API está online.
+    """
+    # Mensagem atualizada para indicar a versão
+    return {"message": f"Bem-vindo à API v1 {settings.APP_TITLE}!"}
+
+# Você pode adicionar mais endpoints globais aqui, se necessário

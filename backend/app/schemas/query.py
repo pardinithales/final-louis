@@ -5,6 +5,22 @@ from typing import List, Optional, Dict, Any
 
 from backend.app.core.config import settings # Importa para usar o valor padrão de top_k
 
+class QueryInput(BaseModel):
+    query: str = Field(..., description="Texto da consulta do usuário")
+    top_k: Optional[int] = Field(5, description="Número de chunks a recuperar")
+
+class RetrievedChunk(BaseModel):
+    document_id: Optional[str] = None
+    chunk_id: Optional[str] = None
+    text: str
+    score: float
+    metadata: Optional[Dict[str, Any]] = None
+
+class QueryOutput(BaseModel):
+    query: str
+    answer: str
+    retrieved_chunks: List[RetrievedChunk]
+
 class QueryRequest(BaseModel):
     """
     Schema para a requisição de consulta RAG.
@@ -27,17 +43,6 @@ class QueryRequest(BaseModel):
             ]
         }
     }
-
-
-class RetrievedChunk(BaseModel):
-    """
-    Schema para representar um chunk de texto recuperado pelo RAG.
-    """
-    document_id: str = Field(..., description="Identificador do documento original do chunk.")
-    chunk_id: str = Field(..., description="Identificador único do chunk dentro do banco de vetores.")
-    text: str = Field(..., description="O conteúdo textual do chunk.")
-    score: float = Field(..., description="Pontuação de relevância do chunk em relação à consulta (ex: similaridade de cosseno).")
-    metadata: Optional[Dict[str, Any]] = Field(None, description="Metadados associados ao chunk (ex: source, filename).")
 
 
 class QueryResponse(BaseModel):

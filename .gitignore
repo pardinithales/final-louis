@@ -147,6 +147,9 @@ chroma_store/
 data/
 data_test/
 
+# Diretório do Frontend
+/frontend/
+
 # Ambientes Virtuais
 **/venv/
 **/.venv*

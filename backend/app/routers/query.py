@@ -1,7 +1,7 @@
 import logging
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException
 
-from backend.app.schemas.query import QueryRequest, QueryResponse, RetrievedChunk
+from backend.app.schemas.query import QueryInput, QueryOutput
 from backend.app.services.rag_service import RAGService, get_rag_service
 
 logging.basicConfig(level=logging.DEBUG)
@@ -11,38 +11,37 @@ router = APIRouter()
 
 
 @router.post(
-    "/query",
-    response_model=QueryResponse,
-    summary="Analisa casos clínicos para localização de AVC",
-    description="Recebe dados clínicos e retorna informações precisas sobre síndromes vasculares e localizações neuroanatômicas.",
+    "/",
+    response_model=QueryOutput,
+    summary="Realiza uma consulta RAG",
+    description="Recebe uma query de texto, recupera chunks relevantes e gera uma resposta.",
+    tags=["Query"]
 )
-async def query_stroke_localization(
-    request: QueryRequest,
-    rag_service: RAGService = Depends(get_rag_service),
-) -> QueryResponse:
+async def perform_query(
+    query_input: QueryInput,
+    rag_service: RAGService = Depends(get_rag_service)
+):
     """
-    Endpoint RAG para análise de localização de AVC (LouiS Stroke).
+    Endpoint para realizar consultas ao sistema RAG LouiS.
     """
-    if not request.query:
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="A consulta clínica não pode estar vazia.",
-        )
-
+    logger.info(f"Recebida query: '{query_input.query}', top_k={query_input.top_k}")
     try:
         result = await rag_service.analyze_stroke_location(
-            clinical_question=request.query, top_k=request.top_k
+            clinical_question=query_input.query,
+            top_k=query_input.top_k
+        )
+        logger.info(f"Resposta gerada para a query: '{query_input.query}'")
+
+        if not isinstance(result, dict) or "answer" not in result or "retrieved_chunks" not in result:
+             logger.error(f"Formato de resposta inesperado do RAGService: {result}")
+             raise HTTPException(status_code=500, detail="Erro interno ao processar a resposta do RAG.")
+
+        return QueryOutput(
+             query=query_input.query,
+             answer=result["answer"],
+             retrieved_chunks=result["retrieved_chunks"]
         )
 
-        return QueryResponse(
-            query=request.query,
-            answer=result["answer"],
-            retrieved_chunks=result["retrieved_chunks"],
-        )
-
-    except Exception as exc:
-        logger.exception("Erro ao processar análise de AVC: %s", exc)
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Ocorreu um erro interno ao processar sua consulta de localização neurológica: {exc}",
-        )
+    except Exception as e:
+        logger.exception(f"Erro ao processar query '{query_input.query}': {e}")
+        raise HTTPException(status_code=500, detail=f"Erro interno ao processar a consulta: {e}")
