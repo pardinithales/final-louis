@@ -6,13 +6,16 @@
 # - Estabelece eventos de inicialização
 
 # Hack para sqlite3 ANTES de qualquer importação que possa usar chromadb
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import logging
 from contextlib import asynccontextmanager
 import os # Adicionado import os
+import shutil
+import glob
+from pathlib import Path
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -21,6 +24,7 @@ from fastapi.staticfiles import StaticFiles # Adicionado import
 from backend.app.core.config import settings
 from backend.app.routers import api_router
 from backend.app.services.vector_store import get_vector_store_service
+from backend.image_selector import get_available_images, clear_available_images_cache
 
 # Configuração básica do logging
 logging.basicConfig(level=logging.INFO)
@@ -33,7 +37,65 @@ STATIC_DIR = "static"
 IMAGES_DIR = os.path.join(STATIC_DIR, "images")
 # Garante que o diretório de imagens exista ao iniciar a aplicação
 os.makedirs(IMAGES_DIR, exist_ok=True)
+
+# Obtém o caminho para o diretório de imagens original
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+SOURCE_IMAGES_DIR = os.path.join(BASE_DIR, "images")
 # -----------------------------------------
+
+# Função para sincronizar as imagens da pasta raiz/images para static/images
+def sync_images():
+    """
+    Sincroniza as imagens da pasta original (projeto raiz/images) para a pasta static/images
+    usada pelo FastAPI para servir arquivos estáticos.
+    """
+    try:
+        # Log do path absoluto para verificação
+        abs_source_dir = os.path.abspath(SOURCE_IMAGES_DIR)
+        abs_dest_dir = os.path.abspath(IMAGES_DIR)
+        logger.info(f"Diretório de origem (abs): {abs_source_dir}")
+        logger.info(f"Diretório de destino (abs): {abs_dest_dir}")
+        
+        # Verificar se o diretório de origem existe
+        if not os.path.exists(SOURCE_IMAGES_DIR):
+            logger.warning(f"Diretório de imagens de origem não encontrado: {SOURCE_IMAGES_DIR}")
+            return
+            
+        # Limpar o diretório de destino para evitar arquivos obsoletos
+        for old_file in glob.glob(os.path.join(IMAGES_DIR, "*.png")):
+            os.remove(old_file)
+            
+        # Copiar todas as imagens da pasta original para a pasta static/images
+        image_files = glob.glob(os.path.join(SOURCE_IMAGES_DIR, "*.png"))
+        logger.info(f"Encontradas {len(image_files)} imagens para sincronizar")
+        
+        for image_file in image_files:
+            filename = os.path.basename(image_file)
+            dest_path = os.path.join(IMAGES_DIR, filename)
+            shutil.copy2(image_file, dest_path)
+            
+        logger.info(f"Sincronizadas {len(image_files)} imagens para {IMAGES_DIR}")
+        
+        # Verificar se os arquivos foram copiados corretamente
+        copied_files = glob.glob(os.path.join(IMAGES_DIR, "*.png"))
+        logger.info(f"Verificação: {len(copied_files)} imagens presentes no diretório de destino")
+        
+        # Limpar o cache de imagens para forçar uma nova busca com os arquivos atualizados
+        clear_available_images_cache()
+        
+        # Pré-carregar a lista de imagens para garantir que estejam disponíveis
+        images = get_available_images()
+        logger.info(f"Lista de imagens pré-carregada: {len(images)} imagens disponíveis")
+        if len(images) == 0:
+            logger.warning("ALERTA: Nenhuma imagem foi carregada após a sincronização")
+            for path in [SOURCE_IMAGES_DIR, IMAGES_DIR]:
+                if os.path.exists(path):
+                    files = os.listdir(path)
+                    logger.info(f"Arquivos em {path}: {len(files)} ({', '.join(files[:5])}{'...' if len(files) > 5 else ''})")
+        
+    except Exception as e:
+        logger.error(f"Erro ao sincronizar imagens: {e}")
+        logger.exception("Detalhes do erro:")
 
 
 @asynccontextmanager
@@ -48,6 +110,10 @@ async def lifespan(app: FastAPI):
     logger.info(f"Modelo de embedding: {settings.EMBEDDING_MODEL_NAME}")
     
     try:
+        # Sincronizar imagens da pasta original para a pasta static/images
+        sync_images()
+        logger.info("Imagens sincronizadas com sucesso.")
+        
         # Inicializar ChromaDB e serviços relacionados
         vector_store_service = get_vector_store_service()
         logger.info("Vector Store inicializado com sucesso.")
@@ -85,10 +151,12 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], # Permite todas as origens (ajuste em produção!)
     allow_credentials=True,
-    # Métodos HTTP permitidos
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    # Métodos HTTP permitidos (todos)
+    allow_methods=["*"],
     # Cabeçalhos permitidos nas requisições
-    allow_headers=["*"], # Permite todos os cabeçalhos (ajuste se necessário)
+    allow_headers=["*"], # Permite todos os cabeçalhos
+    # Cabeçalhos expostos
+    expose_headers=["*"],
 )
 
 @app.get("/")

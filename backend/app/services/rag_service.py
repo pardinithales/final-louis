@@ -68,7 +68,12 @@ class RAGService:
         logger.info("Modelo de embedding carregado com sucesso.")
 
         # Cliente OpenAI assíncrono
-        self.ai_client = AsyncOpenAI(api_key=settings.OPENAI_API_KEY)
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            logger.warning("OPENAI_API_KEY não encontrada nas variáveis de ambiente. Usando valor padrão do dotenv.")
+            api_key = settings.OPENAI_API_KEY
+        self.ai_client = AsyncOpenAI(api_key=api_key)
+        logger.info("RAGService inicializado com sucesso!")
 
     # ----------------------------------------------------------------- #
     # --------------------------- UTILITÁRIOS -------------------------- #

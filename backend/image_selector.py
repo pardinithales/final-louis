@@ -9,9 +9,14 @@ import os
 import logging
 import json
 import re
-from typing import List, Optional
+import random
+from typing import List, Optional, Dict, Tuple, Union
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate
+from langchain.chat_models import AzureChatOpenAI
+from pathlib import Path
 
 # Carregar variáveis de ambiente
 load_dotenv()
@@ -26,28 +31,114 @@ project_root = os.path.dirname(script_dir)  # Subir um nível para a raiz do pro
 IMAGES_DIR = os.path.join(project_root, "images")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+# Configuração de caminhos
+# Base dir é o diretório raiz do projeto
+BASE_DIR = Path(__file__).resolve().parent
+IMAGES_FOLDER = os.path.join(BASE_DIR, "images")
+STATIC_IMAGES_FOLDER = os.path.join(BASE_DIR, "static", "images")
 
-async def get_available_images() -> List[str]:
+# Verificar se o diretório de imagens existe
+if not os.path.exists(IMAGES_FOLDER):
+    logger.warning(f"O diretório de imagens não foi encontrado: {IMAGES_FOLDER}")
+
+# Lista para armazenar caminhos de imagens disponíveis
+available_images = []
+
+def clear_available_images_cache():
     """
-    Obtém lista atual de todas as imagens na pasta ./images
+    Limpa o cache da lista de imagens disponíveis, forçando uma nova busca na próxima chamada.
+    """
+    global available_images
+    available_images = []
+    logger.info("Cache de imagens disponíveis limpo.")
+
+def get_available_images() -> List[str]:
+    """
+    Obtém a lista de imagens disponíveis no diretório de imagens.
     
     Returns:
-        Lista de nomes dos arquivos PNG
+        List[str]: Lista com os nomes das imagens encontradas (não os caminhos completos)
     """
-    try:
-        # Verificar se a pasta existe
-        if not os.path.exists(IMAGES_DIR):
-            logger.error(f"Diretório {IMAGES_DIR} não encontrado")
-            return []
+    global available_images
+    
+    # Se a lista já tiver sido carregada, retorna a versão em cache
+    if available_images:
+        logger.info(f"Retornando {len(available_images)} imagens do cache")
+        return available_images
+    
+    # Caminho base do projeto - diretório raiz
+    base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+    
+    # Verificar múltiplos possíveis diretórios para as imagens
+    possible_dirs = [
+        os.path.join(base_path, "images"),             # [raiz]/images
+        os.path.join(base_path, "static", "images"),   # [raiz]/static/images
+        os.path.join(os.path.dirname(__file__), "images"),           # backend/images
+        os.path.join(os.path.dirname(__file__), "static", "images"), # backend/static/images
+        os.path.join(os.path.dirname(os.path.dirname(__file__)), "static", "images"), # [raiz]/backend/static/images
+    ]
+    
+    logger.info(f"Buscando imagens nos diretórios: {possible_dirs}")
+    
+    # Buscar imagens em todos os diretórios possíveis
+    for img_dir in possible_dirs:
+        if os.path.exists(img_dir):
+            # Lista todos os arquivos com extensão .png no diretório de imagens
+            image_files = [f for f in os.listdir(img_dir) if f.lower().endswith('.png')]
             
-        # Listar todos os arquivos PNG na pasta
-        image_files = [f for f in os.listdir(IMAGES_DIR) if f.lower().endswith(".png")]
-        logger.info(f"Encontradas {len(image_files)} imagens em {IMAGES_DIR}")
-        return image_files
-    except Exception as e:
-        logger.error(f"Erro ao obter imagens disponíveis: {e}")
-        return []
+            if image_files:
+                logger.info(f"Encontradas {len(image_files)} imagens no diretório {img_dir}")
+                # Armazena apenas os nomes dos arquivos (não os caminhos completos)
+                available_images = image_files
+                return available_images
+    
+    logger.warning("Nenhuma imagem encontrada em nenhum dos diretórios possíveis")
+    return []
 
+def get_image_by_exact_name(image_name: str) -> Optional[Dict[str, str]]:
+    """
+    Busca uma imagem pelo nome exato (com ou sem extensão).
+    
+    Args:
+        image_name (str): Nome da imagem a ser buscada (com ou sem a extensão)
+        
+    Returns:
+        Optional[Dict[str, str]]: Dicionário com a URL da imagem encontrada ou None se não encontrada
+    """
+    # Certifica-se de que temos as imagens carregadas
+    image_files = get_available_images()
+    
+    # Remove a extensão .png, se presente
+    if image_name.lower().endswith('.png'):
+        search_name = image_name[:-4]
+    else:
+        search_name = image_name
+    
+    # Busca exata - primeiro tenta encontrar uma correspondência exata
+    for filename in image_files:
+        name_without_ext = os.path.splitext(filename)[0]
+        
+        # Verifica se o nome corresponde exatamente (case sensitive)
+        if name_without_ext == search_name:
+            # Construir a URL para a imagem no diretório static
+            image_url = f"/images/{filename}"
+            logger.info(f"Imagem encontrada com correspondência exata: {filename}")
+            return {"image_url": image_url, "message": f"Imagem encontrada: {name_without_ext}"}
+    
+    # Busca case-insensitive - se não encontrar uma correspondência exata
+    for filename in image_files:
+        name_without_ext = os.path.splitext(filename)[0]
+        
+        # Verifica se o nome corresponde ignorando case
+        if name_without_ext.lower() == search_name.lower():
+            # Construir a URL para a imagem no diretório static
+            image_url = f"/images/{filename}"
+            logger.info(f"Imagem encontrada com correspondência case-insensitive: {filename}")
+            return {"image_url": image_url, "message": f"Imagem encontrada: {name_without_ext}"}
+    
+    # Se não encontrar nenhuma correspondência
+    logger.warning(f"Nenhuma imagem encontrada com o nome: {image_name}")
+    return None
 
 async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
     """
@@ -61,7 +152,7 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
     """
     try:
         # Obter lista atualizada de imagens
-        available_images = await get_available_images()
+        available_images = get_available_images()
         if not available_images:
             logger.warning("Não há imagens disponíveis para seleção")
             return None
@@ -166,7 +257,7 @@ if __name__ == "__main__":
     
     async def test_script():
         # Listar imagens disponíveis
-        images = await get_available_images()
+        images = get_available_images()
         print(f"Imagens disponíveis: {len(images)}")
         for img in images[:5]:  # Mostrar apenas as 5 primeiras para exemplo
             print(f" - {img}")
