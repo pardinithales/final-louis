@@ -17,8 +17,8 @@ from backend.app.services.vector_store import get_vector_store_service
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Caminho para a pasta chapters
-CHAPTERS_DIR = "../chapters"
+# Caminho para a pasta chapters (relativo à raiz do projeto)
+CHAPTERS_DIR = "chapters"
 
 async def load_chapters_data():
     """Carrega os arquivos da pasta chapters no sistema."""
