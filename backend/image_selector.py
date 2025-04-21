@@ -158,6 +158,7 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
             "RETORNO OBRIGATÓRIO:\n"
             "• Apenas o nome EXATO do arquivo selecionado, com a extensão .png;\n"
             "• Sem texto adicional, sem explicações, sem formatação especial.\n\n"
+            "CHECAGEM DUPLA: NÃO RETORNE NADA DE PONS SE FOR MIDBRAIN ETC. PREFIRA A ARTERIA CEREBRAL POSTERIOR ETC.\n\n"
             "LISTA DE ARQUIVOS DISPONÍVEIS:\n"
             f"{', '.join(available_images)}"
         )
