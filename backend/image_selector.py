@@ -112,7 +112,7 @@ def get_image_by_exact_name(image_name: str) -> Optional[Dict[str, str]]:
     # Busca case-insensitive no dicionário
     key = f"{search_name}.png".lower()
     if key in image_name_map:
-        real_name = image_name_map[key]
+        real_name = image_name_map[key].lower()
         image_url = f"/images/{real_name}"
         logger.info(f"Imagem encontrada (case-insensitive): {real_name}")
         return {"image_url": image_url, "message": f"Imagem encontrada: {real_name}"}
@@ -174,7 +174,7 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         # Busca case-insensitive no dicionário
         key = response.lower()
         if key in image_name_map:
-            real_name = image_name_map[key]
+            real_name = image_name_map[key].lower()
             logger.info(f"Imagem selecionada com sucesso (case-insensitive): {real_name}")
             return real_name
         else:
