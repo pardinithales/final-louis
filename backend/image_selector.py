@@ -181,6 +181,16 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         # Extrair resposta
         response = completion.choices[0].message.content.strip()
         
+        # -------------------------------
+        # Normalizar extensão do arquivo
+        # -------------------------------
+        # Garante que exista **somente** uma extensão .png no final da string
+        # Remove repetições (ex.: "img.png.png" → "img.png") ou adiciona se faltar
+        if re.search(r"(?i)(\.png){2,}$", response):  # duas ou mais ocorrências
+            response = re.sub(r"(?i)(\.png)+$", ".png", response)
+        elif not response.lower().endswith('.png'):
+            response = f"{response}.png"
+        
         # Verificar se a resposta é um dos arquivos disponíveis
         if response in available_images:
             logger.info(f"Imagem selecionada com sucesso: {response}")
