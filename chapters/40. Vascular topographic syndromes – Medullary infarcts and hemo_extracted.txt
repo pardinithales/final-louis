@@ -1,0 +1,173 @@
+N-Question: Patient presents with ipsilateral trigeminal sensory changes, contralateral limb/body sensory changes. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Crossed (ipsilateral trigeminal–contralateral limb/body) sensory changes are a classical pattern in lateral medullary infarction (LMI), caused by occlusion of penetrating branches from the distal vertebral artery (VA) or posterior inferior cerebellar artery (PICA) involving the spinothalamic tract, descending trigeminal tract, and ascending secondary trigeminal fibers in the lateral medulla.
+
+L-Question: Patient presents with ipsilateral trigeminal sensory changes, contralateral limb/body sensory changes. Where is the lesion located?
+L-Answer: involvement of the spinothalamic tract, descending trigeminal tract, and ascending secondary trigeminal fibers
+
+S-Question: Patient presents with ipsilateral trigeminal sensory changes, contralateral limb/body sensory changes. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with distal VA stenoocclusive disease... Intrinsic PICA disease
+
+
+N-Question: Patient presents with ipsilateral tingling sensations, lemniscal sensory deficits. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI) patients, additional ipsilateral tingling sensations, often associated with lemniscal sensory deficits, are related to involvement of the lowermost medulla oblongata, explained by partial involvement of lemniscal sensory fibers at the uppermost part of the fasciculus cuneatus or crossing fibers to the medial lemniscus, typically due to occlusion of VA or PICA branches.
+
+L-Question: Patient presents with ipsilateral tingling sensations, lemniscal sensory deficits. Where is the lesion located?
+L-Answer: involvement of the lowermost medulla oblongata... partial involvement of lemniscal sensory fibers at the uppermost part of the fasciculus cuneatus or crossing fibers to the medial lemniscus
+
+S-Question: Patient presents with ipsilateral tingling sensations, lemniscal sensory deficits. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+
+N-Question: Patient presents with paralysis of the ipsilateral palate, pharynx and larynx, dysphagia, dysarthria, hoarseness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI), involvement of the nucleus ambiguus results in paralysis of the ipsilateral palate, of the pharynx and larynx producing dysphagia, and dysarthria and hoarseness, caused by occlusion of penetrating branches from the distal VA or PICA.
+
+L-Question: Patient presents with paralysis of the ipsilateral palate, pharynx and larynx, dysphagia, dysarthria, hoarseness. Where is the lesion located?
+L-Answer: Involvement of the nucleus ambiguus
+
+S-Question: Patient presents with paralysis of the ipsilateral palate, pharynx and larynx, dysphagia, dysarthria, hoarseness. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+
+N-Question: Patient presents with constricted pupil, ipsilateral palpebral fissure narrowing. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Horner’s syndrome, often presenting with constricted pupil with ipsilateral palpebral fissure narrowing, is frequent in lateral medullary infarction (LMI) and caused by involvement of the descending sympathetic fibers in the lateral reticular substance due to occlusion of distal VA or PICA branches.
+
+L-Question: Patient presents with constricted pupil, ipsilateral palpebral fissure narrowing. Where is the lesion located?
+L-Answer: involvement of the descending sympathetic fibers in the lateral reticular substance
+
+S-Question: Patient presents with constricted pupil, ipsilateral palpebral fissure narrowing. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+L-Question: Patient presents with facial anhidrosis. Where is the lesion located?
+L-Answer: involvement of the descending sympathetic fibers in the lateral reticular substance
+
+
+N-Question: Patient presents with skew deviation with the ipsilateral eye positioned down, ocular torsion, head tilt. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI), skew deviation, with the ipsilateral eye positioned down, ocular torsion accompanied by head tilt (ocular tilt reaction) are caused by dysfunctional vestibuloocular reflex pathways due to occlusion of distal VA or PICA branches.
+
+L-Question: Patient presents with skew deviation with the ipsilateral eye positioned down, ocular torsion, head tilt. Where is the lesion located?
+L-Answer: dysfunctional vestibuloocular reflex pathways
+
+S-Question: Patient presents with skew deviation with the ipsilateral eye positioned down, ocular torsion, head tilt. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+L-Question: Patient presents with blurred vision, diplopia, oscillopsia or tilting of visual images. Where is the lesion located?
+L-Answer: dysfunctional vestibuloocular reflex pathways
+
+
+N-Question: Patient presents with ipsilateral trigeminal sensory symptoms. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI), patients with deep, medial lesions tend to have ipsilateral trigeminal sensory symptoms, caused by occlusion of distal VA or PICA branches affecting the lateral medulla.
+
+L-Question: Patient presents with ipsilateral trigeminal sensory symptoms. Where is the lesion located?
+L-Answer: deep, medial lesions [within the lateral medulla]
+
+S-Question: Patient presents with ipsilateral trigeminal sensory symptoms. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+
+N-Question: Patient presents with a sensory gradient that is worse in the leg. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI), lateral lesions are associated with a sensory gradient that is worse in the leg, caused by occlusion of distal VA or PICA branches affecting the lateral medulla.
+
+L-Question: Patient presents with a sensory gradient that is worse in the leg. Where is the lesion located?
+L-Answer: lateral lesions [within the lateral medulla]
+
+S-Question: Patient presents with a sensory gradient that is worse in the leg. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+
+N-Question: Patient presents with a bilateral trigeminal sensory pattern. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In lateral medullary infarction (LMI), a large, wide lesion is associated with a bilateral trigeminal sensory pattern, caused by occlusion of distal VA or PICA branches affecting the lateral medulla.
+
+L-Question: Patient presents with a bilateral trigeminal sensory pattern. Where is the lesion located?
+L-Answer: a large, wide lesion [within the lateral medulla]
+
+S-Question: Patient presents with a bilateral trigeminal sensory pattern. What is the implicated artery?
+S-Answer: distal VA stenoocclusive disease... PICA disease
+
+
+N-Question: Patient presents with contralateral hemiplegia sparing the face, contralateral loss of deep sensation, ipsilateral hypoglossal paralysis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Medial medullary infarction (MMI) presents with Déjerine's triad: contralateral hemiplegia sparing the face, contralateral loss of deep sensation, and ipsilateral hypoglossal paralysis, typically caused by occlusion of penetrating branches from the anterior spinal artery (ASA) or distal vertebral artery (VA) affecting the medial medulla.
+
+L-Question: Patient presents with contralateral hemiplegia sparing the face, contralateral loss of deep sensation, ipsilateral hypoglossal paralysis. Where is the lesion located?
+L-Answer: medial medulla
+
+S-Question: Patient presents with contralateral hemiplegia sparing the face, contralateral loss of deep sensation, ipsilateral hypoglossal paralysis. What is the implicated artery?
+S-Answer: thrombotic occlusion of the ASA and adjacent VA
+
+
+N-Question: Patient presents with contralateral hemiparesis sparing the face. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Contralateral hemiparesis sparing the face is the most characteristic sign of medial medullary infarction (MMI), caused by occlusion of penetrating branches from the ASA or distal VA affecting the pyramidal tract in the medial medulla.
+
+L-Question: Patient presents with contralateral hemiparesis sparing the face. Where is the lesion located?
+L-Answer: medial medulla
+
+S-Question: Patient presents with contralateral hemiparesis sparing the face. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA or VA–BA junction... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+L-Question: Patient presents with facial paresis. Where is the lesion located?
+L-Answer: involvement of yet uncrossed corticobulbar fibers directed to the contralateral cranial nuclei at the upper medulla oblongata
+
+L-Question: Patient presents with quadriparesis. Where is the lesion located?
+L-Answer: medial medulla [often bilateral lesions]
+
+
+N-Question: Patient presents with ipsilateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In medial medullary infarction (MMI), ipsilateral hemiparesis may rarely occur due to a very caudally located lesion involving the crossed pyramidal tract, caused by occlusion of penetrating branches from the ASA or distal VA.
+
+L-Question: Patient presents with ipsilateral hemiparesis. Where is the lesion located?
+L-Answer: a very caudally located lesion involving the crossed pyramidal tract
+
+S-Question: Patient presents with ipsilateral hemiparesis. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+
+N-Question: Patient presents with ipsilateral hypoglossal nerve palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ipsilateral hypoglossal nerve palsy is a valuable localizing sign in medial medullary infarction (MMI), caused by occlusion of penetrating branches from the ASA or distal VA affecting the hypoglossal nucleus or nerve fascicles in the medial medulla.
+
+L-Question: Patient presents with ipsilateral hypoglossal nerve palsy. Where is the lesion located?
+L-Answer: medial medulla
+
+S-Question: Patient presents with ipsilateral hypoglossal nerve palsy. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+L-Question: Patient presents with clumsy tongue movements, contralateral tongue deviation. Where is the lesion located?
+L-Answer: medial medulla
+
+
+N-Question: Patient presents with tingling sensation, sensory loss in hemibody/limbs below the ear or neck, facial sensory symptoms, lemniscal sensory deficits, slight and transient impairment of pain/temperature perception. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sensory dysfunction in medial medullary infarction (MMI) typically includes tingling sensation in the hemibody/limbs below the ear or neck, sometimes extending to the face (due to ascending trigeminal sensory tract involvement), with characteristic lemniscal sensory deficits and occasional slight/transient pain/temperature impairment (spinoreticulothalamic system involvement), caused by occlusion of penetrating branches from the ASA or distal VA affecting the medial medulla.
+
+L-Question: Patient presents with tingling sensation, sensory loss in hemibody/limbs below the ear or neck, facial sensory symptoms, lemniscal sensory deficits, slight and transient impairment of pain/temperature perception. Where is the lesion located?
+L-Answer: medial medulla... ascending trigeminal sensory tract... spinoreticulothalamic system
+
+S-Question: Patient presents with tingling sensation, sensory loss in hemibody/limbs below the ear or neck, facial sensory symptoms, lemniscal sensory deficits, slight and transient impairment of pain/temperature perception. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+
+N-Question: Patient presents with ipsilesional nystagmus, ocular lateropulsion to the contralateral side (contrapulsion). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In medial medullary infarction (MMI), nystagmus is mostly ipsilesional, and ocular lateropulsion is to the contralateral side (contrapulsion), related to lesions involving neural pathways connecting the inferior olivary nucleus, cerebellar Purkinje cells, fastigial nucleus, and paramedian pontine reticular formation (damage to climbing fibers before decussation), caused by occlusion of penetrating branches from the ASA or distal VA affecting the medial medulla.
+
+L-Question: Patient presents with ipsilesional nystagmus, ocular lateropulsion to the contralateral side (contrapulsion). Where is the lesion located?
+L-Answer: medial medulla... lesions involving neural pathways connecting the inferior olivary nucleus, cerebellar Purkinje cells, fastigial nucleus, and paramedian pontine reticular formation... climbing fibers before decussation
+
+S-Question: Patient presents with ipsilesional nystagmus, ocular lateropulsion to the contralateral side (contrapulsion). What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+
+N-Question: Patient presents with upbeat nystagmus. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Upbeat nystagmus observed in medial medullary infarction (MMI) may be related to lesions involving the NPH, the nucleus of Roller, the nucleus intercalates, or involvement of the vestibuloocular reflex (VOR) pathways damaging the decussating fibers from both anterior semicircular canals to ocular motor nuclei at the MLF in the rostral medulla oblongata, caused by occlusion of penetrating branches from the ASA or distal VA.
+
+L-Question: Patient presents with upbeat nystagmus. Where is the lesion located?
+L-Answer: NPH, the nucleus of Roller, and the nucleus intercalates... vestibuloocular reflex (VOR) pathways... decussating fibers from both anterior semicircular canals to ocular motor nuclei at the MLF in the rostral medulla oblongata
+
+S-Question: Patient presents with upbeat nystagmus. What is the implicated artery?
+S-Answer: occlusion of penetrating branches associated with an atherosclerotic distal VA... occlusion of perforating vessels without VA disease... Anterior spinal artery occlusion
+
+
+N-Question: Patient presents with a combination of LMI and MMI symptoms, including ipsilateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemimedullary syndrome presents with a combination of symptoms found in LMI and MMI; usual etiologies are VA atherosclerosis or dissection. VA dissection more often produces more caudal infarcts with ipsilateral hemiparesis affecting the hemimedulla.
+
+L-Question: Patient presents with a combination of LMI and MMI symptoms, including ipsilateral hemiparesis. Where is the lesion located?
+L-Answer: Hemimedulla... caudal infarcts
+
+S-Question: Patient presents with a combination of LMI and MMI symptoms, including ipsilateral hemiparesis. What is the implicated artery?
+S-Answer: VA atherosclerosis or dissection

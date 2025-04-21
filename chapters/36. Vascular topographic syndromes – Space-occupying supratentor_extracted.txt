@@ -1,0 +1,11 @@
+N-Question: Patient presents with severe hemiparesis or hemiplegia contralateral, hemihypesthesia contralateral, hemianopia contralateral, a positive Babinski’s sign contralateral, head and eye deviation ipsilateral to the brain lesion, accompanied by global aphasia or hemineglect depending on which hemisphere is affected. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: At initial presentation, the typical clinical syndrome consists of severe hemiparesis or hemiplegia, hemihypesthesia, hemianopia (effect on the posterior part of the MCA territory) and a positive Babinski’s sign contralateral, as well as head and eye deviation ipsilateral to the brain lesion, accompanied by global aphasia or hemineglect depending on which hemisphere is affected. This describes malignant MCA stroke involving the middle cerebral artery (MCA) territory.
+
+S-Question: Patient presents with malignant MCA stroke. What specific vessel occlusions are typical etiologies?
+S-Answer: The typical etiology is a thrombotic or embolic occlusion of the distal internal carotid artery (ICA) or the proximal MCA (segments M1 or M2)
+
+L-Question: Patient presents with malignant MCA stroke. Where might the infarction extend beyond the primary MCA territory?
+L-Answer: or (pan)-hemispheric when an adjacent territory, of the anterior (ACA) or posterior cerebral artery (PCA), for instance, is incorporated as well.
+
+L-Question: Patient presents with enlargement of the contralateral pupil first and an additional ipsilateral hemiparesis following a large hemispheric infarction. Where is the lesion causing these specific signs located?
+L-Answer: compression of the contralateral cerebral peduncle by the shifting brain tissue causes enlargement of the contralateral pupil first and an additional ipsilateral hemiparesis

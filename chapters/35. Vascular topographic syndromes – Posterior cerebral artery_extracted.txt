@@ -1,0 +1,296 @@
+N-Question: Patient presents with transient spells involving loss of vision to one side or a homonymous hole or scotoma in the visual field, sometimes with flashes of light, striped vision, colored objects, or geometric objects in one visual field. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with PCA stenosis may have transient ischemic attacks TIAs alone, or they may precede infarction. The TIAs are predominantly visual and sensory. Visual symptoms are the most common and can be negative in nature, i.e., loss of vision or positive taking the form of photopsias and visual illusions. Patients may describe a temporary hemianopic field defect in which they suddenly realize that they cannot see to one side; they may describe a homonymous hole or scotoma in the visual field. Other patients described flashes of light, striped vision, colored objects, or geometric objects in one visual field.
+
+S-Question: Patient presents with transient spells involving flashes of light, striped vision, colored objects, or geometric objects in one visual field. What is the implicated artery?
+S-Answer: PCA stenosis
+
+N-Question: Patient presents with transient spells of paresthesias, most often involving the face and hand, but sometimes affecting the arm and leg, or face, arm, and leg, or transient numbness and loss of feeling. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Paresthesias are also relatively common, most often involving the face and hand, but they can affect the arm and leg, or face, arm, and leg. Transient spells of numbness and loss of feeling are also common. Occasional patients with PCA stenosis report limb clumsiness, light-headed dizzy feelings, and brief periods of bewilderment and confusion.
+
+S-Question: Patient presents with transient spells of paresthesias involving the face and hand. What is the implicated artery?
+S-Answer: PCA stenosis
+
+S-Question: Patient presents with transient spells of limb clumsiness, light-headed dizzy feelings, and brief periods of bewilderment and confusion. What is the implicated artery?
+S-Answer: PCA stenosis
+
+N-Question: Patient presents with hemiplegia, partial or complete ipsilateral third nerve palsy, bilateral ptosis, loss of vertical gaze, lethargy, and abulia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The main clinical feature distinguishing proximal PCA occlusion from the other types of PCA strokes is hemiplegia. Paralysis is due to ischemia of the cerebral peduncle, which is supplied by the paramedian mesencephalic and the peduncular perforating arteries. Partial or complete ipsilateral third nerve palsy, bilateral ptosis, loss of vertical gaze, lethargy, and abulia are variable features associated with proximal PCA occlusion.
+
+L-Question: Patient presents with hemiplegia. Where is the lesion located?
+L-Answer: ischemia of the cerebral peduncle
+
+S-Question: Patient presents with hemiplegia due to ischemia of the cerebral peduncle. What is the implicated artery?
+S-Answer: proximal PCA occlusion... supplied by the paramedian mesencephalic and the peduncular perforating arteries
+
+N-Question: Patient presents with contralateral hemiparesis, homonymous hemianopia, hemispatial neglect, sensory loss with sensory inattention, and, if the left side is affected, aphasia, mimicking an MCA stroke but potentially with intact repetition, fading voice, or oculomotor signs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sometimes occlusion of the precommunal portion of the PCA can simulate the clinical picture of a middle cerebral artery (MCA) stroke. Chambers et al. reported a series of 12 such patients. The majority of their patients had contralateral hemiparesis, homonymous hemianopia, hemispatial neglect, and sensory loss with sensory inattention. The patients with left PCA infarcts were also aphasic. Intact repetition, fading or decreased voice volume, and presence of oculomotor signs secondary to the midbrain involvement suggests that the lesion involves the PCA rather than the MCA territory.
+
+S-Question: Patient presents with contralateral hemiparesis, homonymous hemianopia, hemispatial neglect, and sensory loss with sensory inattention. What is the implicated artery?
+S-Answer: precommunal portion of the PCA
+
+L-Question: Patient presents with contralateral hemiparesis, homonymous hemianopia, hemispatial neglect, and sensory loss with sensory inattention, potentially mimicking an MCA stroke. Where is the lesion located?
+L-Answer: precommunal portion of the PCA... midbrain involvement
+
+N-Question: Patient presents with a homonymous quadrantanopia or horizontal sectoranopia, with or without hemisensory loss and neuropsychological dysfunction such as transcortical aphasia and memory disturbances. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Isolated infarcts in the lateral posterior choroidal artery territory are rare and usually associated with a homonymous quadrantanopia or horizontal sectoranopia, with or without hemisensory loss and neuropsychological dysfunction, such as transcortical aphasia and memory disturbances.
+
+S-Question: Patient presents with a homonymous quadrantanopia or horizontal sectoranopia. What is the implicated artery?
+S-Answer: lateral posterior choroidal artery
+
+L-Question: Patient presents with a homonymous quadrantanopia or horizontal sectoranopia. Where is the lesion located?
+L-Answer: lateral posterior choroidal artery territory
+
+N-Question: Patient presents with sensory symptoms like paresthesias (tingling, prickling, burning, crawling) involving the contralateral face, limbs, and trunk, possibly with slight loss of pinprick, touch, or thermal sensation. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarction in the ventrolateral thalamus most often causes sensory symptoms and signs involving the contralateral face, limbs, and trunk. Paresthesias are most common and usually consist of tingling, prickling, burning, or crawling feelings. Usually there is some loss of pinprick, touch, or thermal sensation, but the objective loss of sensation may be slight.
+
+S-Question: Patient presents with sensory symptoms involving the contralateral face, limbs, and trunk. What is the implicated artery?
+S-Answer: Infarction in the ventrolateral thalamus in the territory of thalamogeniculate artery branches
+
+L-Question: Patient presents with sensory symptoms involving the contralateral face, limbs, and trunk. Where is the lesion located?
+L-Answer: ventrolateral thalamus
+
+N-Question: Patient presents with severe contralateral sensory loss, including marked impairments for position sense, touch, pain, and temperature. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When infarctions include the medial and ventrolateral thalamus, or involve the thalamoparietal white matter fibers traveling to somatosensory areas I and II of the cortex, then a severe sensory loss ensues, with marked impairments for position sense, touch, pain, and temperature.
+
+S-Question: Patient presents with severe contralateral sensory loss. What is the implicated artery?
+S-Answer: PCA branches supplying the medial and ventrolateral thalamus, or thalamoparietal white matter fibers
+
+L-Question: Patient presents with severe contralateral sensory loss. Where is the lesion located?
+L-Answer: medial and ventrolateral thalamus, or involve the thalamoparietal white matter fibers traveling to somatosensory areas I and II of the cortex
+
+N-Question: Patient presents with clumsiness, ataxia, slight hemiparesis, abnormal spontaneous contralateral limb movements (choreic or athetoid), ataxia of the contralateral limbs, and abnormal posture of the contralateral hand (flexion, thumb entrapment). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarction in the lateral thalamus in the territory of thalamogeniculate artery branches also cause motor abnormalities. Clumsiness and ataxia are due to interruption of extrapyramidal fibers...and cerebellofugal fibers...that synapse in the ventrolateral nucleus of the thalamus, as well as to infarction of the posterior limb of the internal capsule adjacent to the ventrolateral thalamus. The results are slight hemiparesis, abnormal spontaneous contralateral limb movements that are often choreic or athetoid, ataxia of the contralateral limbs, and abnormal posture of the contralateral hand, with flexion and entrapment of the thumb in the fist.
+
+S-Question: Patient presents with clumsiness, ataxia, slight hemiparesis, and abnormal contralateral limb movements. What is the implicated artery?
+S-Answer: thalamogeniculate artery branches
+
+L-Question: Patient presents with clumsiness, ataxia, slight hemiparesis, and abnormal contralateral limb movements. Where is the lesion located?
+L-Answer: lateral thalamus...ventrolateral nucleus of the thalamus...posterior limb of the internal capsule adjacent to the ventrolateral thalamus
+
+N-Question: Patient develops severe pain, burning, or dysesthetic feelings involving parts of the contralateral limbs or trunk weeks or months after a stroke, often increased by touch or movement, sometimes limited to part of the contralateral hemibody along with sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with ventrolateral thalamic infarction or ischemia including the thalamoparietal pedicle, pain may develop weeks or months after the stroke. Pain, burning, or dysesthetic feelings can be severe and can involve any parts of the contralateral limbs or trunk. Pain is usually increased by touch or movement of the affected limbs. The sensory loss and pain may be limited to any part of the contralateral hemibody.
+
+S-Question: Patient develops severe pain involving parts of the contralateral limbs or trunk weeks or months after a stroke. What is the implicated artery?
+S-Answer: PCA branches causing ventrolateral thalamic infarction or ischemia
+
+L-Question: Patient develops severe pain involving parts of the contralateral limbs or trunk weeks or months after a stroke. Where is the lesion located?
+L-Answer: ventrolateral thalamic infarction or ischemia including the thalamoparietal pedicle
+
+N-Question: Patient presents with a contralateral superior quadrantanopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Superior quadrantanopias are caused by infarction of the lower bank of the striate cortex or the inferior optic radiations in the temporal occipital lobes.
+
+S-Question: Patient presents with a contralateral superior quadrantanopia. What is the implicated artery?
+S-Answer: PCA branches supplying the lower bank of the striate cortex or the inferior optic radiations
+
+L-Question: Patient presents with a contralateral superior quadrantanopia. Where is the lesion located?
+L-Answer: lower bank of the striate cortex or the inferior optic radiations in the temporal occipital lobes
+
+N-Question: Patient presents with a contralateral inferior quadrantanopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: An inferior quadrantanopia is due to infarction of the upper calcarine bank or involvement of the upper optic radiations in the inferior parietal lobe or occipital lobe.
+
+S-Question: Patient presents with a contralateral inferior quadrantanopia. What is the implicated artery?
+S-Answer: PCA branches supplying the upper calcarine bank or upper optic radiations
+
+L-Question: Patient presents with a contralateral inferior quadrantanopia. Where is the lesion located?
+L-Answer: upper calcarine bank or involvement of the upper optic radiations in the inferior parietal lobe or occipital lobe
+
+N-Question: Patient presents with a homonymous scotoma involving the fixation macular region. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: At times, the visual defect is a homonymous scotoma involving the fixation macular region (occipital-pole infarcts).
+
+S-Question: Patient presents with a homonymous scotoma involving the fixation macular region. What is the implicated artery?
+S-Answer: PCA branches supplying the occipital pole
+
+L-Question: Patient presents with a homonymous scotoma involving the fixation macular region. Where is the lesion located?
+L-Answer: occipital-pole infarcts
+
+N-Question: Patient presents with visual perseverations, seeing objects repeated in the defective hemifield, seeing objects previously viewed after turning gaze to the hemianopic field, or continuing to see an object as an afterimage (palinopsia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Visual perseverations consist of: (i) seeing an object within the field of vision repeated, sometimes multiple times, in the defective hemifield, despite continued gaze fixation; (ii) after turning one’s gaze to the hemianopic field, seeing an object that was formerly in view; and (iii) continuing to see an object (palinopsia) as an afterimage, despite the fact that the object or the viewer has moved. These abnormalities are virtually diagnostic of PCA territory infarction.
+
+S-Question: Patient presents with palinopsia. What is the implicated artery?
+S-Answer: PCA territory infarction
+
+L-Question: Patient presents with palinopsia. Where is the lesion located?
+L-Answer: PCA territory infarction
+
+N-Question: Patient can detect motion in a defective half-field but is unable to tell the color or nature of the object, and has defective perception of distance, depth, and localization of objects in that half-field. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients may be able to detect motion and the presence of an object in a defective half-field, but may be unable to tell either the color or the nature of the object. Perceptions of distance and depth and localization of objects in the half-field may also be defective. These abnormalities are virtually diagnostic of PCA territory infarction.
+
+S-Question: Patient has defective perception of distance and depth in a defective half-field. What is the implicated artery?
+S-Answer: PCA territory infarction
+
+L-Question: Patient has defective perception of distance and depth in a defective half-field. Where is the lesion located?
+L-Answer: PCA territory infarction
+
+N-Question: Patient presents with contralateral sensory and/or motor deficits following a PCA stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sensory (14%–20%) and motor (19%–28%) symptoms have been reported in series of patients with hemispheric PCA strokes. While the sensory deficits in those patients are postulated to be secondary to lateral thalamic involvement, the motor deficits are attributed to ischemia of the thalamocapsular region or cerebral peduncle, underestimated by CT-based series. Another potential explanation for the motor deficits is the development of internal capsule ischemia secondary to occlusion of direct P2 segment branches to this area.
+
+S-Question: Patient presents with contralateral motor deficits following a PCA stroke. What is the implicated artery?
+S-Answer: PCA... direct P2 segment branches
+
+L-Question: Patient presents with contralateral sensory deficits following a PCA stroke. Where is the lesion located?
+L-Answer: lateral thalamic involvement
+
+L-Question: Patient presents with contralateral motor deficits following a PCA stroke. Where is the lesion located?
+L-Answer: ischemia of the thalamocapsular region or cerebral peduncle... internal capsule ischemia
+
+N-Question: Patient presents with alexia without agraphia: normal writing, speech, and spelling, but inability to read words/sentences and name colors, possibly able to read letters/numbers. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In the syndrome of alexia without agraphia, patients write, speak, and spell normally, but fail to read words and sentences and cannot name colors. They may be able to read letters and numbers. The responsible lesions usually involve the splenium of the corpus callosum or white matter fibers in the parietooccipital region that intercept the radiations from the corpus callosum.
+
+S-Question: Patient presents with alexia without agraphia. What is the implicated artery?
+S-Answer: left PCA branches
+
+L-Question: Patient presents with alexia without agraphia. Where is the lesion located?
+L-Answer: splenium of the corpus callosum or white matter fibers in the parietooccipital region
+
+N-Question: Patient presents with alexia with agraphia: abnormal reading, writing, and spelling abilities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with alexia with agraphia, reading, writing, and spelling abilities are all abnormal. The responsible infarct usually involves or undercuts the angular gyrus region. Left-sided PCA territory infarcts can cause this syndrome if they are large and involve the white matter of the inferior parietal lobe adjacent to the angular gyrus.
+
+S-Question: Patient presents with alexia with agraphia. What is the implicated artery?
+S-Answer: Left-sided PCA territory infarcts
+
+L-Question: Patient presents with alexia with agraphia. Where is the lesion located?
+L-Answer: involves or undercuts the angular gyrus region... white matter of the inferior parietal lobe adjacent to the angular gyrus
+
+N-Question: Patient presents with elements of Gerstmann’s syndrome (dyscalculia, right–left confusion, finger agnosia, constructional apraxia, dysgraphia) and possibly conduction aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Elements of Gerstmann’s syndrome (dyscalculia, right–left confusion, finger agnosia, constructional apraxia, dysgraphia) are also often present. Patients with inferior parietal lobe lesions may also have elements of conduction aphasia, characterized by the use of paraphasias and abnormal speech repetition.
+
+S-Question: Patient presents with elements of Gerstmann’s syndrome. What is the implicated artery?
+S-Answer: Left-sided PCA territory infarcts
+
+L-Question: Patient presents with elements of Gerstmann’s syndrome. Where is the lesion located?
+L-Answer: inferior parietal lobe lesions
+
+N-Question: Patient with left hemisphere infarction and right hemianopia makes reading errors toward the right side of words (paralexia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Paralexia, in patients with left hemisphere infarctions, is a term that describes reading errors toward the ends (right sides) of words. Having seen the beginning of a word, a patient with right hemianopia may guess or assume the ending of the word.
+
+S-Question: Patient presents with paralexia and right hemianopia. What is the implicated artery?
+S-Answer: left hemisphere infarctions... left PCA
+
+L-Question: Patient presents with paralexia and right hemianopia. Where is the lesion located?
+L-Answer: left hemisphere infarctions
+
+N-Question: Patient presents with transcortical sensory aphasia: fluent speech with paraphasic errors/jargon, poor naming, poor comprehension, but intact repetition. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients with large infarcts that include the territory of the left posterior temporal artery may have...transcortical sensory aphasia. In patients with transcortical sensory aphasia, speech is fluent, but contains paraphasic errors and, occasionally, jargon. Naming ability is poor, and speech is often circumlocutory. Although patients may be unable to understand what is said, they retain the ability to repeat language, the hallmark of transcortical aphasia.
+
+S-Question: Patient presents with transcortical sensory aphasia. What is the implicated artery?
+S-Answer: left posterior temporal artery
+
+L-Question: Patient presents with transcortical sensory aphasia. Where is the lesion located?
+L-Answer: territory of the left posterior temporal artery
+
+N-Question: Patient presents with anomic (amnestic) aphasia: word-finding and naming difficulties, but normal repetition, comprehension, reading, writing, and spelling. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with anomic aphasia, sometimes called amnestic aphasia, have word-finding and naming difficulties, but retain normal abilities for speech repetition and comprehension and normal reading, writing, and spelling skills.
+
+S-Question: Patient presents with anomic aphasia. What is the implicated artery?
+S-Answer: left-sided PCA territory infarction
+
+L-Question: Patient presents with anomic aphasia. Where is the lesion located?
+L-Answer: left-sided PCA territory infarction
+
+N-Question: Patient presents with visual agnosia: difficulty recognizing and naming objects presented visually, but able to identify them via touch or sound. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Visual agnosia can also occur in patients with left-sided PCA territory infarction, usually in patients who also have alexia without agraphia and color-naming deficits. In this syndrome, patients have difficulty in recognizing and naming objects presented visually, but can identify the same objects when the presentation is tactile or auditory.
+
+S-Question: Patient presents with visual agnosia. What is the implicated artery?
+S-Answer: left-sided PCA territory infarction
+
+L-Question: Patient presents with visual agnosia. Where is the lesion located?
+L-Answer: left-sided PCA territory infarction
+
+N-Question: Patient presents with persistent amnesia, unable to form new memories or learn new techniques, following a left-sided stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarctions of the left medial temporal lobe, including the hippocampus and adjacent white matter in the territory of the temporal arteries, can cause persistent amnesia that can last at least six months. These patients cannot make new memories or readily learn new techniques.
+
+S-Question: Patient presents with persistent amnesia after a left-sided stroke. What is the implicated artery?
+S-Answer: left PCA temporal arteries
+
+L-Question: Patient presents with persistent amnesia after a left-sided stroke. Where is the lesion located?
+L-Answer: left medial temporal lobe, including the hippocampus and adjacent white matter
+
+N-Question: Patient presents with neglect of the contralateral visual field following a right-sided stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Neglect of the contralateral visual field occurs more often with right-sided PCA infarcts than with left.
+
+S-Question: Patient presents with neglect of the contralateral visual field. What is the implicated artery?
+S-Answer: right-sided PCA infarcts
+
+L-Question: Patient presents with neglect of the contralateral visual field following a right-sided stroke. Where is the lesion located?
+L-Answer: right hemisphere PCA territory
+
+N-Question: Patient presents with constructional apraxia after a right-sided stroke, omitting left-sided elements in drawings and displaying incorrect sizes, angles, and proportions. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Some patients with infarcts that include the parietal and temporal lobes also have constructional apraxia. Their drawings often omit the left-sided constituents, and sizes, angles, and proportions are often wrongly displayed.
+
+S-Question: Patient presents with constructional apraxia omitting left-sided constituents. What is the implicated artery?
+S-Answer: right-sided PCA infarcts
+
+L-Question: Patient presents with constructional apraxia omitting left-sided constituents. Where is the lesion located?
+L-Answer: infarcts that include the parietal and temporal lobes
+
+N-Question: Patient is disoriented to place and believes they are in a duplicate location far away (reduplicative paramnesia) after a right-sided stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Some patients with infarctions of the right posterior parietal lobe are quite disoriented to place. They may duplicate their locale, saying that they are in an institution that in reality is located far distant, or that they are in a branch of such an institution. This belief that there are two versions of a geographic location is referred to as reduplicative paramnesia, after the original description by Pick.
+
+S-Question: Patient presents with reduplicative paramnesia. What is the implicated artery?
+S-Answer: right PCA
+
+L-Question: Patient presents with reduplicative paramnesia. Where is the lesion located?
+L-Answer: infarctions of the right posterior parietal lobe
+
+N-Question: Patient presents with defective long-term, nonverbal memory after a right-sided stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with right hippocampal infarcts in the series of Szabo et al. showed defective long-term, nonverbal memory.
+
+S-Question: Patient presents with defective long-term, nonverbal memory. What is the implicated artery?
+S-Answer: right PCA
+
+L-Question: Patient presents with defective long-term, nonverbal memory. Where is the lesion located?
+L-Answer: right hippocampal infarcts
+
+N-Question: Patient presents with cortical blindness, possibly with unawareness or denial of the blindness (Anton's syndrome). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Cortical blindness results from bilateral infarction of the striate cortex. Some cortically blind patients do not recognize or do not admit that they cannot see (Anton’s syndrome).
+
+S-Question: Patient presents with cortical blindness. What is the implicated artery?
+S-Answer: bilateral PCAs
+
+L-Question: Patient presents with cortical blindness. Where is the lesion located?
+L-Answer: bilateral infarction of the striate cortex
+
+N-Question: Patient presents with permanent amnesia, losing the ability to make new memories, following bilateral strokes. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Amnesia can be a permanent sequela of bilateral infarction of the medial temporal lobes. These patients lose the ability to make new memories.
+
+S-Question: Patient presents with permanent amnesia. What is the implicated artery?
+S-Answer: bilateral PCAs
+
+L-Question: Patient presents with permanent amnesia. Where is the lesion located?
+L-Answer: bilateral infarction of the medial temporal lobes
+
+N-Question: Patient presents with upper-quadrant attitudinal hemianopias, abnormal color perception (central achromatopsia), difficulty recognizing faces (prosopagnosia), loss of ability to revisualize object form, and sometimes agitated delirium. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral inferior-bank infarcts result. Patients usually have upper-quadrant attitudinal hemianopias, accompanied by abnormal color perception, difficulty in recognizing faces, loss of the ability to revisualize the form of an object, and sometimes an agitated delirium. Colors may seem drab or washed out, and the environment may seem devoid of color. Patients with color perception abnormalities, central achromatopsia, cannot name or match colors or identify or distinguish hues...Prosopagnosic patients usually cannot match or identify faces...
+
+S-Question: Patient presents with upper-quadrant attitudinal hemianopias and central achromatopsia. What is the implicated artery?
+S-Answer: Bilateral PCAs
+
+L-Question: Patient presents with upper-quadrant attitudinal hemianopias and prosopagnosia. Where is the lesion located?
+L-Answer: Bilateral inferior-bank infarcts...structures below the calcarine fissure are parts of an occipitofugal system...occipital and temporal lobes
+
+N-Question: Patient presents with agitated delirium: restless, hyperactive state, rambling loquacious speech, easy distractibility, difficulty concentrating, sometimes aggressive/combative behavior. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with bilateral (and sometimes unilateral) infarctions involving the lingual and fusiform gyri in the inferior portions of the temporal lobes often manifest a restless, hyperactive state. These patients usually have rambling loquacious speech, easy distractibility, difficulty in concentrating, and sometimes aggressive and combative behavior. This agitated delirium probably results from infarction of the limbic cortex.
+
+S-Question: Patient presents with agitated delirium. What is the implicated artery?
+S-Answer: bilateral (and sometimes unilateral) PCAs
+
+L-Question: Patient presents with agitated delirium. Where is the lesion located?
+L-Answer: infarctions involving the lingual and fusiform gyri in the inferior portions of the temporal lobes...limbic cortex
+
+N-Question: Patient presents with features of Bélint’s syndrome: asimultagnosia (seeing things piecemeal), optic ataxia (inability to guide hand movements visually), and gaze apraxia (inability to direct gaze on command). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral superior-bank infarcts...Patients usually have features of Bélint’s syndrome...Bélint’s syndrome includes asimultagnosia, optic ataxia, and gaze apraxia, but any of the elements can be found alone or can be limited to one visual field. Asimultagnosia is an inability to direct a panoramic view. Patients see things piecemeal...Optic ataxia is an inability to direct hand movements under visual guidance...Apraxia of gaze is an inability to look directly at a position or object on which the patient has been instructed to focus.
+
+S-Question: Patient presents with features of Bélint’s syndrome. What is the implicated artery?
+S-Answer: bilateral PCAs
+
+L-Question: Patient presents with features of Bélint’s syndrome. Where is the lesion located?
+L-Answer: Bilateral superior-bank infarcts...posterior PCA–MCA borderzone regions
+
+N-Question: Patient has difficulty revisualizing directions and relationships (where things are) and is disoriented to location. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with upper-bank lesions often have difficulty in revisualizing directions and relationships (i.e., where objects, people, or places are topographically). They may also be quite disoriented to location, often believing themselves to be in different remote locations that are somehow connected to their actual locations.
+
+S-Question: Patient has difficulty revisualizing directions and relationships. What is the implicated artery?
+S-Answer: bilateral PCAs
+
+L-Question: Patient has difficulty revisualizing directions and relationships. Where is the lesion located?
+L-Answer: upper-bank lesions

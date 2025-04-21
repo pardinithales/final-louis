@@ -1,0 +1,68 @@
+N-Question:Patient presents with motor and sensory involvement of the contralateral extremities, isolated motor dysfunction, isolated sensory loss, or isolated dysphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:Common symptoms of carotid territory ischemia are motor and sensory involvement of the contralateral extremities, isolated motor dysfunction, isolated sensory loss, and least commonly, isolated dysphasia.
+
+S-Question:Patient presents with fractional arm weakness, such as greater involvement of the hand and arm compared to the proximal upper extremity. What is the implicated artery?
+S-Answer:carotid circulation
+
+L-Question:Patient presents with fractional arm weakness, such as greater involvement of the hand and arm compared to the proximal upper extremity. Where is the lesion located?
+L-Answer:the portion of the homunculus representing the hand and arm being in the distal portion of the carotid circulation
+
+S-Question:Patient presents with Hand weakness and dysphasia. What is the implicated artery?
+S-Answer:left ICA disease
+
+N-Question:Patient presents with greater proximal extremity weakness compared to distal extremity weakness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:With internal WS infarction, a different pattern with greater proximal extremity weakness compared to distal extremity weakness is observed.
+
+S-Question:Patient presents with borderzone infarctions. What is the implicated artery?
+S-Answer:90%–99% ICA stenosis
+
+L-Question:Patient presents with greater proximal extremity weakness compared to distal extremity weakness. Where is the lesion located?
+L-Answer:internal WS infarction
+
+N-Question:Patient has evidence of an ipsilateral WS infarct on computed tomography (CT) scanning following ICA occlusion. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:patients with ICA occlusion had evidence of an ipsilateral WS infarct on computed tomography (CT) scanning
+
+S-Question:Patient presents with an ipsilateral WS infarct. What is the implicated artery?
+S-Answer:ICA occlusion
+
+L-Question:Patient presents with an ipsilateral WS infarct. Where is the lesion located?
+L-Answer:ipsilateral WS infarct
+
+S-Question:Patient presents with ipsilateral WS infarcts. What associated condition might be present?
+S-Answer:active heart disease with hypotension and syncope
+
+S-Question:Patient presents with ipsilateral WS infarcts. What associated condition might be present?
+S-Answer:severe contralateral ICA disease
+
+N-Question:Patient presents with attacks that mimic vertebrobasilar territory ischemia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:patients with bilateral ICA occlusions or severe stenosis may present with attacks that mimic vertebrobasilar territory ischemia. In these instances, posterior to anterior flow through the posterior communicating arteries has been observed
+
+S-Question:Patient presents with attacks that mimic vertebrobasilar territory ischemia. What is the implicated artery?
+S-Answer:bilateral ICA occlusions or severe stenosis
+
+S-Question:Patient presents with attacks that mimic vertebrobasilar territory ischemia due to bilateral ICA disease. What collateral pathway might be involved?
+S-Answer:posterior communicating arteries
+
+N-Question:Patient presents with brief jerking movement of the extremities, sometimes confused with focal seizures. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:A somewhat unique type of TIA seen with ICA occlusion or severe stenosis is a limb-shaking TIA. As the term implies, these attacks consist of a brief jerking movement of the extremities that, at times, can be confused with focal seizures.
+
+S-Question:Patient presents with limb-shaking TIAs. What is the implicated artery?
+S-Answer:ICA occlusion or severe stenosis
+
+S-Question:Patient presents with limb shaking. What associated symptom might be present?
+S-Answer:limb weakness
+
+S-Question:Patient presents with limb shaking. What factors might precipitate symptoms?
+S-Answer:symptoms precipitated by rising, exercise, or coughing
+
+N-Question:Patient presents with dilation and tortuosity of the retinal veins. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer:Chronic ischemia to the retina leading to chronic low perfusion can result in widespread retinal ischemia. This physiological condition can be reflected in dilation and tortuosity of the retinal veins. Early stages of this process, sometimes referred to as venous stasis retinopathy (VSR), may be asymptomatic.
+
+L-Question:Patient presents with dilation and tortuosity of the retinal veins due to chronic low perfusion. Where is the lesion located?
+L-Answer:retina
+
+S-Question:Patient presents with venous stasis retinopathy (VSR). What artery flow pattern might be observed?
+S-Answer:reversed flow through the ophthalmic artery
+
+S-Question:Patient presents with venous stasis retinopathy (VSR). What symptoms may develop with progression?
+S-Answer:visual loss with a uveitis-like syndrome and neovascular glaucoma

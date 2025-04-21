@@ -1,0 +1,102 @@
+N-Question: Patient presents with oculomotor or cerebellar signs attributable to a unilateral lesion. Which artery group is involved, which parent artery, and where is the lesion located?
+N-Answer: if a patient presents with oculomotor or cerebellar signs attributable to a unilateral lesion in the anteromedial arteries group arising from the basilar artery in the interpeduncular fossa, penetrating artery disease or a branch occlusion from the basilar artery is most likely.
+
+N-Question: Patient presents with bilateral neurological signs following a stroke. Which specific infarction pattern, artery, and parent artery might be involved?
+N-Answer: With the exception of the paramedian thalamosubthalamic infarction, which can be related to the occlusion of the only thalamomesencephalic artery, bilateral lesions are very likely to be related to a basilar artery lesion or to an embolic mechanism.
+
+N-Question: Patient presents with unilateral third nerve palsy, crossed hemiplegia. Which syndrome explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: unilateral third nerve palsy associated with a crossed hemiplegia (Weber’s syndrome) due to a hematoma affecting the paramedian and lateral midbrain. In infarctions, this syndrome is likely related to occlusions of the posterior cerebral artery in its P1 segment.
+S-Question: Patient presents with unilateral third nerve palsy and crossed hemiplegia (Weber's syndrome). What other signs may be present?
+S-Answer: associated thalamic and occipital lobe signs are common.
+L-Question: Patient presents with unilateral third nerve palsy and crossed hemiplegia (Weber's syndrome). Where is the lesion located?
+L-Answer: paramedian and lateral midbrain
+
+N-Question: Patient presents with third nerve palsy, contralateral cerebellar signs. Which syndrome explains this presentation, and where is the lesion located?
+N-Answer: The combination of third nerve palsy associated with contralateral cerebellar signs is called Claude’s syndrome. It is caused by infarction of the third nerve nucleus or its fibers and of the cerebellothalamic connections when they pass through the red nucleus.
+
+N-Question: Patient presents with third nerve palsy, contralateral involuntary abnormal movements like dystonia, parkinsonism, resting and postural tremor, or chorea affecting the contralateral limbs. Which syndrome explains this presentation, and where is the lesion located?
+N-Answer: The combination of a third nerve palsy with contralateral involuntary abnormal movements like dystonia, parkinsonism, resting and postural tremor, or chorea affecting the contralateral limbs is known as Benedikt’s syndrome. These syndromes are caused by paramedian upper-midbrain strokes damaging the ventromedial mesencephalon, the ventral tegmental area, the nigrostriatal pathway, the superior cerebellar peduncle, and the red nucleus.
+L-Question: Patient presents with Benedikt's syndrome with tremor. Where is the lesion likely located?
+L-Answer: those with tremor had lesions more lateral and dorsal in the substantia nigra, also affecting perirubral and retrorubral areas, involving the rubroolivocerebellorubral loop.
+S-Question: Patient presents with Benedikt's syndrome. Which limbs are generally more affected?
+S-Answer: Distal upper limbs are generally more affected.
+
+N-Question: Patient presents with associated bilateral thalamic and midbrain clinical signs. Which clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Proximal occlusion of this artery [paramedian thalamic/mesencephalic artery] can cause a butterfly-shaped infarct involving the medial thalamus and subthalamus bilaterally and the paramedian upper midbrain. Such patients often present with associated bilateral thalamic and midbrain clinical signs.
+
+N-Question: Patient presents with upward-gaze palsy. What type of lesion and locations explain this presentation?
+N-Answer: Upward-gaze palsies have been related to unilateral or bilateral midbrain infarctions. Infarction of the posterior commissure, the periaqueductal region, and the rostral interstitial nucleus of the medial longitudinal fasciculus (MLF) can cause upwardgaze palsy.
+
+N-Question: Patient presents with downward-gaze palsy. What type of lesion and location explains this presentation?
+N-Answer: In patients with downward-gaze palsy, only bilateral infarcts affecting the upper part of the midbrain have been reported. These discrete bilateral infarcts are located more caudally than the lesions that cause upward-gaze palsies.
+
+N-Question: Patient presents with conjugate vertical-gaze palsy. What type of lesion and location explains this presentation?
+N-Answer: Discrete unilateral infarcts affecting the rostral interstitial nucleus of the MLF may be responsible for a conjugate vertical-gaze palsy.
+S-Question: Patient presents with conjugate vertical-gaze palsy. What broader category of gaze palsy might be related to similar lesions?
+S-Answer: Combined upward- and downward-gaze palsy has been related to bilateral or unilateral midbrain infarcts.
+L-Question: Patient presents with conjugate vertical-gaze palsy. Where is the lesion located?
+L-Answer: rostral interstitial nucleus of the MLF
+
+N-Question: Patient presents with disconjugate vertical-gaze palsies, monocular-elevation palsy, or vertical one-and-a-half syndrome. What type of lesion and location explains this presentation?
+N-Answer: The disconjugate vertical-gaze palsies, monocular-elevation palsy, and vertical one-and-a-half syndrome can be related to an ipsilateral or contralateral discrete unilateral infarct affecting the upper paramedian midbrain.
+
+N-Question: Patient presents with motor or multimodal hemineglect, faciobrachial hypesthesia. Which artery territory is involved, and where is the lesion located?
+N-Answer: If the territory of the thalamomesencephalic artery is involved... motor or multimodal hemineglect, faciobrachial hypesthesia, are frequent.
+S-Question: Patient presents with motor or multimodal hemineglect, faciobrachial hypesthesia due to thalamomesencephalic artery territory involvement. What other symptoms may accompany this?
+S-Answer: the various gaze palsies can be accompanied by other clinical features, mainly behavioral, neuropsychological, and consciousness disturbances. Often there is an initial coma, and subsequent hypersomnia. Akinetic mutism, disorientation to time and place, memory disturbances (anterograde amnesia), ... transcortical motor aphasia are frequent. Delayed athetoid or clonic movements may occur.
+S-Question: Patient presents with motor or multimodal hemineglect, faciobrachial hypesthesia. What is the implicated artery?
+S-Answer: thalamomesencephalic artery
+
+N-Question: Patient presents with hemiparesis, ataxia, and hypesthesia. Which clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: An association of hemiparesis, ataxia, and hypesthesia (hypesthetic ataxic hemiparesis) can be related to an infarction of the dorsolateral midbrain.
+
+N-Question: Patient presents with tetraplegia and mutism, with preserved gaze movements. What clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Bilateral, isolated small infarcts in the lateral midbrain involving the corticospinal tracts have been responsible for tetraplegia and mutism, leaving conscious patients with only gaze movements as a means to communicate (Midbrain locked-in syndrome).
+
+N-Question: Patient presents with contralateral hemiplegia. Which artery occlusion can cause this, and where is the midbrain lesion located?
+N-Answer: occlusion at the origin of the PCA can cause a midbrain infarct affecting the lateral part of the upper midbrain, including the pyramidal tract that is responsible for a contralateral hemiplegia.
+S-Question: Patient presents with contralateral hemiplegia due to PCA occlusion. What other signs may be present?
+S-Answer: association of hemiplegia and neuropsychological and visual disturbances due to the associated thalamic and occipital infarcts.
+S-Question: Patient presents with contralateral hemiplegia due to PCA occlusion. Where is the likely site of arterial occlusion?
+S-Answer: The likely site of arterial occlusion is the proximal part of the P2 segment of the PCA.
+L-Question: Patient presents with contralateral hemiplegia due to PCA occlusion. Where is the midbrain infarct located?
+L-Answer: lateral part of the upper midbrain, including the pyramidal tract
+
+N-Question: Patient presents with unilateral sudden onset or progressive parkinsonism with hypertonia, tremor, and akinesia. What type of lesion and location explains this presentation?
+N-Answer: Unilateral sudden onset or progressive parkinsonism with hypertonia, tremor, and akinesia has been reported after contralateral lacunar infarction affecting the substantia nigra.
+S-Question: Patient presents with unilateral parkinsonism after contralateral lacunar infarction affecting the substantia nigra. How might this respond to treatment?
+S-Answer: poor reaction to dopatherapy.
+L-Question: Patient presents with unilateral parkinsonism. Where is the contralateral lesion located?
+L-Answer: substantia nigra
+
+N-Question: Patient presents with unilateral ataxia of the limbs and rostral midbrain syndromes. Which artery territory is involved, and where is the primary infarct?
+N-Answer: Unilateral ataxia of the limbs related to a cerebellar infarct in the territory of the superior cerebellar artery can be accompanied by various combinations of rostral midbrain syndromes.
+S-Question: Patient presents with unilateral ataxia of the limbs and rostral midbrain syndromes due to SCA territory infarct. What other signs may overshadow the ataxia?
+S-Answer: Cerebellar ataxia is often overshadowed by upper-midbrain and thalamosubthalamic signs.
+S-Question: Patient presents with unilateral ataxia of the limbs and rostral midbrain syndromes due to SCA territory infarct. What could be the cause of the midbrain signs?
+S-Answer: The midbrain signs can be due to either emboli to the superior cerebellar artery, also fragmenting into the rostral basilar artery, or infarction of the midbrain territory of the superior cerebellar artery.
+L-Question: Patient presents with unilateral ataxia of the limbs and rostral midbrain syndromes. Where is the infarct related to the ataxia located?
+L-Answer: cerebellar infarct in the territory of the superior cerebellar artery
+
+N-Question: Patient presents with bilateral cerebellar syndrome, sometimes with midbrain oculomotor signs. Which syndrome explains this presentation, and where is the lesion located?
+N-Answer: The Wernekink commissure syndrome which involves the decussation of the superior cerebellar peduncles in the medial and caudal part of the midbrain is very rare and is characterized by a bilateral cerebellar syndrome, sometimes with midbrain oculomotor signs.
+S-Question: Patient presents with Wernekink commissure syndrome. What delayed signs may occur?
+S-Answer: delayed bulbar olivary hypertrophy and palatal myoclonus.
+L-Question: Patient presents with Wernekink commissure syndrome. Where is the lesion located?
+L-Answer: decussation of the superior cerebellar peduncles in the medial and caudal part of the midbrain
+
+N-Question: Patient presents with contralateral hypoageusia and hearing loss. Where is the lesion located?
+N-Answer: Contralateral hypoageusia and hearing loss have been reported after inferior collicular infarction or hematoma.
+L-Question: Patient presents with contralateral hypoageusia and hearing loss. Where is the lesion located?
+L-Answer: inferior collicular infarction or hematoma
+
+N-Question: Patient presents with upward-gaze palsy and left-sided paresis. Which artery is involved, and where is the lesion located?
+N-Answer: upward-gaze palsy and a left-sided paresis. Magnetic resonance imaging was done and shows a midbrain paramedian infarction and an abnormal flow in the basilar artery. On angiography thirteen hours after onset, a thrombus was shown at the top of the basilar artery.
+S-Question: Patient presents with upward-gaze palsy and left-sided paresis due to top of the basilar occlusion. What were the initial and evolving symptoms?
+S-Answer: presented with vomiting and dizziness. Ten hours later she had a skew deviation. Twelve hours after onset she was drowsy.
+S-Question: Patient presents with upward-gaze palsy and left-sided paresis due to top of the basilar occlusion. What was found on etiological workup?
+S-Answer: Etiological workup found a patent foramen ovale.
+L-Question: Patient presents with upward-gaze palsy and left-sided paresis. Where is the infarct located?
+L-Answer: midbrain paramedian infarction
+S-Question: Patient presents with upward-gaze palsy and left-sided paresis. What is the implicated artery?
+S-Answer: top of the basilar artery

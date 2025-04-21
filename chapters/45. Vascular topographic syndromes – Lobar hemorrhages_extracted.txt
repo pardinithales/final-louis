@@ -1,0 +1,80 @@
+N-Question: Patient presents with contralateral arm weakness, slight contralateral leg weakness, slight contralateral face weakness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Frontal hemorrhages present clinically with prominent limb paresis. The pattern of motor weakness favors the contralateral arm. Leg and face weakness tend to be slight.
+
+L-Question: Patient presents with bifrontal headache, predominating on the side of the hemorrhage. Where is the lesion located?
+L-Answer: Frontal hemorrhages
+
+L-Question: Patient presents with conjugate gaze deviation toward the side of the hematoma. Where is the lesion located?
+L-Answer: Frontal hemorrhages
+
+N-Question: Patient presents with contralateral leg weakness and frontal headache. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with hemorrhages located superiorly, above the frontal horns of the lateral ventricle, frontal headache and contralateral leg weakness predominated.
+
+N-Question: Patient presents with impaired consciousness, hemiparesis, hemisensory loss, and horizontal gaze palsy toward the side of the hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients with inferior frontal hemorrhages, located below the frontal horn of the lateral ventricle, had more severe clinical deficits, with impaired consciousness, hemiparesis, hemisensory loss, and horizontal gaze palsy toward the side of the hemiparesis.
+
+N-Question: Patient presents with abulia, without hemiparesis or aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: anterior frontal hematomas have presented without hemiparesis or aphasia, but rather with mental state abnormalities in the form of abulia.
+
+N-Question: Patient presents with fluent aphasia with poor comprehension, paraphasias, anomia, and a right-sided visual field defect (hemianopia or inferior quadrantanopia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dominant hemisphere hematomas produce a fluent aphasia with poor comprehension, and associated paraphasias and anomia. A right-sided visual field defect, either a hemianopia or an inferior quadrantanopia, generally accompanies posterior temporal hematomas.
+
+L-Question: Patient presents with headache centered in front of the ear or around the eye. Where is the lesion located?
+L-Answer: Temporal hematomas
+
+L-Question: Patient presents with hemiparesis and hemisensory loss associated with fluent aphasia and a right-sided visual field defect. Where is the lesion located?
+L-Answer: posterior temporal hematomas
+
+N-Question: Patient presents with Wernicke’s aphasia and right homonymous hemianopia, preceded by retroauricular headache. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with posterior temporal hematomas had retroauricular headache at onset, and those with left-sided lesions had, in addition, Wernicke’s aphasia and right homonymous hemianopia.
+
+N-Question: Patient presents with confusion without focal neurological signs, or agitated delirium with hyperactivity and pressured speech, preceded by retroauricular headache. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with posterior temporal hematomas had retroauricular headache at onset... In instances of right-sided lesions, the patients were described as having confusion without focal neurological signs. Many such patients have an agitated delirium characterized by hyperactivity and pressured speech that goes from one topic to another.
+
+N-Question: Patient presents with hemiplegia, hemisensory abnormalities, aphasia, hemianopia, and horizontal gaze palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Those that extend medially into the basal ganglia area are accompanied by hemiplegia, hemisensory abnormalities, aphasia, hemianopia, and horizontal gaze palsy, mimicking the clinical profile of large putaminal hemorrhages.
+
+L-Question: Patient presents with hemiplegia, hemisensory abnormalities, aphasia, hemianopia, and horizontal gaze palsy. Where is the lesion located?
+L-Answer: Temporal hematomas with extension to adjacent lobes... Those that extend medially into the basal ganglia area
+
+N-Question: Patient presents with prominent left-sided hemi-inattention. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Right temporal hematomas with extension into the parietal lobe are characterized by prominent left-sided hemi-inattention.
+
+N-Question: Patient presents with severe hemisensory syndromes involving the limbs and trunk, commonly associated with hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Parietal hematomas... Hemisensory syndromes are often severe, generally involving the limbs and trunk, and they are commonly associated with hemiparesis.
+
+L-Question: Patient presents with prominent unilateral headache localized around the temple region. Where is the lesion located?
+L-Answer: Parietal hematomas
+
+L-Question: Patient presents with seizures at onset associated with hemisensory syndrome and hemiparesis. Where is the lesion located?
+L-Answer: Parietal hematomas
+
+N-Question: Patient presents with motor and sensory deficits, homonymous hemianopia, and either aphasia or hemi-inattention depending on laterality. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with anterolateral hemorrhages, motor and sensory deficits predominated, in addition to homonymous hemianopia in half of them. The occurrence of aphasia or hemi-inattention depended on the laterality of the ICH.
+
+N-Question: Patient presents with motor and sensory deficits, homonymous hemianopia, altered consciousness, and either aphasia or hemi-inattention depending on laterality. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with anteromedial hematomas presented with a similar clinical syndrome [motor and sensory deficits predominated, in addition to homonymous hemianopia in half of them. The occurrence of aphasia or hemi-inattention depended on the laterality of the ICH], except for more commonly altered consciousness in those with medially located hematomas, reflecting their frequent extension into the thalamus with distortion of midline structures.
+
+N-Question: Patient presents with constructional apraxia, dressing apraxia, and hemi-inattention, often with seizures at onset. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In posterior hematomas, seizures were common at onset, and the clinical syndromes included constructional apraxia, dressing apraxia, and hemi-inattention.
+
+N-Question: Patient presents with acute awareness of a visual disturbance corresponding to a contralateral homonymous hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Occipital hemorrhages... associated with acute awareness of a visual disturbance which, on examination, corresponds to a contralateral homonymous hemianopia.
+
+L-Question: Patient presents with severe headache in or around the ipsilateral eye associated with contralateral homonymous hemianopia. Where is the lesion located?
+L-Answer: Occipital hemorrhages
+
+L-Question: Patient presents with contralateral sensory extinction to double simultaneous stimulation associated with contralateral homonymous hemianopia. Where is the lesion located?
+L-Answer: Occipital ICH
+
+L-Question: Patient presents with dysgraphia and dyslexia associated with contralateral homonymous hemianopia. Where is the lesion located?
+L-Answer: Occipital ICH
+
+L-Question: Patient presents with alexia without agraphia associated with contralateral homonymous hemianopia. Where is the lesion located?
+L-Answer: Occipital ICH
+
+N-Question: Patient presents with headache, “visual blurring”, and homonymous hemianopia, but without weakness, memory deficits, or decreased mental alertness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients with occipital hemorrhages in a medial location presented with headache and “visual blurring”, and examination showed a homonymous hemianopia in all cases, but without weakness, memory deficits, or decreased mental alertness.
+
+N-Question: Patient presents with mental status abnormalities, agitation, contralateral inattention, and homonymous hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with occipital hematomas that extend to adjacent lobes, and thus often are relatively large, the neurological deficits are more dramatic, including mental status abnormalities, agitation, contralateral inattention, and homonymous hemianopia.

@@ -1,0 +1,134 @@
+N-Question: Patient presents with hemiplegia, hemisensory loss, homonymous hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A complex of hemiplegia, hemisensory loss, and homonymous hemianopia has been traditionally considered the signature of AChA territory infarction.
+
+S-Question: Patient presents with hemiplegia, hemisensory loss, homonymous hemianopia. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with hemiplegia, hemisensory loss, homonymous hemianopia. Where is the lesion located?
+L-Answer: AChA territory
+
+N-Question: Patient presents with stereotyped episodes of motor and sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The capsular warning syndrome consists of stereotyped episodes of motor and sensory loss, attributed to diffusion-weighted changes in the AChA territory, specifically the left lateral thalamus, posterior globus pallidus, and posterior corona radiata, with sparing of the internal capsule.
+
+S-Question: Patient presents with stereotyped episodes of motor and sensory loss consistent with capsular warning syndrome. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with stereotyped episodes of motor and sensory loss consistent with capsular warning syndrome. Where is the lesion located?
+L-Answer: left lateral thalamus, posterior globus pallidus, and posterior corona radiata
+
+N-Question: Patient presents with quadruple sectoranopia (upper and lower quadrants with sparing of the horizontal sector along the horizontal meridian). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a quadruple sectoranopia (upper and lower quadrants with sparing of the horizontal sector along the horizontal meridian) when the lateral geniculate body is infarcted [in the AChA territory].
+
+S-Question: Patient presents with quadruple sectoranopia. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with quadruple sectoranopia. Where is the lesion located?
+L-Answer: lateral geniculate body
+
+N-Question: Patient presents with a superior congruent homonymous quadrantic defect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A superior congruent homonymous quadrantic defect is usually attributable to an ischemic lesion of the lateral geniculate body in the AChA territory.
+
+S-Question: Patient presents with a superior congruent homonymous quadrantic defect. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with a superior congruent homonymous quadrantic defect. Where is the lesion located?
+L-Answer: lateral geniculate body
+
+N-Question: Patient presents with pure motor stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pure motor stroke in AChA territory infarction... a lacunar syndrome was present in 67 of 77 patients (87%) with AChA territory infarcts, out of which 45% were pure motor stroke.
+
+S-Question: Patient presents with pure motor stroke. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with pure motor stroke. Where is the lesion located?
+L-Answer: AChA territory
+
+N-Question: Patient presents with undissociated hemisensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Three patients with undissociated hemisensory loss were reported with ischemic lesion in the posterior limb of the internal capsule [related to AChA territory infarction].
+
+S-Question: Patient presents with undissociated hemisensory loss. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with undissociated hemisensory loss. Where is the lesion located?
+L-Answer: posterior limb of the internal capsule
+
+N-Question: Patient presents with sensorimotor syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sensorimotor syndrome... represents 27% of AChA territory infarcts... the capsular/thalamocapsular localization predominates and accounts for 77% of lesions confirmed by MRI.
+
+S-Question: Patient presents with sensorimotor syndrome. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with sensorimotor syndrome. Where is the lesion located?
+L-Answer: capsular/thalamocapsular localization predominates
+
+N-Question: Patient presents with ataxic hemiparesis, combining pyramidal and cerebellar signs on the same side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Fisher and Cole described the lacunar syndrome of ataxic hemiparesis, which combines pyramidal and cerebellar signs on the same side... the most common localization of the lesion was the posterior portion of the internal capsule within the territory of the AChA.
+
+S-Question: Patient presents with ataxic hemiparesis. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with ataxic hemiparesis. Where is the lesion located?
+L-Answer: posterior portion of the internal capsule
+
+N-Question: Patient presents with hypaesthetic ataxic hemiparesis with sparing of proprioception. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Helgason et al. described hypaesthetic ataxic hemiparesis attributable to infarction in this territory. Helgason and Wilbur noted sparing of proprioception in this AChA-attributed syndrome.
+
+S-Question: Patient presents with hypaesthetic ataxic hemiparesis. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with hypaesthetic ataxic hemiparesis. Where is the lesion located?
+L-Answer: AChA territory
+
+N-Question: Patient presents with visual neglect, constructional apraxia, anosognosia, and motor impersistence following a right-sided lesion. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In four patients with CT-proven AChA territory infarction, Cambier et al. found visual neglect, constructional apraxia, anosognosia, and motor impersistence in three patients with right-sided lesions.
+
+S-Question: Patient presents with visual neglect, constructional apraxia, anosognosia, and motor impersistence following a right-sided lesion. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with visual neglect, constructional apraxia, anosognosia, and motor impersistence following a right-sided lesion. Where is the lesion located?
+L-Answer: right-sided lesions [in AChA territory]
+
+N-Question: Patient presents with acute pseudobulbar mutism. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Nine patients with acute pseudobulbar mutism had bilateral capsular infarcts [in the territory of the anterior choroidal artery].
+
+S-Question: Patient presents with acute pseudobulbar mutism. What is the implicated artery?
+S-Answer: anterior choroidal artery
+
+L-Question: Patient presents with acute pseudobulbar mutism. Where is the lesion located?
+L-Answer: bilateral capsular infarcts
+
+N-Question: Patient presents with severe pathological crying after a left-sided infarct. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Severe pathological crying after left AChA infarct has also been described. The authors posit that this syndrome may be due to damage of the capsular ascending projections of serotonergic raphe nuclei.
+
+S-Question: Patient presents with severe pathological crying. What is the implicated artery?
+S-Answer: left AChA
+
+L-Question: Patient presents with severe pathological crying. Where is the lesion located?
+L-Answer: capsular ascending projections of serotonergic raphe nuclei
+
+N-Question: Patient presents with abnormalities of eye movement and ptosis contralateral to hemiplegia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Poppi reported a patient who had abnormalities of eye movement and ptosis contralateral to the hemiplegia, due to AChA infarction and an ischemic paramedian lesion in the midbrain.
+
+S-Question: Patient presents with abnormalities of eye movement and ptosis contralateral to hemiplegia. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with abnormalities of eye movement and ptosis contralateral to hemiplegia. Where is the lesion located?
+L-Answer: ischemic paramedian lesion in the midbrain
+
+N-Question: Patient presents with paralysis of upward eye movement. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Buge et al. described paralysis of upward eye movement in a patient with bilateral AChA infarcts.
+
+S-Question: Patient presents with paralysis of upward eye movement. What is the implicated artery?
+S-Answer: bilateral AChA
+
+L-Question: Patient presents with paralysis of upward eye movement. Where is the lesion located?
+L-Answer: bilateral AChA infarcts
+
+N-Question: Patient presents with transient contralateral gaze preference, ptosis, Horner’s syndrome ipsilateral to the infarct, and transient hemiballism. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A patient with transient contralateral gaze preference, ptosis, Horner’s syndrome ipsilateral to the AChA infarct, and transient hemiballism was reported by Mohr et al.
+
+S-Question: Patient presents with transient contralateral gaze preference, ptosis, Horner’s syndrome ipsilateral to the infarct, and transient hemiballism. What is the implicated artery?
+S-Answer: AChA
+
+L-Question: Patient presents with transient contralateral gaze preference, ptosis, Horner’s syndrome ipsilateral to the infarct, and transient hemiballism. Where is the lesion located?
+L-Answer: AChA infarct

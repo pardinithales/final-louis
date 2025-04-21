@@ -1,0 +1,209 @@
+N-Question: Patient presents with transient muteness, right hemiparesis with crural predominance, unilateral ideomotor apraxia, agraphia and tactile anomia of the left hand, compulsive manipulation of tools with the right hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A 64-year-old, right-handed man with atherothrombotic occlusion of the left anterior cerebral artery (ACA) developed transient muteness, right hemiparesis with crural predominance, unilateral ideomotor apraxia, agraphia and tactile anomia of the left hand, and compulsive manipulation of tools with the right hand. CT scans showing hypodense areas in the left mesial hemisphere and anterior two-thirds of the corpus callosum; left carotid angiogram showing occlusion of the left ACA in the A2 segment
+
+S-Question: Patient presents with transient muteness, right hemiparesis with crural predominance, unilateral ideomotor apraxia, agraphia and tactile anomia of the left hand, compulsive manipulation of tools with the right hand. What is the implicated artery?
+S-Answer: left anterior cerebral artery (ACA)
+
+L-Question: Patient presents with transient muteness, right hemiparesis with crural predominance, unilateral ideomotor apraxia, agraphia and tactile anomia of the left hand, compulsive manipulation of tools with the right hand. Where is the lesion located?
+L-Answer: left mesial hemisphere and anterior two-thirds of the corpus callosum
+
+S-Question: Patient presents with transient muteness, right hemiparesis with crural predominance, unilateral ideomotor apraxia, agraphia and tactile anomia of the left hand, compulsive manipulation of tools with the right hand. What is the implicated artery?
+S-Answer: left ACA in the A2 segment
+
+N-Question: Patient presents with motor deficits of the foot and leg, lesser paresis of the arm (most severe proximally), with the face and tongue largely spared, and leg weakness most severe distally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In classical descriptions, cortical branch occlusion usually results in motor deficits of the foot and leg and, to a lesser degree, paresis of the arm, with the face and tongue largely spared. The upper extremity weakness is most severe proximally, affecting shoulder shrug, with the hand usually spared. Leg weakness is most severe distally. The responsible lesions involve the paracentral lobule and the upper portion of the motor cortex, as well as subcortical fibers extending from those regions to the corona radiata.
+
+S-Question: Patient presents with motor deficits of the foot and leg, lesser paresis of the arm (most severe proximally), with the face and tongue largely spared, and leg weakness most severe distally. What is the implicated artery?
+S-Answer: cortical branch occlusion
+
+L-Question: Patient presents with motor deficits of the foot and leg, lesser paresis of the arm (most severe proximally), with the face and tongue largely spared, and leg weakness most severe distally. Where is the lesion located?
+L-Answer: paracentral lobule and the upper portion of the motor cortex
+
+L-Question: Patient presents with motor deficits of the foot and leg, lesser paresis of the arm (most severe proximally), with the face and tongue largely spared, and leg weakness most severe distally. Where is the lesion located?
+L-Answer: subcortical fibers extending from those regions to the corona radiata
+
+N-Question: Patient presents with monoparesis of the right lower extremity. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A 62-year-old man suddenly developed monoparesis of the right lower extremity. Sagittal T1-weighted MRI after injection of gadolinium-DTPA shows an area of increased intensity (recent infarction) in the right paracentral lobule.
+
+L-Question: Patient presents with monoparesis of the right lower extremity. Where is the lesion located?
+L-Answer: right paracentral lobule
+
+N-Question: Patient presents with hemiparesis with faciobrachial predominance. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemiparesis with faciobrachial predominance has been attributed to infarction in the head of the caudate nucleus, the putamen, and the anterior portion of the internal capsule, as a result of occlusion of the recurrent artery of Heubner.
+
+S-Question: Patient presents with hemiparesis with faciobrachial predominance. What is the implicated artery?
+S-Answer: recurrent artery of Heubner
+
+L-Question: Patient presents with hemiparesis with faciobrachial predominance. Where is the lesion located?
+L-Answer: head of the caudate nucleus, the putamen, and the anterior portion of the internal capsule
+
+N-Question: Patient presents with hemiparesis with faciobrachial predominance. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dunker and Harris claimed that hemiparesis of that type was due to occlusion not of Heubner’s artery but of the perforating branches arising from the most proximal portion of the A1 segment, because those perforators supply the genu and contiguous posterior limb of the internal capsule.
+
+S-Question: Patient presents with hemiparesis with faciobrachial predominance. What is the implicated artery?
+S-Answer: perforating branches arising from the most proximal portion of the A1 segment
+
+L-Question: Patient presents with hemiparesis with faciobrachial predominance. Where is the lesion located?
+L-Answer: genu and contiguous posterior limb of the internal capsule
+
+N-Question: Patient presents with motor neglect, an under-utilization of the contralateral arm (and leg). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Damage to the medial frontal lobe (usually on the right side), including the supplementary motor area (SMA), can produce motor neglect, an under-utilization of the arm (and leg) on the side contralateral to the lesion, despite normal strength and sensation.
+
+L-Question: Patient presents with motor neglect, an under-utilization of the contralateral arm (and leg). Where is the lesion located?
+L-Answer: medial frontal lobe (usually on the right side)
+
+L-Question: Patient presents with motor neglect, an under-utilization of the contralateral arm (and leg). Where is the lesion located?
+L-Answer: supplementary motor area (SMA)
+
+N-Question: Patient presents with paraparesis, with or without sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarction in the territories of both ACAs results in paraparesis, with or without sensory loss. Causes include bilateral ACA vasospasm following rupture of an ACA/ACoA aneurysm, or occlusion of an ACA in the presence of a hypoplastic A1 segment or an azygous distal ACA.
+
+S-Question: Patient presents with paraparesis. What is the implicated artery?
+S-Answer: both ACAs
+
+L-Question: Patient presents with paraparesis. Where is the lesion located?
+L-Answer: territories of both ACAs
+
+S-Question: Patient presents with paraparesis. What is the implicated artery?
+S-Answer: bilateral ACA vasospasm following rupture of an ACA/ACoA aneurysm
+
+S-Question: Patient presents with paraparesis. What is the implicated artery?
+S-Answer: occlusion of an ACA in the presence of a hypoplastic A1 segment
+
+S-Question: Patient presents with paraparesis. What is the implicated artery?
+S-Answer: azygous distal ACA
+
+N-Question: Patient presents with left hemiparesis, spatial neglect, visual/auditory extinction, and Pusher syndrome characterized by forced controversive pushing away from the non-paralyzed side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pusher syndrome describes disturbed control of upright body posture in which patients have a severe misperception of their bodies’ orientation in the coronal plane, with forced controversive pushing away from the non-paralyzed side. Such symptoms followed right ACA territory infarction in a patient with left hemiparesis, spatial neglect, and visual/auditory extinction.
+
+S-Question: Patient presents with left hemiparesis, spatial neglect, visual/auditory extinction, and Pusher syndrome. What is the implicated artery?
+S-Answer: right ACA territory infarction
+
+N-Question: Patient presents with limb-shaking transient ischemic attacks affecting the contralateral leg. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Limb-shaking transient ischemic attacks affecting the contralateral leg were associated with focal stenosis of the pericallosal artery.
+
+S-Question: Patient presents with limb-shaking transient ischemic attacks affecting the contralateral leg. What is the implicated artery?
+S-Answer: pericallosal artery
+
+N-Question: Patient presents with persistent abulia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Persistent abulia can follow bilateral ACA territory infarction. The specific structural damage causing abulia is uncertain. The cingulate gyrus, SMA, and the caudate nucleus have been variably implicated.
+
+S-Question: Patient presents with persistent abulia. What is the implicated artery?
+S-Answer: bilateral ACA territory infarction
+
+L-Question: Patient presents with persistent abulia. Where is the lesion located?
+L-Answer: cingulate gyrus
+
+L-Question: Patient presents with persistent abulia. Where is the lesion located?
+L-Answer: SMA
+
+L-Question: Patient presents with persistent abulia. Where is the lesion located?
+L-Answer: caudate nucleus
+
+N-Question: Patient presents with transient abulia followed by contralateral motor neglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Unilateral lesions tend to produce abulia lasting days, with replacement of abulia by contralateral motor neglect. The specific structural damage causing abulia is uncertain. The cingulate gyrus, SMA, and the caudate nucleus have been variably implicated.
+
+L-Question: Patient presents with transient abulia followed by contralateral motor neglect. Where is the lesion located?
+L-Answer: cingulate gyrus
+
+L-Question: Patient presents with transient abulia followed by contralateral motor neglect. Where is the lesion located?
+L-Answer: SMA
+
+L-Question: Patient presents with transient abulia followed by contralateral motor neglect. Where is the lesion located?
+L-Answer: caudate nucleus
+
+N-Question: Patient presents with severe depression. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with left-sided caudate nucleus lesions have shown a high frequency of severe depression.
+
+L-Question: Patient presents with severe depression. Where is the lesion located?
+L-Answer: left-sided caudate nucleus
+
+N-Question: Patient presents with transcortical aphasia, with reduced spontaneous speech and preserved repetition. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Transcortical aphasia, with reduced spontaneous speech and preserved repetition, has been noted frequently... probably the result of damage to the SMA, and with few exceptions, the lesion has affected the language-dominant hemisphere.
+
+L-Question: Patient presents with transcortical aphasia. Where is the lesion located?
+L-Answer: SMA
+
+L-Question: Patient presents with transcortical aphasia. Where is the lesion located?
+L-Answer: language-dominant hemisphere
+
+N-Question: Patient presents with ideomotor apraxia, agraphia, and tactile anomia restricted to the left hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Distinct syndromes of callosal disconnection resulting from ACA territory infarctions include ideomotor apraxia, agraphia, and tactile anomia restricted to the left hand in right-handed patients.
+
+S-Question: Patient presents with ideomotor apraxia, agraphia, and tactile anomia restricted to the left hand. What is the implicated artery?
+S-Answer: ACA territory infarctions
+
+N-Question: Patient presents with left unilateral ideomotor apraxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Left unilateral ideomotor apraxia is an inability to execute learned skilled movements... with the left hand... The most crucial part for manifestation of unilateral apraxia has been considered as the callosal body.
+
+L-Question: Patient presents with left unilateral ideomotor apraxia. Where is the lesion located?
+L-Answer: callosal body
+
+N-Question: Patient presents with left unilateral agraphia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Kawamura et al. reported a Japanese patient with occlusion of the left pericallosal artery, who showed left unilateral agraphia for kanji... indicating that... different neural pathways are used... at the level of the posterior body of the corpus callosum.
+
+S-Question: Patient presents with left unilateral agraphia. What is the implicated artery?
+S-Answer: left pericallosal artery
+
+L-Question: Patient presents with left unilateral agraphia. Where is the lesion located?
+L-Answer: posterior body of the corpus callosum
+
+N-Question: Patient presents with unilateral tactile anomia of the left hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Unilateral tactile anomia is an impairment in the ability to name subjects placed in the left hand... Tactile anomia of the left hand... results from a lesion situated in the posterior part of the callosal body.
+
+L-Question: Patient presents with unilateral tactile anomia of the left hand. Where is the lesion located?
+L-Answer: posterior part of the callosal body
+
+N-Question: Patient presents with unilateral constructional disturbance of the right hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: On the right hand, unilateral constructional disturbance may occur, suggesting right hemisphere dominance concerning constructional capacity.
+
+N-Question: Patient presents with bilateral crossed pseudoneglect, where the right hand makes errors to the right in left hemispace, and the left hand makes errors to the left in right hemispace during line-bisection tasks. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: ...both visual and tactile line-bisection tasks showed that the right hand made errors to the right when the task was performed in the left hemispace, and the left hand made errors to the left when the task was performed in the right hemispace... The infarction was limited to the body of the corpus callosum...
+
+L-Question: Patient presents with bilateral crossed pseudoneglect. Where is the lesion located?
+L-Answer: body of the corpus callosum
+
+N-Question: Patient presents with left hemispatial neglect observed in tasks executed with the right hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: ...a patient with left hemispatial neglect observed in tasks executed with the right hand, as well as in tasks involving verbal responses. Such a disconnection neglect... Extensive damage to the callosal body and mesial hemisphere might be required for manifestation of this type of neglect.
+
+L-Question: Patient presents with left hemispatial neglect observed in tasks executed with the right hand. Where is the lesion located?
+L-Answer: callosal body and mesial hemisphere
+
+N-Question: Patient presents with crossed visuomotor ataxia (ataxie optique), where the hand fails to reach and grasp an object placed in the peripheral visual field of the opposite side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Crossed visuomotor ataxia (ataxie optique) can result from damage to the dorsal aspect of the posterior callosum. The patient’s hand will fail to reach and grasp an object placed in the peripheral visual field of the opposite side.
+
+L-Question: Patient presents with crossed visuomotor ataxia (ataxie optique). Where is the lesion located?
+L-Answer: dorsal aspect of the posterior callosum
+
+N-Question: Patient presents with a crossed avoiding reaction of the left hand, being unable to mobilize the left hand to reach and grasp a stimulus placed in the right hemispace. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: ...a crossed avoiding reaction of the left hand... reported in a stroke patient with a lesion in the genu and body of the corpus callosum and the left cingulate gyrus. The patient was unable to mobilize the left hand with any effort, when she intended to reach and grasp the stimulus placed in the right hemispace.
+
+L-Question: Patient presents with a crossed avoiding reaction of the left hand. Where is the lesion located?
+L-Answer: genu and body of the corpus callosum and the left cingulate gyrus
+
+N-Question: Patient presents with motor perseveration, characterized by spontaneously occurring simple, repetitive, stereotyped movements of one hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Motor perseveration... spontaneously occurring simple, repetitive, stereotyped movements of the hand... The causative lesion probably involves the medial frontal lobe contralateral to the affected hand.
+
+L-Question: Patient presents with motor perseveration of one hand. Where is the lesion located?
+L-Answer: medial frontal lobe contralateral to the affected hand
+
+N-Question: Patient presents with compulsive manipulation of tools, where the right hand grasps and uses familiar objects against the patient's will. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Mori and Yamadori described a patient with infarction in the left ACA territory, who could not help grasping a familiar object (such as a comb, pencil, or toothbrush) placed before her and using it appropriately with her right hand against her will. The authors called this abnormal behavior compulsive manipulation of tools... due to damage to the left medial frontal lobe, including the SMA and cingulate gyrus, in addition to the genu of the corpus callosum.
+
+S-Question: Patient presents with compulsive manipulation of tools with the right hand. What is the implicated artery?
+S-Answer: left ACA territory
+
+L-Question: Patient presents with compulsive manipulation of tools with the right hand. Where is the lesion located?
+L-Answer: left medial frontal lobe, including the SMA and cingulate gyrus, in addition to the genu of the corpus callosum
+
+N-Question: Patient presents with diagonistic dyspraxia, where one hand (usually the left) acts at cross-purposes to the other. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Diagonistic dyspraxia... peculiar dissociative movement in which one of the patient’s hands (usually the left) acts at cross-purposes to the other... Damage to the body of the corpus callosum is apparently required to produce this behavior.
+
+L-Question: Patient presents with diagonistic dyspraxia. Where is the lesion located?
+L-Answer: body of the corpus callosum
+
+N-Question: Patient presents with unclassified alien-hand signs, such as simple or purposeless movements of either the right or left hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Unclassified alien-hand signs include simple or purposeless movements of either the right or left hand... These abnormal movements result from damage to the contralateral medial frontal lobe and the genu and body of the corpus callosum.
+
+L-Question: Patient presents with simple or purposeless movements of either the right or left hand. Where is the lesion located?
+L-Answer: contralateral medial frontal lobe and the genu and body of the corpus callosum

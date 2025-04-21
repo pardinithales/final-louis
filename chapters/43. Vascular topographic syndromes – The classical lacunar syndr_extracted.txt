@@ -1,0 +1,137 @@
+N-Question: Patient presents with paralysis complete or incomplete of the face, arm and leg on one side, without sensory signs, visual field defect, dysphasia, or apractagnosia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a paralysis complete or incomplete of the face, arm and leg on one side not accompanied by sensory signs, visual field defect, dysphasia, or apractagnosia defines pure motor hemiplegia (PMH), most likely due to a lesion in an area where motor fibers are close together (e.g., basal ganglia, pons) receiving vascular supply via deep perforating end arteries.
+
+L-Question: Patient presents with pure motor hemiplegia (PMH) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: internal capsule
+
+L-Question: Patient presents with pure motor hemiplegia (PMH) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: pons
+
+L-Question: Patient presents with pure motor hemiplegia (PMH) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: corona radiata
+
+L-Question: Patient presents with pure motor hemiplegia (PMH) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: the cerebral peduncle
+
+L-Question: Patient presents with pure motor hemiplegia (PMH) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: the medullary pyramid
+
+L-Question: Patient presents with pure motor stroke (PMS) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: right pons
+
+L-Question: Patient presents with pure motor stroke (PMS) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: right centrum semiovale
+
+L-Question: Patient presents with pure motor stroke (PMS) involving the face, arm and leg on one side. Where is the lesion located?
+L-Answer: posterior limb of left internal capsule
+
+N-Question: Patient presents with a pure motor stroke (PMS) syndrome along with neuropsychological disturbances and eye movement abnormalities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: These extended LACS... Many are due to lesions in the brainstem where occlusion of the origin of the perforating arteries by atheroma in the parent (basilar) artery is a more common mechanism than in the anterior circulation.
+
+S-Question: Patient presents with an extended lacunar syndrome involving PMS plus other signs, localized to the brainstem. What is the implicated artery?
+S-Answer: perforating arteries... parent (basilar) artery
+
+N-Question: Patient presents with pure sensory symptoms or signs, potentially involving the face, arm, and leg on one side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Most studies have reported SDIs in the thalamus, in keeping with the original pathological studies, but PSS has been reported with lesions in the anterior limb of the internal capsule... Magnetic resonance-based studies have reported pontine infarcts causing PSS.
+
+L-Question: Patient presents with pure sensory stroke (PSS). Where is the lesion located?
+L-Answer: right thalamus
+
+N-Question: Patient presents with weakness of the lower limb, particularly the ankle and toes, a Babinski sign, and striking dysmetria of the arm and leg on the same side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The original cases of HACP were described as having weakness of the lower limb, particularly the ankle and toes, a Babinski sign, and “striking dysmetria of the arm and leg on the same side”... a large lacune in the posterior limb of the internal capsule was responsible.
+
+N-Question: Patient presents chiefly with dysarthria and clumsiness of one hand, possibly with signs of pyramidal dysfunction in the ipsilateral leg and an ataxic gait. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The deficit in DCHS was described originally as being “chiefly of dysarthria and clumsiness of one hand”, although two of the original three patients had signs suggestive of pyramidal dysfunction in the ipsilateral leg and an ataxic gait... The one patient who came to autopsy had a pontine lacune.
+
+L-Question: Patient presents with dysarthria–clumsy hand syndrome (DCHS). Where else might the lesion be located besides the pons?
+L-Answer: in the Barcelona study, at least 40% of patients with DCHS had SDIs in the internal capsule
+
+N-Question: Patient presents with prominent vertical nystagmus, weakness, and cerebellar signs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Fisher reported three other patients who had prominent vertical nystagmus, as well as weakness and cerebellar signs, under the new term AH... The relevant lacunes were all in the pons.
+
+N-Question: Patient presents with ataxic hemiparesis (AH). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In the largest CT-based study of AH, a variety of lesions were reported, involving the internal capsule (39%), thalamus (13%), corona radiata (13%), lentiform nucleus (8%), cerebellum–SCA territory (4%), and anterior cerebral artery territory (4%) rather than being confined to the pons (19%).
+
+S-Question: Patient presents with ataxic hemiparesis (AH) due to a lesion in the cerebellum. What is the implicated artery?
+S-Answer: SCA territory
+
+S-Question: Patient presents with ataxic hemiparesis (AH). What is a possible implicated artery?
+S-Answer: anterior cerebral artery territory
+
+N-Question: Patient presents with hypesthetic ataxic hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients with hypesthetic ataxic hemiparesis may have slightly larger lesions that are often within the anterior choroidal artery territory.
+
+S-Question: Patient presents with hypesthetic ataxic hemiparesis. What is the implicated artery?
+S-Answer: anterior choroidal artery territory
+
+N-Question: Patient presents with marked sensory and motor signs which persisted, with sensory symptoms preceding motor symptoms. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A single case of SMS was studied at autopsy... There was a lacune in the ventral posterior nucleus of the thalamus, but there was also pallor of the adjacent capsule. Although there were marked sensory and motor signs, all of which persisted, the sensory symptoms preceded the motor symptoms.
+
+L-Question: Patient presents with sensorimotor stroke (SMS) with a lacune in the ventral posterior nucleus of the thalamus. What adjacent structure might also be affected?
+L-Answer: adjacent capsule
+
+N-Question: Patient presents with sensorimotor stroke (SMS). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: There is also support from autopsy studies for the idea that a lesion primarily within the internal capsule can cause SMS... Those authors considered that the sensory deficit was caused by interruption of the thalamocortical pathways.
+
+L-Question: Patient presents with sensorimotor stroke (SMS). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In the SDB, 31% of patients had a lesion in the posterior limb of the internal capsule, compared with 22% in the corona radiata, 7% in the genu of the capsule, 6% in the anterior limb of the capsule, and only 9% in the thalamus.
+
+N-Question: Patient presents with sensorimotor stroke (SMS). Based on DWI findings, which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: With DWI, Schonewille and colleagues reported involvement of the posterior limb of the internal capsule in eight out of nine cases. In five patients, infarction was limited to the internal capsule, two additionally involved the putamen, and one also the thalamus. The other patient had a lesion in the lateral medulla oblongata.
+
+L-Question: Patient presents with sensorimotor stroke (SMS) with infarction limited to the internal capsule. Where else might the lesion extend?
+L-Answer: two additionally involved the putamen, and one also the thalamus
+
+L-Question: Patient presents with sensorimotor stroke (SMS). Where else might the lesion be located based on DWI findings?
+L-Answer: lateral medulla oblongata
+
+N-Question: Patient presents with sensorimotor stroke (SMS). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: De Reuck and colleagues reported pontine lacunes causing SMS.
+
+L-Question: Patient presents with sensorimotor stroke (SMS). Where is the lesion located?
+L-Answer: pontine lacunes
+
+N-Question: Patient presents with sensorimotor stroke (SMS). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The close anatomical and vascular relationships between the motor and sensory Rolandic cortices make the possibility of SMS, from cortical infarction due to ischemia anterior to the Rolandic fissure extending backward, more likely than a cortical PMS.
+
+L-Question: Patient presents with sensorimotor stroke (SMS). Where is the lesion located?
+L-Answer: cortical infarction due to ischemia anterior to the Rolandic fissure extending backward
+
+L-Question: Patient presents with sensorimotor stroke (SMS). Where else might the lesion be located?
+L-Answer: Large subcortical striatocapsular infarcts
+
+N-Question: Patient presents with sensorimotor stroke (SMS). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Several studies have reported that the SDIs in cases of SMS are larger than those in PMS in an equivalent site, while still being within the territory of a single perforating artery.
+
+S-Question: Patient presents with sensorimotor stroke (SMS) caused by a small deep infarct (SDI). What is the implicated artery type?
+S-Answer: single perforating artery
+
+N-Question: Patient presents with a deficit involving the face, arm, and leg. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Blecic et al. reported that the presence of a deficit involving the face, arm, and leg was highly predictive of an SDI
+
+N-Question: Patient presents with pure motor stroke involving the right face, arm, and leg. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pure motor stroke resulting from infarction of the right internal capsule... Magnetic resonance angiography suggests that the mechanism causing the infarct may be related to middle cerebral artery stenosis, rather than perforator artery disease.
+
+S-Question: Patient presents with pure motor stroke involving the right face, arm, and leg, with infarction of the right internal capsule. What is the implicated artery based on MRA?
+S-Answer: middle cerebral artery stenosis
+
+L-Question: Patient presents with pure motor stroke involving the right face, arm, and leg. Where is the lesion located?
+L-Answer: infarction of the right internal capsule
+
+N-Question: Patient presents with purely motor, stereotyped transient ischemic attacks occurring in flurries or clusters shortly before a stroke. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When the symptoms are purely motor, they have been dubbed the capsular warning syndrome... These may be due to capsular ischemia more often than pontine ischemia.
+
+L-Question: Patient presents with capsular warning syndrome (stereotyped purely motor TIAs). Where is the ischemia likely located?
+L-Answer: capsular ischemia
+
+L-Question: Patient presents with capsular warning syndrome (stereotyped purely motor TIAs). Where else might the ischemia be located?
+L-Answer: pontine ischemia
+
+N-Question: Patient initially presents with pure motor stroke (PMS) but later develops clear signs of cortical dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: This was presumed to occur because, in the case of ICA or proximal MCA occlusion, the highly metabolic areas of the basal ganglia are the first areas to reach clinically apparent levels of cerebral ischemia, particularly if the cortical collateral supply is good.
+
+S-Question: Patient initially presents with PMS but evolves to show cortical signs. What is the implicated artery?
+S-Answer: ICA or proximal MCA occlusion
+
+L-Question: Patient initially presents with PMS but evolves to show cortical signs due to ICA or proximal MCA occlusion. Where is the initial ischemia likely most apparent?
+L-Answer: basal ganglia

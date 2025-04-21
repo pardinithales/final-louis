@@ -1,0 +1,26 @@
+N-Question: Patient presents with sudden profound coma, clinical brainstem dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: type I: sudden profound coma, clinical brainstem dysfunction, and death within 48 hours of onset. Intraventricular hemorrhage typically filled all ventricular chambers or involved a pontine ICH with extension into the third and fourth ventricles
+
+L-Question: Patient presents with sudden profound coma, clinical brainstem dysfunction. Where is the lesion located?
+L-Answer: pontine ICH with extension into the third and fourth ventricles
+
+N-Question: Patient presents with sudden focal cerebral or cerebellar disturbance. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: type II: sudden focal cerebral or cerebellar disturbance with a large parenchymal clot and contiguous IVH less extensive than in type I
+
+L-Question: Patient presents with sudden focal cerebral or cerebellar disturbance. Where is the lesion located?
+L-Answer: large parenchymal clot
+
+N-Question: Patient presents with acute focal cerebral or cerebellar deficit, or sudden severe headache, drowsiness, and confusion without focal neurological findings. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: type III: localized IVH with a smaller ICH presenting with either acute focal cerebral or cerebellar deficit, or sudden severe headache, drowsiness, and confusion without focal neurological findings
+
+L-Question: Patient presents with acute focal cerebral or cerebellar deficit, or sudden severe headache, drowsiness, and confusion without focal neurological findings. Where is the lesion located?
+L-Answer: localized IVH with a smaller ICH
+
+N-Question: Patient presents with sudden onset coma or decreased level of consciousness with nausea/vomiting, bilateral extensor plantar responses, followed by fatal brainstem dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a classical scenario of sudden onset coma or decreased level of consciousness with nausea/vomiting, bilateral extensor plantar responses, followed by fatal brainstem dysfunction
+
+L-Question: Patient presents with sudden onset coma or decreased level of consciousness with nausea/vomiting, bilateral extensor plantar responses, followed by fatal brainstem dysfunction. Where is the lesion located?
+L-Answer: brainstem
+
+N-Question: Patient presents with gradually increasing ICP, headache, vomiting, and confusion developing over hours to days. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a fluctuating or progressive (subacute) onset group with gradually increasing ICP, headache, vomiting, and confusion developing over hours to days

@@ -1,0 +1,168 @@
+N-Question: Patient presents with intermittent arm or leg rhythmic movements. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: intermittent arm or leg rhythmic movements, also referred to as transient upper limb tremor or limb shaking, may occur as a consequence of marginal, fluctuating cortical ischemia in the frontal parasagittal borderzone area or in the temporoparietooccipital triangle
+
+L-Question: Patient presents with intermittent arm or leg rhythmic movements. Where is the lesion located?
+L-Answer: the frontal parasagittal borderzone area or in the temporoparietooccipital triangle
+
+
+N-Question: Patient presents with transient hemichorea. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Transient hemichorea has also been described, particularly in the deep subcortical type of low-flow infarction
+
+
+N-Question: Patient presents with gradual, progressive loss of visual acuity, occasionally with bouts of visual obscuration. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ischemic ophthalmopathy is a specific, concomitant, rarely “lone” disorder of uncompensated, critically reduced perfusion pressure of the eye due to ICA occlusive disease. It is also termed ischemic oculopathy, a chronic progressive disease involving nearly all compartments of the eye. Quite characteristic is the history of gradual, progressive loss of visual acuity, occasionally with bouts of visual obscuration, leading to slowly progressive, irreversible damage of the retinal neuronal layers.
+
+S-Question: Patient presents with gradual, progressive loss of visual acuity, occasionally with bouts of visual obscuration. What is the implicated artery?
+S-Answer: ICA occlusive disease
+
+L-Question: Patient presents with gradual, progressive loss of visual acuity, occasionally with bouts of visual obscuration. Where is the lesion located?
+L-Answer: eye
+
+L-Question: Patient presents with neovascularization of the retina, vitreous body, and iris (rubeosis iridis), secondary glaucoma, and cataracts. Where is the lesion located?
+L-Answer: retina, vitreous body, and iris (rubeosis iridis)
+
+
+N-Question: Patient presents with episodic rhythmic limb movements, with or without Todd’s paresis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Episodic rhythmic limb movements, with or without Todd’s paresis, may occur as a consequence of chronic, fluctuating, cortical ischemia, also referred to as limb shaking in the literature. The most common pattern seen on electroencephalography (EEG) is focal slowing at the typical sites of cortical borderzone infarctions (FIRDA, frontal intermittent delta activity)
+
+L-Question: Patient presents with episodic rhythmic limb movements, with or without Todd’s paresis. Where is the lesion located?
+L-Answer: cortical borderzone infarctions
+
+
+N-Question: Patient presents with contralateral or bilateral myoclonus of the paretic limb(s) or continuous contralateral focal motor seizures (epilepsia partialis continua, Kozhevnikov’s epilepsy). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In cortical borderzone infarctions, the discharges occur in the acute phase at the affected site, and are clinically paralleled by contralateral or bilateral myoclonus of the paretic limb(s) or continuous contralateral focal motor seizures (epilepsia partialis continua, Kozhevnikov’s epilepsy)
+
+L-Question: Patient presents with contralateral or bilateral myoclonus of the paretic limb(s) or continuous contralateral focal motor seizures (epilepsia partialis continua, Kozhevnikov’s epilepsy). Where is the lesion located?
+L-Answer: cortical borderzone infarctions
+
+L-Question: Patient presents with simple partial seizures, Jacksonian seizures, or even secondary grand mal seizures, with eventual Todd’s paresis or postictal deterioration of focal deficits. Where is the lesion located?
+L-Answer: cortical borderzone infarctions
+
+
+N-Question: Patient presents with an amnestic disturbance. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Cardiac arrest and hypotension can also cause low-flow infarcts that are usually bilateral. Common patterns include: an amnestic disturbance due to ischemia involving the hippocampi
+
+L-Question: Patient presents with an amnestic disturbance. Where is the lesion located?
+L-Answer: hippocampi
+
+
+N-Question: Patient presents with visual disturbance, asimultagnosia, optical ataxia, and apraxia of gaze. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a visual disturbance with features of Balint’s syndrome (asimultagnosia – difficulty recognizing several or multiple objects at the same time, optical ataxia – difficulty coordinating hand and eye movements, and apraxia of gaze – difficulty directing gaze). The clinical signs are explained by injury to low-flow vulnerable zones in the borderzone regions between the posterior cerebral arteries (PCAs) and MCAs
+
+S-Question: Patient presents with visual disturbance, asimultagnosia, optical ataxia, and apraxia of gaze. What is the implicated artery?
+S-Answer: borderzone regions between the posterior cerebral arteries (PCAs) and MCAs
+
+L-Question: Patient presents with visual disturbance, asimultagnosia, optical ataxia, and apraxia of gaze. Where is the lesion located?
+L-Answer: low-flow vulnerable zones in the borderzone regions between the posterior cerebral arteries (PCAs) and MCAs
+
+
+N-Question: Patient presents with selective weakness of the proximal upper and lower extremities bilaterally with sparing of the face, hands, and feet. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: selective weakness of the proximal upper and lower extremities bilaterally with sparing of the face, hands, and feet – a man-in-a-barrel distribution. This is explained by low flow in the borderzone regions between the anterior cerebral arteries (ACAs) and MCAs
+
+S-Question: Patient presents with selective weakness of the proximal upper and lower extremities bilaterally with sparing of the face, hands, and feet. What is the implicated artery?
+S-Answer: borderzone regions between the anterior cerebral arteries (ACAs) and MCAs
+
+L-Question: Patient presents with selective weakness of the proximal upper and lower extremities bilaterally with sparing of the face, hands, and feet. Where is the lesion located?
+L-Answer: borderzone regions between the anterior cerebral arteries (ACAs) and MCAs
+
+
+N-Question: Patient presents with spontaneous arrhythmic fine or coarse muscle jerking, markedly exaggerated when the limbs are used. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: After cardiac arrest, some patients have spontaneous arrhythmic fine or coarse muscle jerking, markedly exaggerated when the limbs are used. This disorder of movements, usually called action myoclonus or the Lance–Adams syndrome... hypoxic-ischemic cerebellar damage is often found at necropsy
+
+L-Question: Patient presents with spontaneous arrhythmic fine or coarse muscle jerking, markedly exaggerated when the limbs are used. Where is the lesion located?
+L-Answer: cerebellar damage
+
+L-Question: Patient presents with gait ataxia. Where is the lesion located?
+L-Answer: cerebellar damage
+
+
+N-Question: Patient presents with prominent ataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Some patients... may have prominent ataxia caused by cerebellar infarcts, mostly located between the main supply of the three major circumferential cerebellar arteries
+
+S-Question: Patient presents with prominent ataxia. What is the implicated artery?
+S-Answer: borderzone between the main supply of the three major circumferential cerebellar arteries
+
+L-Question: Patient presents with prominent ataxia. Where is the lesion located?
+L-Answer: cerebellar infarcts, mostly located between the main supply of the three major circumferential cerebellar arteries
+
+S-Question: Patient presents with prominent ataxia. What is the implicated artery?
+S-Answer: preexisting occlusive disease of the vertebral arteries
+
+
+N-Question: Patient presents with crural sensorimotor hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Crural sensorimotor hemiparesis [associated with] Precentral lesions either corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with crural sensorimotor hemiparesis. Where is the lesion located?
+L-Answer: Precentral lesions either corticosubcortical or exclusively subcortical
+
+
+N-Question: Patient presents with brachial monoparesis, mostly motor. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Brachial monoparesis, mostly motor [associated with] Precentral lesions either corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with brachial monoparesis, mostly motor. Where is the lesion located?
+L-Answer: Precentral lesions either corticosubcortical or exclusively subcortical
+
+
+N-Question: Patient presents with dysproportional motor hemiparesis; face mostly spared. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dysproportional motor hemiparesis; face mostly spared, depending on involvement of corona radiata [associated with] Precentral lesions either corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with dysproportional motor hemiparesis; face mostly spared. Where is the lesion located?
+L-Answer: Precentral lesions either corticosubcortical or exclusively subcortical
+
+L-Question: Patient presents with dysproportional motor hemiparesis; face mostly spared. Where is the lesion located?
+L-Answer: corona radiata
+
+
+N-Question: Patient presents with transcortical motor aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: transcortical motor aphasia, an otherwise rare subtype of aphasia that is strikingly frequent in low-flow infarctions, presumably due to undercutting of Broca’s area in the frontal centrum semiovale
+
+L-Question: Patient presents with transcortical motor aphasia. Where is the lesion located?
+L-Answer: frontal centrum semiovale
+
+L-Question: Patient presents with mutism. Where is the lesion located?
+L-Answer: Precentral lesions either corticosubcortical or exclusively subcortical
+
+
+N-Question: Patient presents with paraparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Paraparesis mimicking spinal lesion (pseudospinal stroke) [associated with] Bilateral lesions (extremely rare) [low-flow infarctions]
+
+L-Question: Patient presents with paraparesis. Where is the lesion located?
+L-Answer: Bilateral lesions
+
+
+N-Question: Patient presents with quadriplegia or triplegia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Quadriplegia or triplegia mimicking medullary lesion (pseudobrainstem stroke) [associated with] Bilateral lesions (extremely rare) [low-flow infarctions]
+
+L-Question: Patient presents with quadriplegia or triplegia. Where is the lesion located?
+L-Answer: Bilateral lesions
+
+
+N-Question: Patient presents with cortical hemihypesthesia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Cortical hemihypesthesia [associated with] Postcentral lesions corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with cortical hemihypesthesia. Where is the lesion located?
+L-Answer: Postcentral lesions corticosubcortical or exclusively subcortical
+
+
+N-Question: Patient presents with sensorimotor hemiparesis, particularly stereoagnosia (“useless hand”). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sensorimotor hemiparesis, depending on site of involvement of corona radiata; particularly stereoagnosia (“useless hand”) [associated with] Postcentral lesions corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with sensorimotor hemiparesis, particularly stereoagnosia (“useless hand”). Where is the lesion located?
+L-Answer: Postcentral lesions corticosubcortical or exclusively subcortical
+
+L-Question: Patient presents with sensorimotor hemiparesis, particularly stereoagnosia (“useless hand”). Where is the lesion located?
+L-Answer: corona radiata
+
+
+N-Question: Patient presents with hemispatial neglect (visual, tactile). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemispatial neglect (visual, tactile) [associated with] Postcentral lesions corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with hemispatial neglect (visual, tactile). Where is the lesion located?
+L-Answer: Postcentral lesions corticosubcortical or exclusively subcortical
+
+
+N-Question: Patient presents with hemianopia, predominantly affecting lower quadrant. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemianopia, predominantly affecting lower quadrant [associated with] Postcentral lesions corticosubcortical or exclusively subcortical [low-flow infarctions]
+
+L-Question: Patient presents with hemianopia, predominantly affecting lower quadrant. Where is the lesion located?
+L-Answer: Postcentral lesions corticosubcortical or exclusively subcortical

@@ -1,0 +1,17 @@
+N-Question: Patient presents with weakness of a single leg (contralateral). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Weakness of a single leg in the setting of SAH is most often a complication of a ruptured aneurysm of the anterior communicating artery... the deficit is explained by the close proximity of the aneurysm to the corticospinal tract innervating the contralateral leg.
+
+S-Question: Patient presents with weakness of a single leg (contralateral). What is the implicated artery?
+S-Answer: anterior communicating artery
+
+L-Question: Patient presents with weakness of a single leg (contralateral). Where is the lesion located?
+L-Answer: the corticospinal tract innervating the contralateral leg
+
+N-Question: Patient presents with weakness of a single leg (contralateral). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Weakness of a single leg in the setting of SAH... occasionally and quite unexpectedly, the aneurysm is at the posterior inferior cerebellar artery. In that case the deficit is explained by the close proximity of the aneurysm to the corticospinal tract innervating the contralateral leg.
+
+S-Question: Patient presents with weakness of a single leg (contralateral). What is the implicated artery?
+S-Answer: posterior inferior cerebellar artery
+
+L-Question: Patient presents with weakness of a single leg (contralateral). Where is the lesion located?
+L-Answer: the corticospinal tract innervating the contralateral leg

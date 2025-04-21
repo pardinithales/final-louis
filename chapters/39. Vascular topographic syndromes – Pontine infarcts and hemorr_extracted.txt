@@ -1,0 +1,131 @@
+N-Question: Patient presents with hemiplegia, or quadriplegia if the lesion were bilateral. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a paramedian syndrome presenting with hemiplegia, or quadriplegia if the lesion were bilateral; fed by median or paramedian penetrators in the anteromedial territory involving most of the basis pontis (corticospinal tract) and the ventral portion of the tegmentum (part of the medial lemniscus).
+
+N-Question: Patient presents with ipsilateral cerebellar and contralateral motor and sensory symptoms and signs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a lateral tegmental syndrome presenting with ipsilateral cerebellar and contralateral motor and sensory symptoms and signs; supplied by the branches from the long circumferential pontine arteries, the anterior inferior cerebellar artery (AICA) (caudal pons), and/or the superior cerebellar artery (SCA) (rostral pons) in the lateral pontine tegmentum.
+
+N-Question: Patient presents with dysarthria, contralateral clumsiness characterized by dysmetria, dysrhythmia, dysdiadochokinesia, mild ipsilateral weakness, and facial weakness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dysarthria–clumsy hand syndrome caused by a deeply situated lacune in the pons; It develops in the body contralateral to the infarction side. Patients present with dysarthria, clumsiness characterized by dysmetria, dysrhythmia, dysdiadochokinesia, and mild ipsilateral weakness. In the typical patient, there is an obvious facial weakness and dysarthria.
+
+L-Question: Patient presents with truncal and gait ataxia. Where is the lesion located?
+L-Answer: a deeply situated lacune in the pons
+
+S-Question: Patient presents with truncal and gait ataxia. What is the implicated artery?
+S-Answer: small penetrating arteries (implied by lacune context)
+
+N-Question: Patient presents with pure motor hemiparesis, asymmetry of horizontal conjugate gaze with more saccadic movements and more difficulty sustaining gaze to the side contralateral to the hemiparesis, and slight ataxia of the ipsilateral lower extremity on toe-to-object testing. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: pontine PMH is often accompanied by dysarthria, previous transient gait abnormality, or vertigo. In patients with pontine PMH, examination may show an asymmetry of horizontal conjugate gaze with more saccadic movements and more difficulty sustaining gaze to the side contralateral to the hemiparesis. There may also be slight ataxia of the ipsilateral lower extremity on toe-to-object testing, indicating an abnormality of crossing fibers in the basis pontis. Large paramedian infarcts involving the caudal or middle pons correlate with severe PMH.
+
+L-Question: Patient presents with dysarthria, previous transient gait abnormality, or vertigo. Where is the lesion located?
+L-Answer: paramedian pontine infarct
+
+S-Question: Patient presents with dysarthria, previous transient gait abnormality, or vertigo. What is the implicated artery?
+S-Answer: paramedian branches (implied)
+
+L-Question: Patient presents with supranuclear facial palsy. Where is the lesion located?
+L-Answer: rostral pons
+
+S-Question: Patient presents with supranuclear facial palsy. What is the implicated artery?
+S-Answer: paramedian branches (implied)
+
+N-Question: Patient presents with ataxic hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ataxic hemiparesis can develop as a result of paramedian pontine infarction, particularly when the pyramidal tracts are spared. This syndrome is most likely to devlop when the infarcts are rostral and slightly lateral in the pons.
+
+L-Question: Patient presents with dysarthria–hemiataxia or quadrataxic hemiparesis. Where is the lesion located?
+L-Answer: paramedian pontine infarction (rostral and slightly lateral in the pons)
+
+S-Question: Patient presents with dysarthria–hemiataxia or quadrataxic hemiparesis. What is the implicated artery?
+S-Answer: paramedian branches (implied)
+
+N-Question: Patient presents with predominantly impaired ipsilateral smooth-pursuit eye movements interrupted by saccades. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When voluntary and reflex-like eye movements are measured in a patient with a basal pontine infarct, ipsilateral smooth-pursuit eye movements are predominantly impaired and interrupted by saccades.
+
+N-Question: Patient presents with hemiparesis, sensory dysfunction, abducens nerve palsy, internuclear ophthalmoplegia (INO), horizontal gaze palsy, and one-and-a-half syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: With basal–tegmental infarcts the patients may present various gaze abnormalities in addition to hemiparesis and sensory dysfunction. They include abducens nerve palsy, internuclear ophthalmoplegia (INO), horizontal gaze palsy, and one-and-a-half syndrome.
+
+N-Question: Patient presents with paralysis of ipsilesional conjugate gaze, abducens or facial paralysis, trigeminal sensory involvement, contralateral hemiplegia, or pure sensory syndromes (paresthesia in the contralateral side of the body and decreased position and vibration senses). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Isolated lateral tegmental infarcts usually develop as a part of infarction caused by occlusion of the AICA or SCA. This results in damage to various combinations of tracts and nuclei located in the pontine tegmentum. Common clinical findings include paralysis of ipsilesional conjugate gaze, abducens or facial paralysis, trigeminal sensory involvement, contralateral hemiplegia, or pure sensory syndromes (paresthesia in the contralateral side of the body and decreased position and vibration senses).
+
+N-Question: Patient presents with ipsilateral hearing loss or vertigo preceding pontine infarction signs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pontine infarction in these patients [isolated AICA territory infarction] may be preceded by ipsilateral hearing loss or vertigo. These findings are due to hypoperfusion in the distribution of the internal auditory artery, a branch of AICA.
+
+S-Question: Patient presents with auditory dysfunction. What is the implicated artery?
+S-Answer: AICA
+
+N-Question: Patient presents with vertigo, vomiting, headache, unsteadiness of gait, dysarthria, facial weakness, facial numbness, tinnitus, fifth cranial nerve abnormalities, nystagmus, limb dysmetria, gaze palsy, and hearing loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The syndrome of AICA territory infarction... the most common symptoms were: vertigo, vomiting, headache, unsteadiness of gait, and dysarthria. Facial weakness, facial numbness, and tinnitus were less often reported. The most common signs... were: facial weakness, fifth cranial nerve abnormalities, nystagmus, limb dysmetria, gaze palsy, and hearing loss. The region of infarction always includes the brachium pontis. The flocculus and lateral pontine tegmentum are also often involved.
+
+L-Question: Patient presents with AICA territory infarction symptoms. Where is the lesion located?
+L-Answer: brachium pontis
+
+L-Question: Patient presents with AICA territory infarction symptoms. Where is the lesion located?
+L-Answer: flocculus
+
+L-Question: Patient presents with AICA territory infarction symptoms. Where is the lesion located?
+L-Answer: lateral pontine tegmentum
+
+N-Question: Patient presents with contralateral hemisensory loss accompanied by an ipsilateral sixth and/or seventh nerve palsy, or an INO, or a one-and-a half syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In infarcts limited to the lateral pontine tegmentum, contralateral hemisensory loss related to infarction of the region of the merger of the medial lemniscus and the lateral spinothalamic tract, is often accompanied by an ipsilateral sixth and/or seventh nerve palsy, or an INO, or a one-and-a half syndrome (ipsilateral gaze palsy and an INO).
+
+S-Question: Patient presents with contralateral hemisensory loss accompanied by an ipsilateral sixth and/or seventh nerve palsy, or an INO, or a one-and-a half syndrome. What is the implicated artery?
+S-Answer: AICA or SCA (implied from context of lateral pontine infarcts)
+
+N-Question: Patient presents with weakness of masticatory muscles, trigeminal sensory changes, facial weakness of lower motor neuron type, and decreased palatal movement. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Tegmental infarction of the caudal pons causes non-ocular cranial nerve signs like weakness of masticatory muscles, trigeminal sensory changes, facial weakness of lower motor neuron type, and decreased palatal movement.
+
+S-Question: Patient presents with weakness of masticatory muscles, trigeminal sensory changes, facial weakness of lower motor neuron type, and decreased palatal movement. What is the implicated artery?
+S-Answer: AICA (implied from context of caudal pons infarcts)
+
+N-Question: Patient presents with pure sensory stroke characterized by predominant lemniscal sensory symptoms (selectively affecting vibration and position sense, leaving pinprick and temperature intact), occasional leg dominance or cheiro-oral pattern, frequent bilateral perioral involvement, and often associated dizziness/gait ataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pure or predominant pontine sensory stroke is most often produced by small infarcts in the paramedian dorsal pontine area. Pontine pure sensory stroke (PSS) can be differentiated from thalamic PSS by the following characteristics: frequent association of dizziness/gait ataxia, predominant lemniscal sensory symptoms, occasional leg dominance or cheiro-oral pattern, and frequent bilateral perioral involvement. Differently from thalamic PSS, pontine PSS selectively affects vibration and position sense, leaving pinprick and temperature perceptions intact.
+
+S-Question: Patient presents with pontine pure sensory stroke. What is the implicated artery?
+S-Answer: small penetrating arteries (implied by small infarcts)
+
+N-Question: Patient presents with vertigo, headache, diplopia, blurred vision, ataxic gait, altered consciousness, dysarthria, pseudobulbar signs (such as dysphagia), emotional lability, hemiplegia or quadriplegia, abducens nerve palsies, pupillary abnormalities, facial palsies, paralysis of the tongue, paresthesia, hyperreflexia, and bilateral Babinski signs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Large acute bilateral infarcts in the pons are usually caused by BA occlusion, either embolic or atherothrombotic. In patients with BA thrombosis vertigo, headache of a dull, steady, aching nature, diplopia, blurred vision, ataxic gait, and altered consciousness are common presenting symptoms. Dysarthria, pseudobulbar signs (such as dysphagia), emotional lability, hemiplegia or quadriplegia, abducens nerve palsies, pupillary abnormalities, facial palsies, paralysis of the tongue, paresthesia, hyperreflexia, and bilateral Babinski signs are common neurological signs.
+
+N-Question: Patient presents with hemiplegia, with the contralateral side showing slight reflex or motor abnormalities, potentially preceding more severe deficits. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Fisher noted that the syndrome often begins as a hemiplegia; he dubbed the initial mild neurological deficits as “herald hemiparesis.” The side contralateral to the hemiparesis often shows slight reflex or motor abnormalities. Patients with severe BA stenosis can develop a unilateral pontine infarct followed by another in the contralateral side after some interval, causing bilateral pontine infarcts.
+
+S-Question: Patient presents with herald hemiparesis. What is the implicated artery?
+S-Answer: basilar artery occlusion (or severe BA stenosis)
+
+N-Question: Patient presents with anisocoria (ipsilateral pupil smaller), paralysis of ipsilateral conjugate gaze, internuclear ophthalmoplegia, one-and-a-half syndrome, ipsilateral sixth nerve palsy, reduced upward gaze, ocular bobbing, contralateral hemisensory loss, cerebellar limb ataxia (ipsilateral, contralateral, or bilateral), decreased ipsilateral hearing, dysarthria, dysphagia, decreased ipsilateral facial sensation, absence of ipsilateral corneal reflex, and bilateral ptosis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Small hematomas may develop in the unilateral tegmental region (Figure 39.10(d)). The major clinical features are ocular and other cranial nerve abnormalities including: (i) pupillary abnormalities like anisocoria, with the ipsilateral pupil smaller but with normal pupillary reactivity, and (ii) defects in ocular motility including paralysis of ipsilateral conjugate gaze, internuclear ophthalmoplegia, one-and-a-half syndrome, ipsilateral sixth nerve palsy, reduced upward gaze, and ocular bobbing. Hemisensory loss is another invariable finding in patients with lateral tegmental hemorrhage and is related to involvement of the sensory lemniscus. Cerebellar limb ataxia can accompany the hemisensory signs and may be ipsilateral, contralateral, or occasionally bilateral, depending on involvement of the brachium conjunctivum before, after, or at the level of its decussation. Other brainstem signs may also be associated, including decreased hearing, dysarthria, dysphagia, decreased ipsilateral facial sensation, absence of ipsilateral corneal reflex, and bilateral ptosis. They are caused by rupture of penetrators from long circumferential arteries, which enter the tegmentum laterally and run medially and perpendicularly to the paramedian branches or, occasionally, from the distal paramedian branches penetrating from the pontine base.
+
+L-Question: Patient presents with trigeminal sensory symptoms in the context of a small unilateral tegmental pontine hemorrhage. Where is the lesion located?
+L-Answer: unilateral tegmental region
+
+L-Question: Patient presents with pure selective loss of touch, vibration, and position senses in the context of a small unilateral tegmental pontine hemorrhage. Where is the lesion located?
+L-Answer: unilateral tegmental region (involvement of the sensory lemniscus)
+
+L-Question: Patient presents with minor and transient motor deficits (may be bilateral initially) in the context of a small unilateral tegmental pontine hemorrhage. Where is the lesion located?
+L-Answer: unilateral tegmental region
+
+N-Question: Patient presents with contralateral ataxia, dystonic posture, hypesthesia (affecting stereognosis, two-point discrimination, and ability to localize tactile stimuli), with preserved temperature sensibility. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: if the hematoma is localized in the paramedian basal-tegmentum junction and involves the medial lemniscus, it may cause ataxia, dystonic posture, hypesthesia, and abnormalities of stereognosis, two-point discrimination, and ability to localize tactile stimuli in the contralateral side, with preserved temperature sensibility.
+
+S-Question: Patient presents with contralateral ataxia, dystonic posture, hypesthesia (affecting stereognosis, two-point discrimination, and ability to localize tactile stimuli), with preserved temperature sensibility. What is the implicated artery?
+S-Answer: paramedian penetrators (implied)
+
+N-Question: Patient presents with one-and-a-half syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: If located in the unilateral dorsal tegmentum involving the PPRF, one-and-a-half syndrome may develop.
+
+S-Question: Patient presents with one-and-a-half syndrome due to unilateral dorsal tegmental hemorrhage. What is the implicated artery?
+S-Answer: penetrators from long circumferential arteries or distal paramedian branches (implied)
+
+N-Question: Patient presents with contralateral hyperacusis following a unilateral pontine hemorrhage. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hyperacusis can develop, involving the contralateral side [due to] unilateral pontine hemorrhage.
+
+S-Question: Patient presents with contralateral hyperacusis following a unilateral pontine hemorrhage. What is the implicated artery?
+S-Answer: penetrating arteries (implied)
+
+N-Question: Patient presents with pure motor hemiplegia with or without dysarthria, ataxic hemiparesis, or DCH syndrome, potentially with ipsilateral hypesthesia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Small unilateral basal type [PPH] clinical features resemble the lacunar syndromes: pure motor hemiplegia with or without dysarthria and ataxic hemiparesis or DCH syndrome. Ipsilateral hypesthesia may occur when the medial lemniscus is involved.
+
+S-Question: Patient presents with pure motor hemiplegia, ataxic hemiparesis, or DCH syndrome due to small unilateral basal pontine hemorrhage. What is the implicated artery?
+S-Answer: paramedian penetrators (implied)
+
+L-Question: Patient presents with ipsilateral hypesthesia in the context of a small unilateral basal pontine hemorrhage. Where is the lesion located?
+L-Answer: unilateral basis pontis involving the medial lemniscus

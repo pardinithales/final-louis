@@ -1,0 +1,38 @@
+N-Question: Patient presents with ipsilateral pain, Horner’s syndrome, and signs of cerebral ischemia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The so-called classical triad of ICAD, including ipsilateral pain, Horner’s syndrome, and cerebral ischemia
+
+S-Question: Patient presents with ipsilateral pain, Horner’s syndrome, and signs of cerebral ischemia. What is the implicated artery?
+S-Answer: ICAD
+
+L-Question: Patient presents with ipsilateral pain, Horner’s syndrome, and signs of cerebral ischemia. Where is the lesion located?
+L-Answer: cerebral ischemia
+
+
+N-Question: Patient presents with transient monocular blindness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Internal carotid artery dissection... transient monocular blindness... Ocular... ischemia
+
+S-Question: Patient presents with transient monocular blindness. What is the implicated artery?
+S-Answer: Internal carotid artery dissection
+
+L-Question: Patient presents with transient monocular blindness. Where is the lesion located?
+L-Answer: Ocular... ischemia
+
+
+N-Question: Patient presents with posterior neck pain or occipital headache, which is predominantly unilateral and ipsilateral to the dissected artery, but can also occur bilaterally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The typical clinical manifestation of VAD is posterior neck pain, or occipital headache, or both... Pain is predominantly unilateral and ipsilateral to the dissected artery, but can also occur bilaterally
+
+S-Question: Patient presents with posterior neck pain or occipital headache, which is predominantly unilateral and ipsilateral to the dissected artery, but can also occur bilaterally. What is the implicated artery?
+S-Answer: VAD
+
+L-Question: Patient presents with posterior neck pain or occipital headache, which is predominantly unilateral and ipsilateral to the dissected artery, but can also occur bilaterally. Where is the lesion located?
+L-Answer: posterior neck pain, or occipital headache
+
+
+N-Question: Patient presents with symptoms consistent with lateral medullary infarction (Wallenberg’s syndrome). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Vertebral artery dissection... Lateral medullary infarction (Wallenberg’s syndrome) is common
+
+S-Question: Patient presents with Lateral medullary infarction (Wallenberg’s syndrome). What is the implicated artery?
+S-Answer: Vertebral artery dissection
+
+L-Question: Patient presents with symptoms consistent with lateral medullary infarction (Wallenberg's syndrome) due to vertebral artery dissection. Where else might ischemia occur?
+L-Answer: Other sites of ischemia include the cerebellum, thalamus, pons, and occipital lobes

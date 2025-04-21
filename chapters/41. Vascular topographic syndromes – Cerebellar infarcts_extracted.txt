@@ -1,0 +1,152 @@
+N-Question: Patient presents with ipsilateral dysmetria and Horner’s syndrome, contralateral temperature and pain sensory loss, and contralateral IVth nerve palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dysmetria and Horner’s syndrome (ipsilateral), temperature and pain sensory loss, and IVth nerve palsy (contralateral) with infarct in the Laterotegmental area of the upper pons associated with Rostral (SCA) cerebellar infarct.
+
+S-Question: Patient presents with ipsilateral dysmetria and Horner’s syndrome, contralateral temperature and pain sensory loss, and contralateral IVth nerve palsy. What is the implicated artery?
+S-Answer: SCA
+
+L-Question: Patient presents with ipsilateral dysmetria and Horner’s syndrome, contralateral temperature and pain sensory loss, and contralateral IVth nerve palsy. Where is the lesion located?
+L-Answer: Laterotegmental area of the upper pons
+
+N-Question: Patient presents with ipsilateral dysmetria, ipsilateral axial lateropulsion, ataxia, and dysarthria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Dysmetria, axial lateropulsion (ipsilateral), ataxia, and dysarthria associated with Ventrolateral (lSCA) cerebellar infarct.
+
+S-Question: Patient presents with ipsilateral dysmetria and ipsilateral axial lateropulsion. What is the implicated artery?
+S-Answer: lSCA
+
+L-Question: Patient presents with ipsilateral dysmetria and ipsilateral axial lateropulsion. Where is the lesion located?
+L-Answer: Ventrolateral cerebellum
+
+N-Question: Patient presents with ipsilateral VII, V, VIII palsy, ipsilateral Horner’s syndrome, ipsilateral dysmetria, and contralateral temperature and pain sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: VII, V, VIII, Horner’s syndrome, dysmetria (ipsilateral), temperature and pain sensory loss (contralateral) associated with Medial (AICA) cerebellar infarct with associated infarct in the Lateral area of the lower pons.
+
+S-Question: Patient presents with ipsilateral VII, V, VIII palsy and ipsilateral Horner’s syndrome. What is the implicated artery?
+S-Answer: AICA
+
+L-Question: Patient presents with contralateral temperature and pain sensory loss. Where is the lesion located?
+L-Answer: Lateral area of the lower pons
+
+N-Question: Patient presents with vertigo or vertigo with ipsilateral dysmetria, ipsilateral axial lateropulsion and ataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Isolated vertigo or vertigo with dysmetria and axial lateropulsion (ipsilateral) and ataxia associated with Dorsomedial (mPICA) cerebellar infarct.
+
+S-Question: Patient presents with ipsilateral dysmetria and ipsilateral axial lateropulsion. What is the implicated artery?
+S-Answer: mPICA
+
+L-Question: Patient presents with ipsilateral dysmetria and ipsilateral axial lateropulsion. Where is the lesion located?
+L-Answer: Dorsomedial cerebellum
+
+N-Question: Patient presents with vertigo and ipsilateral limb dysmetria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Vertigo, ipsilateral limb dysmetria associated with Ventrolateral (lPICA) cerebellar infarct.
+
+S-Question: Patient presents with ipsilateral limb dysmetria. What is the implicated artery?
+S-Answer: lPICA
+
+L-Question: Patient presents with ipsilateral limb dysmetria. Where is the lesion located?
+L-Answer: Ventrolateral cerebellum
+
+N-Question: Patient presents with vertigo, nystagmus, involvement of the Vth, IXth, Xth cranial nerves, Horner’s syndrome, ipsilateral limb ataxia, and contralateral hypoesthesia to pain and temperature. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Wallenberg’s syndrome may be complete or not, including vertigo, nystagmus, involvement of the Vth, IXth, Xth cranial nerves, Horner’s syndrome, ipsilateral limb ataxia, and contralateral hypoesthesia to pain and temperature.
+
+S-Question: Patient presents with Wallenberg's syndrome. What is the implicated artery?
+S-Answer: Patients with combined lateral medullary and PICA cerebellar infarcts most often have an intracranial VA occlusion that blocks both PICA and lateral medullary penetrators.
+
+L-Question: Patient presents with Wallenberg's syndrome. Where is the lesion located?
+L-Answer: lateral region of the medulla oblongata
+
+N-Question: Patient presents with vertigo, unilateral headache, gait ataxia, ipsilateral limb ataxia, ipsilateral horizontal nystagmus, and ipsilateral axial lateropulsion. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When PICA infarcts exclude the medulla, vertigo, headache, gait ataxia, ispilateral limb ataxia, and horizontal nystagmus are often found. Headache is usually cervical and/or occipital, but commonly unilateral. Nystagmus is the most frequent sign, being either horizontal (ipsilateral to the infarct predominantly, rarely contralateral) or vertical. After vertigo, axial lateropulsion ipsilateral to the infarct is the most common sign.
+
+S-Question: Patient presents with unilateral headache and ipsilateral axial lateropulsion. What is the implicated artery?
+S-Answer: PICA
+
+L-Question: Patient presents with unilateral headache and ipsilateral axial lateropulsion. Where is the lesion located?
+L-Answer: Cerebellar infarction (excluding the medulla)
+
+N-Question: Patient presents with isolated ipsilateral limb dysmetria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarcts of the lPICA have isolated ipsilateral limb dysmetria.
+
+S-Question: Patient presents with isolated ipsilateral limb dysmetria. What is the implicated artery?
+S-Answer: lPICA
+
+L-Question: Patient presents with isolated ipsilateral limb dysmetria. Where is the lesion located?
+L-Answer: Infarcts in the territory of the lPICA occur without medullary involvement.
+
+N-Question: Patient presents with facial palsy, auditory loss, facial hypesthesia, Horner’s syndrome, ipsilateral limb ataxia, contralateral thermoalgic hypesthesia, ipsilateral lateral gaze palsy, dysphagia, and contralateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: the “classical” syndrome associated clinical signs may include facial palsy, auditory loss, facial hypesthesia, Horner’s syndrome, ipsilateral limb ataxia, and contralateral thermoalgic hypesthesia. Ipsilateral lateral gaze palsy, dysphagia (in the case of medulla oblongata extension), and contralateral hemiparesis (lesion of the corticopontine bundle) are sometimes found.
+
+S-Question: Patient presents with the "classical" AICA syndrome. What is the implicated artery?
+S-Answer: AICA
+
+L-Question: Patient presents with the "classical" AICA syndrome. Where is the lesion located?
+L-Answer: The infarct limited to the inferolateral part of the pons, cerebellum, middle cerebellar peduncles, and the flocculus is responsible for the clinical manifestation.
+
+N-Question: Patient presents with ipsilateral limb ataxia with Horner’s syndrome, ipsilateral pain and temperature sensory loss, and paralysis of the contralateral IVth cranial nerve. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The classical typical SCA syndrome includes ipsilateral limb ataxia with Horner’s syndrome, ipsilateral pain and temperature sensory loss, and paralysis of the contralateral IVth cranial nerve.
+
+S-Question: Patient presents with ipsilateral limb ataxia and paralysis of the contralateral IVth cranial nerve. What is the implicated artery?
+S-Answer: SCA
+
+L-Question: Patient presents with ipsilateral limb ataxia and paralysis of the contralateral IVth cranial nerve. Where is the lesion located?
+L-Answer: It is due to a lesion of the lateral part of the tegmental area of the superior part of the pons.
+
+N-Question: Patient presents with contralateral dysmetria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: contralateral dysmetria (Claude’s syndrome) in the context of top-of-the basilar clinical presentation
+
+S-Question: Patient presents with contralateral dysmetria (Claude's syndrome). What is the implicated artery?
+S-Answer: the whole vascular territory of the SCA may be involved, together with a pontomesencephalic infarction due to BA distal occlusion
+
+L-Question: Patient presents with contralateral dysmetria (Claude's syndrome). Where is the lesion located?
+L-Answer: mesencephalic involvement
+
+N-Question: Patient presents with contralateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: contralateral hemiparesis (Weber’s syndrome) in the context of top-of-the basilar clinical presentation
+
+S-Question: Patient presents with contralateral hemiparesis (Weber's syndrome). What is the implicated artery?
+S-Answer: the whole vascular territory of the SCA may be involved due to BA distal occlusion
+
+L-Question: Patient presents with contralateral hemiparesis (Weber's syndrome). Where is the lesion located?
+L-Answer: mesencephalic involvement
+
+N-Question: Patient presents with unilateral spatial neglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: unilateral spatial neglect in the context of top-of-the basilar clinical presentation
+
+S-Question: Patient presents with unilateral spatial neglect. What is the implicated artery?
+S-Answer: the whole vascular territory of the SCA may be involved due to BA distal occlusion
+
+L-Question: Patient presents with unilateral spatial neglect. Where is the lesion located?
+L-Answer: temporal and occipital lobes and subthalamic and thalamic regions
+
+N-Question: Patient presents with unilateral facial emotional loss or uni- or bilateral auditory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Other signs commonly found are: unilateral facial emotional loss, uni- or bilateral auditory loss
+
+S-Question: Patient presents with unilateral facial emotional loss or uni- or bilateral auditory loss. What is the implicated artery?
+S-Answer: SCA
+
+L-Question: Patient presents with unilateral facial emotional loss or uni- or bilateral auditory loss. Where is the lesion located?
+L-Answer: a lesion of the lateral part of the tegmental area of the superior part of the pons
+
+N-Question: Patient presents with ipsilateral dysmetria and axial lateropulsion, dysarthria, and unsteadiness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Among the SCA syndromes the syndrome of the lateral branch The main clinical features include ipsilateral dysmetria and axial lateropulsion, dysarthria, and unsteadiness.
+
+S-Question: Patient presents with ipsilateral dysmetria and axial lateropulsion. What is the implicated artery?
+S-Answer: the lateral branch of the superior cerebellar artery (lSCA)
+
+L-Question: Patient presents with ipsilateral dysmetria and axial lateropulsion. Where is the lesion located?
+L-Answer: Infarction in the anterior rostral cerebellum
+
+N-Question: Patient presents with gait ataxia with sudden falling or severe veering, dysarthria, and unilateral mild limb ataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with isolated mSCA infarcts present commonly with gait ataxia with sudden falling or severe veering, and dysarthria. Gait ataxia and cerebellar dysarthria are prominent but unilateral mild limb ataxia can also be found.
+
+S-Question: Patient presents with unilateral mild limb ataxia. What is the implicated artery?
+S-Answer: mSCA
+
+L-Question: Patient presents with dysarthria after mSCA occlusion. Where is the lesion located?
+L-Answer: the paravermal zone of the rostal cerebellum (lobulus simplex and semilunaris superior)
+
+N-Question: Patient presents with dysarthria and gait ataxia with falling. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral occlusion of the SCA causes dysarthria and gait ataxia with falling.
+
+S-Question: Patient presents with dysarthria and gait ataxia with falling. What is the implicated artery?
+S-Answer: Bilateral occlusion of the SCA
+
+L-Question: Patient presents with dysarthria and gait ataxia with falling. Where is the lesion located?
+L-Answer: lesions of the vermis and paravermian regions of the anterior lobe

@@ -1,0 +1,605 @@
+N-Question: Patient presents with contralateral hyperhydrosis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Involvement of the frontal lobe may produce stupor, even coma. In such settings, a striking contralateral hyperhydrosis has been described.
+
+L-Question: Patient presents with contralateral hyperhydrosis. Where is the lesion located?
+L-Answer: frontal lobe
+
+S-Question: Patient presents with contralateral hyperhydrosis. What is the implicated artery?
+S-Answer: MCA trunk
+
+
+N-Question: Patient presents with conjugate deviation of the eyes toward the side of the infarct, contralateral hemineglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The wreckage of all of the fields governing eye movements generates a striking conjugate deviation of the eyes toward the side of the infarct in the acute phase. The associated contralateral hemineglect gives the impression of hemianopia on attempted visual field testing
+
+S-Question: Patient presents with conjugate deviation of the eyes toward the side of the infarct, contralateral hemineglect. What is the implicated artery?
+S-Answer: MCA trunk
+
+
+N-Question: Patient presents with denial of illness, acute confusional state, motor impersistence including inability to maintain eye closure, whispering voice, contralateral visuospatial neglect, anosodiaphoria, dressing and constructional apraxia, sensory aprosodia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Those affected in the nondominant hemisphere show prominent frequent denial of illness, acute confusional state, motor impersistence including inability to maintain eye closure, whispering voice, contralateral visuospatial neglect, anosodiaphoria, dressing and constructional apraxia, and more rarely, sensory aprosodia.
+
+L-Question: Patient presents with denial of illness, acute confusional state, motor impersistence including inability to maintain eye closure, whispering voice, contralateral visuospatial neglect, anosodiaphoria, dressing and constructional apraxia, sensory aprosodia. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+S-Question: Patient presents with denial of illness, acute confusional state, motor impersistence including inability to maintain eye closure, whispering voice, contralateral visuospatial neglect, anosodiaphoria, dressing and constructional apraxia, sensory aprosodia. What is the implicated artery?
+S-Answer: MCA
+
+
+N-Question: Patient presents with contralateral hemiparesis with prominent faciobrachial deficit, mild lower limb deficit, and hemisensory loss with the same distribution. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A contralateral hemiparesis, with prominent faciobrachial deficit (sometimes associated with a mild lower limb deficit), and hemisensory loss with the same distribution are usually encountered.
+
+S-Question: Patient presents with contralateral hemiparesis with prominent faciobrachial deficit, mild lower limb deficit, and hemisensory loss with the same distribution. What is the implicated artery?
+S-Answer: MCA superior (anterior) division
+
+L-Question: Patient presents with contralateral hemiparesis with prominent faciobrachial deficit, mild lower limb deficit, and hemisensory loss with the same distribution. Where is the lesion located?
+L-Answer: frontal and peri-Rolandic regions, including the anterior parietal lobe
+
+
+N-Question: Patient presents with hemineglect with reduced ocular exploration toward the opposite side, head and eyes remaining in the midline. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: there is usually an associated hemineglect with reduced ocular exploration toward the opposite side, the head and eyes remaining in the midline.
+
+S-Question: Patient presents with hemineglect with reduced ocular exploration toward the opposite side, head and eyes remaining in the midline. What is the implicated artery?
+S-Answer: MCA superior (anterior) division
+
+L-Question: Patient presents with hemineglect with reduced ocular exploration toward the opposite side, head and eyes remaining in the midline. Where is the lesion located?
+L-Answer: frontal and peri-Rolandic regions, including the anterior parietal lobe
+
+
+N-Question: Patient presents with global aphasia with mutism (aphemia) at stroke onset, evolving over days to weeks toward Broca’s aphasia, accompanied with buccolinguofacial apraxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For infarcts affecting the hemisphere dominant for speech and language, global aphasia with mutism (aphemia) is frequent at stroke onset, evolving over days to weeks toward Broca’s aphasia, and frequently accompanied with buccolinguofacial apraxia.
+
+S-Question: Patient presents with global aphasia with mutism (aphemia) at stroke onset, evolving over days to weeks toward Broca’s aphasia, accompanied with buccolinguofacial apraxia. What is the implicated artery?
+S-Answer: MCA superior (anterior) division
+
+L-Question: Patient presents with global aphasia with mutism (aphemia) at stroke onset, evolving over days to weeks toward Broca’s aphasia, accompanied with buccolinguofacial apraxia. Where is the lesion located?
+L-Answer: hemisphere dominant for speech and language
+
+
+N-Question: Patient presents with acute confusional state, hemiinattention or hemispatial neglect, associated with dysarthria or dysprosodia (monotonous speech without melodic and emotional inflections). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For infarcts affecting the nondominant hemisphere, an acute confusional state may be encountered in more than two-thirds of MCA superior division territory infarcts. There is typically a variable degree of hemiinattention or hemispatial neglect, usually associated with dysarthria or dysprosodia (monotonous speech without melodic and emotional inflections).
+
+S-Question: Patient presents with acute confusional state, hemiinattention or hemispatial neglect, associated with dysarthria or dysprosodia (monotonous speech without melodic and emotional inflections). What is the implicated artery?
+S-Answer: MCA superior division
+
+L-Question: Patient presents with acute confusional state, hemiinattention or hemispatial neglect, associated with dysarthria or dysprosodia (monotonous speech without melodic and emotional inflections). Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with contralateral forced grasping, conjugate deviation of the eyes, social disinhibition, senseless compulsive joking (Witzelsucht), boisterous behavior, inappropriate playfulness, continuous laughing (moria). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: It is said to include a frontal syndrome with contralateral forced grasping and conjugate deviation of the eyes; social disinhibition; senseless, compulsive joking (the Witzelsucht of Oppenheim); boisterous behavior; inappropriate playfulness, and continuous laughing (moria of Jastrowitz).
+
+S-Question: Patient presents with contralateral forced grasping, conjugate deviation of the eyes, social disinhibition, senseless compulsive joking (Witzelsucht), boisterous behavior, inappropriate playfulness, continuous laughing (moria). What is the implicated artery?
+S-Answer: orbitofrontal branch
+
+L-Question: Patient presents with contralateral forced grasping, conjugate deviation of the eyes, social disinhibition, senseless compulsive joking (Witzelsucht), boisterous behavior, inappropriate playfulness, continuous laughing (moria). Where is the lesion located?
+L-Answer: orbital portion of the middle and inferior frontal gyri and the inferior orbital part of the frontal lobe
+
+
+N-Question: Patient presents with loss of programming abilities, poor utilization and imitation behaviors, perseverations, poor abstraction and categorization, impairment of mental flexibility, apathy, abulia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The neuropsychological abnormalities (prefrontal syndrome of Luria) and relative lack of sensorimotor dysfunction are the most prominent features of this infarct territory. The wide variety of behavioral disturbances include cognitive and behavioral deficits associated with loss of programming abilities, poor utilization and imitation behaviors, perseverations, poor abstraction and categorization, impairment of mental flexibility, and for the larger infarcts, apathy and abulia.
+
+S-Question: Patient presents with loss of programming abilities, poor utilization and imitation behaviors, perseverations, poor abstraction and categorization, impairment of mental flexibility, apathy, abulia. What is the implicated artery?
+S-Answer: prefrontal arteries
+
+L-Question: Patient presents with loss of programming abilities, poor utilization and imitation behaviors, perseverations, poor abstraction and categorization, impairment of mental flexibility, apathy, abulia. Where is the lesion located?
+L-Answer: middle frontal gyrus and the superior orbital triangular and anterior opercular parts of the frontal lobe
+
+
+N-Question: Patient presents with cognitive and behavioral deficits including delusions involving orientation in time and place, past events, or identification of familiar individuals. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Delusions involve orientation in time and place, past events, or identification of familiar individuals. These syndromes have been reported more often in infarcts in the nondominant hemisphere and usually occur in a setting of preexisting cerebral atrophy.
+
+S-Question: Patient presents with delusions involving orientation in time and place, past events, or identification of familiar individuals. What is the implicated artery?
+S-Answer: prefrontal arteries
+
+L-Question: Patient presents with delusions involving orientation in time and place, past events, or identification of familiar individuals. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with difficulties in smoothly switching from one motor act to another, whereas each act can be easily and normally performed in isolation. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Luria described a premotor syndrome or loss of kinetic melody (limb kinetic apraxia), characterized by difficulties in smoothly switching from one motor act to another, whereas each act can be easily and normally performed in isolation.
+
+S-Question: Patient presents with difficulties in smoothly switching from one motor act to another, whereas each act can be easily and normally performed in isolation. What is the implicated artery?
+S-Answer: precentral arteries
+
+L-Question: Patient presents with difficulties in smoothly switching from one motor act to another, whereas each act can be easily and normally performed in isolation. Where is the lesion located?
+L-Answer: anterior and middle parts of the precentral gyrus, the posterior middle frontal gyrus, and the superior orbital part of the frontal lobe
+
+
+N-Question: Patient presents with inability to keep the mouth open, protrude the tongue, hold the breath, or hold the eyelids shut for more than ten seconds (motor impersistence, apraxia of lid closure). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For those infarcts affecting the nondominant hemisphere, the term motor impersistence, coined by Fisher, is found by testing simple acts (keeping the mouth open, protruding the tongue, holding the breath, or holding the eyelids shut for more than ten seconds – apraxia of lid closure).
+
+S-Question: Patient presents with inability to keep the mouth open, protrude the tongue, hold the breath, or hold the eyelids shut for more than ten seconds. What is the implicated artery?
+S-Answer: precentral arteries
+
+L-Question: Patient presents with inability to keep the mouth open, protrude the tongue, hold the breath, or hold the eyelids shut for more than ten seconds. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with hemineglect, difficulties in coordination of motor programs for exploration, lack of spontaneous placing reaction, delayed and insufficient assumption of correct postures, impaired automatic withdrawal reaction to pain, and prolonged reaction times for movements directed contralaterally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemineglect may be observed... in right-sided premotor lesions, with similar difficulties in the coordination of motor programs for exploration, lack of spontaneous placing reaction, delayed and insufficient assumption of correct postures, and even impaired automatic withdrawal reaction to pain, with prolonged reaction times for movements directed contralaterally.
+
+S-Question: Patient presents with hemineglect, difficulties in coordination of motor programs for exploration, lack of spontaneous placing reaction, delayed and insufficient assumption of correct postures, impaired automatic withdrawal reaction to pain, and prolonged reaction times for movements directed contralaterally. What is the implicated artery?
+S-Answer: precentral artery
+
+L-Question: Patient presents with hemineglect, difficulties in coordination of motor programs for exploration, lack of spontaneous placing reaction, delayed and insufficient assumption of correct postures, impaired automatic withdrawal reaction to pain, and prolonged reaction times for movements directed contralaterally. Where is the lesion located?
+L-Answer: right-sided premotor lesions
+
+
+N-Question: Patient presents with initial mutism, followed within hours to days by emerging articulation, some dysarthric syllables, but remarkably lacking in disturbances in sentence structures. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Most frequent is an initial mutism, followed within hours to days by emerging articulation, some dysarthric syllables, but remarkably lacking in disturbances in sentence structures. This syndrome, dubbed rapid amelioration of motor aphasia challenged the traditional connectionist theory that Broca’s aphasia was explained by an infarct limited to the dominant hemisphere’s inferior frontal operculum.
+
+S-Question: Patient presents with initial mutism, followed within hours to days by emerging articulation, some dysarthric syllables, but remarkably lacking in disturbances in sentence structures. What is the implicated artery?
+S-Answer: precentral artery
+
+L-Question: Patient presents with initial mutism, followed within hours to days by emerging articulation, some dysarthric syllables, but remarkably lacking in disturbances in sentence structures. Where is the lesion located?
+L-Answer: dominant hemisphere
+
+
+N-Question: Patient presents with aphemia or pure apraxia of speech with dysarthric spoken output not facilitated by reading, repetition, recitation, or naming, but without aphasia, or pure anarthria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: (i) aphemia or pure apraxia of speech with dysarthric spoken output not facilitated by reading, repetition, recitation, or naming, but without aphasia; (ii) pure anarthria of Pierre Marie;
+
+S-Question: Patient presents with aphemia or pure apraxia of speech with dysarthric spoken output not facilitated by reading, repetition, recitation, or naming, but without aphasia, or pure anarthria. What is the implicated artery?
+S-Answer: precentral artery
+
+L-Question: Patient presents with aphemia or pure apraxia of speech with dysarthric spoken output not facilitated by reading, repetition, recitation, or naming, but without aphasia, or pure anarthria. Where is the lesion located?
+L-Answer: dominant hemisphere
+
+
+N-Question: Patient presents with laconic, grammatical, sentence-length utterances with semantic paraphasias with preserved repetition and comprehension, and delayed initiation of speech. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In some cases, grammar or word finding; delayed initiation of speech; and laconic, grammatical, sentence-length utterances with semantic paraphasias with preserved repetition and comprehension have been described by the curious title transcortical aphasia, the term drawn on a now-outmoded model of disconnection syndromes.
+
+S-Question: Patient presents with laconic, grammatical, sentence-length utterances with semantic paraphasias with preserved repetition and comprehension, and delayed initiation of speech. What is the implicated artery?
+S-Answer: precentral artery
+
+L-Question: Patient presents with laconic, grammatical, sentence-length utterances with semantic paraphasias with preserved repetition and comprehension, and delayed initiation of speech. Where is the lesion located?
+L-Answer: dominant hemisphere
+
+
+N-Question: Patient presents with severe motor deficit affecting the face, arm, and leg, with hemisensory loss in the same distribution. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For those whose infarct affects the entire territory, the motor deficit can be severe, affecting a wide range of motor and sensory function from complete involvement of the face, arm, and leg, with hemisensory loss in the same distribution
+
+S-Question: Patient presents with severe motor deficit affecting the face, arm, and leg, with hemisensory loss in the same distribution. What is the implicated artery?
+S-Answer: central sulcus artery
+
+L-Question: Patient presents with severe motor deficit affecting the face, arm, and leg, with hemisensory loss in the same distribution. Where is the lesion located?
+L-Answer: central sulcus territory
+
+
+N-Question: Patient presents with striking focal weakness in the arm, wrist, hand, or fingers. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Branch occlusion of the distal end of the territory can produce striking focal weakness in the arm, wrist, hand, or fingers.
+
+S-Question: Patient presents with striking focal weakness in the arm, wrist, hand, or fingers. What is the implicated artery?
+S-Answer: distal end of the central sulcus artery
+
+L-Question: Patient presents with striking focal weakness in the arm, wrist, hand, or fingers. Where is the lesion located?
+L-Answer: distal end of the central sulcus territory
+
+
+N-Question: Patient presents with isolated cheiro-oral sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: isolated cheiro-oral sensory loss with occlusion of the posterior branch of the central sulcus artery and with infarction limited to the parietal operculum (posterior operculum syndrome of Bruyn).
+
+S-Question: Patient presents with isolated cheiro-oral sensory loss. What is the implicated artery?
+S-Answer: posterior branch of the central sulcus artery
+
+L-Question: Patient presents with isolated cheiro-oral sensory loss. Where is the lesion located?
+L-Answer: parietal operculum
+
+
+N-Question: Patient presents with unilateral upper limb ataxia with asterixis with no hemisensory disturbances. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Isolated examples have been described of unilateral upper limb ataxia with asterixis with no hemisensory disturbances
+
+S-Question: Patient presents with unilateral upper limb ataxia with asterixis with no hemisensory disturbances. What is the implicated artery?
+S-Answer: central sulcus artery
+
+L-Question: Patient presents with unilateral upper limb ataxia with asterixis with no hemisensory disturbances. Where is the lesion located?
+L-Answer: central sulcus artery territory
+
+
+N-Question: Patient presents with loss of voluntary control of facial, pharyngeal, lingual, and masticatory muscles, preserved reflexive and automatic functions, and anarthria or severe dysarthria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In bilateral damage to the low primary motor cortex – frontal operculum – anterior opercular syndrome (Foix–Chavany–Marie syndrome) has been described, with loss of voluntary control of facial, pharyngeal, lingual, and masticatory muscles, preserved reflexive and automatic functions, and anarthria or severe dysarthria.
+
+S-Question: Patient presents with loss of voluntary control of facial, pharyngeal, lingual, and masticatory muscles, preserved reflexive and automatic functions, and anarthria or severe dysarthria. What is the implicated artery?
+S-Answer: central sulcus artery branches
+
+L-Question: Patient presents with loss of voluntary control of facial, pharyngeal, lingual, and masticatory muscles, preserved reflexive and automatic functions, and anarthria or severe dysarthria. Where is the lesion located?
+L-Answer: bilateral damage to the low primary motor cortex – frontal operculum
+
+
+N-Question: Patient presents with bilateral anterior opercular syndrome symptoms from a unilateral infarct. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Instances said to represent bilateral anterior opercular syndrome from unilateral infarct, as described with imaging and/or autopsy study by Berthier et al. were also reported by Pertuiset and Perrier et al.
+
+S-Question: Patient presents with bilateral anterior opercular syndrome symptoms from a unilateral infarct. What is the implicated artery?
+S-Answer: central sulcus artery branch
+
+L-Question: Patient presents with bilateral anterior opercular syndrome symptoms from a unilateral infarct. Where is the lesion located?
+L-Answer: unilateral infarct
+
+
+N-Question: Patient presents with difficulty repeating aloud sounds, letters, words, phrases, and sentences, with literal paraphasias, but superior auditory comprehension and adequate vocalization skills. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: conduction aphasia... preventing the replication of sounds, letter names, words, phrases, and sentences, with these errors easily detected as mispronunciations, or so-called literal paraphasias.
+
+S-Question: Patient presents with difficulty repeating aloud sounds, letters, words, phrases, and sentences, with literal paraphasias, but superior auditory comprehension and adequate vocalization skills. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with difficulty repeating aloud sounds, letters, words, phrases, and sentences, with literal paraphasias, but superior auditory comprehension and adequate vocalization skills. Where is the lesion located?
+L-Answer: inferior parietal region
+
+
+N-Question: Patient presents with sensory loss involving touch, pain, temperature, and vibration affecting the face, arm, and leg, often the trunk, predominating in the upper limbs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: labeled the pseudothalamic syndrome... This sensory loss includes involvement of elementary modalities of sensation (touch, pain, temperature, and vibration) typically affecting the face, arm, and leg, and often the trunk, but usually predominating in the upper limbs. The infarction involves the posterior insula, the parietal operculum, the anterior part of the supramarginal gyrus, and the underlying white matter.
+
+S-Question: Patient presents with sensory loss involving touch, pain, temperature, and vibration affecting the face, arm, and leg, often the trunk, predominating in the upper limbs. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with sensory loss involving touch, pain, temperature, and vibration affecting the face, arm, and leg, often the trunk, predominating in the upper limbs. Where is the lesion located?
+L-Answer: posterior insula, the parietal operculum, the anterior part of the supramarginal gyrus, and the underlying white matter
+
+
+N-Question: Patient presents with hemineglect and is unaware of self-mutilation or pain. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: the syndrome associated with hemineglect and possible self-mutilation, dubbed asymbolia for pain, is linked to... insular and inferior parietal infarcts.
+
+S-Question: Patient presents with hemineglect and is unaware of self-mutilation or pain. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with hemineglect and is unaware of self-mutilation or pain. Where is the lesion located?
+L-Answer: insular and inferior parietal
+
+
+N-Question: Patient presents with easily induced or spontaneous pain (burning, ice-like, or constrictive), summation hyperpathia, and allodynia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: easily induced or spontaneous pain (burning, ice-like, or constrictive pain), summation hyperpathia, and allodynia; the infarcts described have also been insular and inferior parietal.
+
+S-Question: Patient presents with easily induced or spontaneous pain (burning, ice-like, or constrictive), summation hyperpathia, and allodynia. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with easily induced or spontaneous pain (burning, ice-like, or constrictive), summation hyperpathia, and allodynia. Where is the lesion located?
+L-Answer: insular and inferior parietal
+
+
+N-Question: Patient presents with ataxia, possibly without hemisensory loss, sometimes with sensory loss and slight motor weakness (lower facial asymmetry or decreased fine motility distally in the hand), or ataxia and dystonic postures of the hand. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: a parietal ataxia has been described, without hemisensory loss, a sensory loss, and slight motor weakness (lower facial asymmetry or decreased fine motility distally in the hand), or more rarely, ataxia and dystonic postures of the hand.
+
+S-Question: Patient presents with ataxia, possibly without hemisensory loss, sometimes with sensory loss and slight motor weakness (lower facial asymmetry or decreased fine motility distally in the hand), or ataxia and dystonic postures of the hand. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with ataxia, possibly without hemisensory loss, sometimes with sensory loss and slight motor weakness (lower facial asymmetry or decreased fine motility distally in the hand), or ataxia and dystonic postures of the hand. Where is the lesion located?
+L-Answer: parietal
+
+
+N-Question: Patient presents with objective or subjective sensory abnormalities in the face with severe hypesthesia in the distal upper limb, involving mainly position sense, stereognosia, and dysgraphesthesia, and less frequently, impaired temperature and pain response. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: cheiro-oral syndrome... clinical features are objective or subjective sensory abnormalities in the face with severe hypesthesia in the distal upper limb, involving mainly position sense, stereognosia, and dysgraphesthesia (Verger–Déjerine cortical hypoesthesia), and less frequently, impaired response to temperature and pain testing.
+
+S-Question: Patient presents with objective or subjective sensory abnormalities in the face with severe hypesthesia in the distal upper limb, involving mainly position sense, stereognosia, and dysgraphesthesia, and less frequently, impaired temperature and pain response. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with objective or subjective sensory abnormalities in the face with severe hypesthesia in the distal upper limb, involving mainly position sense, stereognosia, and dysgraphesthesia, and less frequently, impaired temperature and pain response. Where is the lesion located?
+L-Answer: parietal opercular area
+
+
+N-Question: Patient presents with hemisensory neglect or visuospatial and visuoconstructive abnormalities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In nondominant hemisphere infarcts, hemisensory neglect or visuospatial and visuoconstructive abnormalities are common, mainly with involvement of the right inferior parietal lobule.
+
+S-Question: Patient presents with hemisensory neglect or visuospatial and visuoconstructive abnormalities. What is the implicated artery?
+S-Answer: anterior parietal artery
+
+L-Question: Patient presents with hemisensory neglect or visuospatial and visuoconstructive abnormalities. Where is the lesion located?
+L-Answer: nondominant hemisphere, right inferior parietal lobule
+
+
+N-Question: Patient presents with severe loss of sensation and concentrates on the left side of their body, looking at, rubbing, touching, pinching, pressing, lifting, and manipulating parts of their left arm, trunk, and leg with their right hand or foot, with interest limited to the left side of their own body. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: acute hemiconcern... is strongly suggestive of a right anterior parietal artery territory infarct... All patients presented severe loss of sensation. The patients concentrated on the left side of their bodies, looking at themselves for long periods and relentlessly rubbing, touching, pinching, pressing, lifting, and manipulating parts of their left arm, trunk, and leg with their right hand or foot. Their interest and activity are limited to the left side of their own body and were not associated with excessive interest in the left hemispace.
+
+S-Question: Patient presents with severe loss of sensation and concentrates on the left side of their body, looking at, rubbing, touching, pinching, pressing, lifting, and manipulating parts of their left arm, trunk, and leg with their right hand or foot, with interest limited to the left side of their own body. What is the implicated artery?
+S-Answer: right anterior parietal artery
+
+L-Question: Patient presents with severe loss of sensation and concentrates on the left side of their body, looking at, rubbing, touching, pinching, pressing, lifting, and manipulating parts of their left arm, trunk, and leg with their right hand or foot, with interest limited to the left side of their own body. Where is the lesion located?
+L-Answer: right anterior parietal artery territory
+
+
+N-Question: Patient presents with contralateral homonymous anopic features, complete contralateral hemianopia, or quadrantanopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Visual field abnormalities include a wide spectrum of contralateral homonymous anopic features. When the infarct is sufficiently severe to penetrate deep to the ventricular wall, a complete contralateral hemianopia occurs. Less complete penetration may yield only a quadrantanopia.
+
+S-Question: Patient presents with contralateral homonymous anopic features, complete contralateral hemianopia, or quadrantanopia. What is the implicated artery?
+S-Answer: MCA inferior (posterior) division
+
+L-Question: Patient presents with contralateral homonymous anopic features, complete contralateral hemianopia, or quadrantanopia. Where is the lesion located?
+L-Answer: inferior division territory, potentially deep to the ventricular wall
+
+
+N-Question: Patient presents with visual hemineglect, evident in faulty reading of the contralateral end of longer words or in thematic pictures. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: If confined to the cerebral surface and sparing much of the visual radiation, the effect may be mainly a visual hemineglect, evident in faulty reading of the contralateral end of longer words or in thematic pictures the important components of which contain right- and left-sided elements.
+
+S-Question: Patient presents with visual hemineglect, evident in faulty reading of the contralateral end of longer words or in thematic pictures. What is the implicated artery?
+S-Answer: MCA inferior division
+
+L-Question: Patient presents with visual hemineglect, evident in faulty reading of the contralateral end of longer words or in thematic pictures. Where is the lesion located?
+L-Answer: cerebral surface, sparing much of the visual radiation
+
+
+N-Question: Patient presents with Wernicke’s aphasia or conduction aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For dominant hemisphere infarction, language and behavior disturbances are the main features... the clinical picture typically produces a Wernicke’s aphasia, less often it produces a more restricted syndrome and conduction aphasia.
+
+S-Question: Patient presents with Wernicke’s aphasia or conduction aphasia. What is the implicated artery?
+S-Answer: MCA inferior (posterior) division
+
+L-Question: Patient presents with Wernicke’s aphasia or conduction aphasia. Where is the lesion located?
+L-Answer: dominant hemisphere
+
+
+N-Question: Patient presents initially with severe disruption of speech and language function (global aphasia), which remits toward Wernicke’s syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Instances exist in which the disruption of speech and language function is severe in the first hours or days, producing a global aphasia, which usually remits toward Wernicke’s syndrome.
+
+S-Question: Patient presents initially with severe disruption of speech and language function (global aphasia), which remits toward Wernicke’s syndrome. What is the implicated artery?
+S-Answer: MCA inferior (posterior) division
+
+L-Question: Patient presents initially with severe disruption of speech and language function (global aphasia), which remits toward Wernicke’s syndrome. Where is the lesion located?
+L-Answer: dominant hemisphere
+
+
+N-Question: Patient presents with hemineglect for contralateral space, including auditory, somatosensory, and visual stimuli. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For nondominant hemisphere infarcts, a hemineglect for contralateral space is a common presentation, including auditory, somatosensory, and visual stimuli.
+
+S-Question: Patient presents with hemineglect for contralateral space, including auditory, somatosensory, and visual stimuli. What is the implicated artery?
+S-Answer: MCA inferior (posterior) division
+
+L-Question: Patient presents with hemineglect for contralateral space, including auditory, somatosensory, and visual stimuli. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with behavioral changes, most often an acute confusional state, less often an acute agitated delirium. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In half the patients, behavioral changes are the most striking pattern, most often as an acute confusional state, less often as an acute agitated delirium.
+
+S-Question: Patient presents with behavioral changes, most often an acute confusional state, less often an acute agitated delirium. What is the implicated artery?
+S-Answer: MCA inferior (posterior) division
+
+L-Question: Patient presents with behavioral changes, most often an acute confusional state, less often an acute agitated delirium. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with impaired pseudoaffective comprehension, repetition, and identification of emotional gesturing, with relatively spared expression (Sensory aprosody). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Sensory aprosody seems an acute marker of nondominant inferior division territory MCA infarcts... It is a disorder of emotional speech with impairment of pseudoaffective comprehension, repetition, and identification of emotional gesturing, and relatively spared expression. Sensory aprosody is probably the result of damage to the right posterosuperior temporal lobe.
+
+S-Question: Patient presents with impaired pseudoaffective comprehension, repetition, and identification of emotional gesturing, with relatively spared expression. What is the implicated artery?
+S-Answer: nondominant inferior division territory MCA
+
+L-Question: Patient presents with impaired pseudoaffective comprehension, repetition, and identification of emotional gesturing, with relatively spared expression. Where is the lesion located?
+L-Answer: right posterosuperior temporal lobe
+
+
+N-Question: Patient presents with asymmetrical catalepsy with perseveration of posture, more prominent in the left limbs, associated with severe left hemispatial neglect and hemisensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: An asymmetrical catalepsy with perseveration of posture, more prominent in the left limbs, has rarely been reported. This unusual symptom may be viewed as the mirror image of motor impersistence and is associated with severe left hemispatial neglect and hemisensory loss.
+
+S-Question: Patient presents with asymmetrical catalepsy with perseveration of posture, more prominent in the left limbs, associated with severe left hemispatial neglect and hemisensory loss. What is the implicated artery?
+S-Answer: MCA inferior division
+
+L-Question: Patient presents with asymmetrical catalepsy with perseveration of posture, more prominent in the left limbs, associated with severe left hemispatial neglect and hemisensory loss. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with contralateral homonymous hemianopia or superior quadrantanopia, possibly with mild transient motor weakness and sensory dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: contralateral homonymous hemianopia or superior quadrantanopia, with occasional mild transient motor weakness and sensory dysfunction.
+
+S-Question: Patient presents with contralateral homonymous hemianopia or superior quadrantanopia, possibly with mild transient motor weakness and sensory dysfunction. What is the implicated artery?
+S-Answer: temporal artery branches (temporooccipital, posterior temporal, middle temporal)
+
+L-Question: Patient presents with contralateral homonymous hemianopia or superior quadrantanopia, possibly with mild transient motor weakness and sensory dysfunction. Where is the lesion located?
+L-Answer: territories of the temporooccipital, posterior temporal, or middle temporal arteries
+
+
+N-Question: Patient presents with Wernicke's aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Wernicke’s aphasia was long assumed to require only the involvement of the superior temporal plane, but modern imaging has shown that syndrome severity correlates with the degree of posterior extension of the infarct toward the occipital lobe.
+
+S-Question: Patient presents with Wernicke's aphasia. What is the implicated artery?
+S-Answer: temporal artery branches
+
+L-Question: Patient presents with Wernicke's aphasia. Where is the lesion located?
+L-Answer: superior temporal plane, with posterior extension toward the occipital lobe
+
+
+N-Question: Patient presents with disturbed visuolexical and graphic functions (pure alexia with agraphia) more than auditory or vocal functions. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For those infarcts that affect the posterior parietal region as an extension of the branch occlusion, the syndrome may feature more disturbed visuolexical and graphic than auditory or vocal functions. Isolated examples of pure alexia with agraphia have been sufficiently rare
+
+S-Question: Patient presents with disturbed visuolexical and graphic functions (pure alexia with agraphia) more than auditory or vocal functions. What is the implicated artery?
+S-Answer: temporal artery branches
+
+L-Question: Patient presents with disturbed visuolexical and graphic functions (pure alexia with agraphia) more than auditory or vocal functions. Where is the lesion located?
+L-Answer: posterior parietal region
+
+
+N-Question: Patient presents with contralateral visual neglect, micropsia without spatial neglect, contralateral extinction on bilateral tactile stimuli, and constructional apraxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: For infarcts in the nondominant hemisphere, the most common findings are contralateral visual neglect, micropsia without spatial neglect, contralateral extinction on bilateral tactile stimuli, and constructional apraxia.
+
+S-Question: Patient presents with contralateral visual neglect, micropsia without spatial neglect, contralateral extinction on bilateral tactile stimuli, and constructional apraxia. What is the implicated artery?
+S-Answer: temporal artery branches
+
+L-Question: Patient presents with contralateral visual neglect, micropsia without spatial neglect, contralateral extinction on bilateral tactile stimuli, and constructional apraxia. Where is the lesion located?
+L-Answer: nondominant hemisphere
+
+
+N-Question: Patient presents with acute agitated delirium or an agitated confusional state. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Two agitated states have been described: acute agitated delirium, thought to be explained by infarction of the nondominant middle temporal gyrus, and an agitated confusional state
+
+S-Question: Patient presents with acute agitated delirium or an agitated confusional state. What is the implicated artery?
+S-Answer: middle temporal artery
+
+L-Question: Patient presents with acute agitated delirium or an agitated confusional state. Where is the lesion located?
+L-Answer: nondominant middle temporal gyrus
+
+
+N-Question: Patient presents with unilateral cortical deafness (hemianacusia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: unilateral cortical deafness (hemianacusia) is actually rare.
+
+S-Question: Patient presents with unilateral cortical deafness (hemianacusia). What is the implicated artery?
+S-Answer: temporal artery branches
+
+L-Question: Patient presents with unilateral cortical deafness (hemianacusia). Where is the lesion located?
+L-Answer: superior temporal plane
+
+
+N-Question: Patient presents with difficulty replicating rhythmic patterns of simple and universally familiar melodies on an instrument (expressive instrumental amusia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: difficulty replicating rhythmic patterns of simple and universally familiar melodies on the organ”, described as expressive instrumental amusia.
+
+S-Question: Patient presents with difficulty replicating rhythmic patterns of simple and universally familiar melodies on an instrument (expressive instrumental amusia). What is the implicated artery?
+S-Answer: temporal artery
+
+L-Question: Patient presents with difficulty replicating rhythmic patterns of simple and universally familiar melodies on an instrument (expressive instrumental amusia). Where is the lesion located?
+L-Answer: right temporoparietal
+
+
+N-Question: Patient presents with difficulties in identification of melodies or of rhythm perception. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: difficulties in identification of melodies, or of rhythm perception usually present with damage to the left temporal lobe.
+
+S-Question: Patient presents with difficulties in identification of melodies or of rhythm perception. What is the implicated artery?
+S-Answer: temporal artery
+
+L-Question: Patient presents with difficulties in identification of melodies or of rhythm perception. Where is the lesion located?
+L-Answer: left temporal lobe
+
+
+N-Question: Patient presents with complete or partial deafness to all sounds. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In a setting of matching bilateral lesions, cortical deafness with complete or partial deafness to all sounds may be observed.
+
+S-Question: Patient presents with complete or partial deafness to all sounds. What is the implicated artery?
+S-Answer: temporal arteries
+
+L-Question: Patient presents with complete or partial deafness to all sounds. Where is the lesion located?
+L-Answer: bilateral temporal lesions
+
+
+N-Question: Patient presents with selective impairment of auditory verbal comprehension but without abnormalities of spontaneous speech, reading comprehension, and writing. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pure word deafness, with associated selective impairment of auditory verbal comprehension but without abnormalities of spontaneous speech, reading comprehension, and writing, has also been reported with dominant hemisphere temporal or bilateral parietotemporal infarctions
+
+S-Question: Patient presents with selective impairment of auditory verbal comprehension but without abnormalities of spontaneous speech, reading comprehension, and writing. What is the implicated artery?
+S-Answer: temporal artery
+
+L-Question: Patient presents with selective impairment of auditory verbal comprehension but without abnormalities of spontaneous speech, reading comprehension, and writing. Where is the lesion located?
+L-Answer: dominant hemisphere temporal or bilateral parietotemporal
+
+
+N-Question: Patient presents with impaired discriminative modalities (dysgraphesthesia, dysstereognosis, position sensory loss) in one or two parts of the body, and numbness of the upper limb. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemisensory abnormalities with impairment of discriminative modalities in one or two parts of the body... The modalities affected took the form of dysgraphesthesia, dysstereognosis, and position sensory loss. Some numbness of the upper limb is always reported
+
+S-Question: Patient presents with impaired discriminative modalities (dysgraphesthesia, dysstereognosis, position sensory loss) in one or two parts of the body, and numbness of the upper limb. What is the implicated artery?
+S-Answer: posterior parietal artery
+
+L-Question: Patient presents with impaired discriminative modalities (dysgraphesthesia, dysstereognosis, position sensory loss) in one or two parts of the body, and numbness of the upper limb. Where is the lesion located?
+L-Answer: posterior parts of the superior and inferior parietal lobules with the supramarginal gyrus
+
+
+N-Question: Patient presents with pseudothalamic syndrome, contralateral homonymous hemianopia or lower quadrantanopia, or parietal kinetic ataxia without proprioceptive deficit. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Individual examples have been reported with a pseudothalamic syndrome, visual field deficit (contralateral homonymous hemianopia or lower quadrantanopia), or a parietal kinetic ataxia without proprioceptive deficit.
+
+S-Question: Patient presents with pseudothalamic syndrome, contralateral homonymous hemianopia or lower quadrantanopia, or parietal kinetic ataxia without proprioceptive deficit. What is the implicated artery?
+S-Answer: posterior parietal artery
+
+L-Question: Patient presents with pseudothalamic syndrome, contralateral homonymous hemianopia or lower quadrantanopia, or parietal kinetic ataxia without proprioceptive deficit. Where is the lesion located?
+L-Answer: posterior parietal artery territory
+
+
+N-Question: Patient presents with hemiextinction on bilateral simultaneous stimulation and visuospatial and visuoconstructive dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: hemiextinction on bilateral simultaneous stimulation and visuospatial and visuoconstructive dysfunction in a nondominant lesion.
+
+S-Question: Patient presents with hemiextinction on bilateral simultaneous stimulation and visuospatial and visuoconstructive dysfunction. What is the implicated artery?
+S-Answer: posterior parietal artery
+
+L-Question: Patient presents with hemiextinction on bilateral simultaneous stimulation and visuospatial and visuoconstructive dysfunction. Where is the lesion located?
+L-Answer: nondominant posterior parietal artery territory
+
+
+N-Question: Patient presents with Wernicke’s aphasia, ideomotor apraxia, anomic aphasia, phonological agraphia, or phonological alexia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Wernicke’s aphasia, ideomotor apraxia, anomic aphasia, and phonological agraphia and alexia may be observed in dominant hemisphere infarction.
+
+S-Question: Patient presents with Wernicke’s aphasia, ideomotor apraxia, anomic aphasia, phonological agraphia, or phonological alexia. What is the implicated artery?
+S-Answer: posterior parietal artery
+
+L-Question: Patient presents with Wernicke’s aphasia, ideomotor apraxia, anomic aphasia, phonological agraphia, or phonological alexia. Where is the lesion located?
+L-Answer: dominant hemisphere posterior parietal artery territory
+
+
+N-Question: Patient presents with alexia with agraphia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: the description of the syndrome of alexia with agraphia
+
+S-Question: Patient presents with alexia with agraphia. What is the implicated artery?
+S-Answer: angular artery
+
+L-Question: Patient presents with alexia with agraphia. Where is the lesion located?
+L-Answer: angular gyrus
+
+
+N-Question: Patient presents with contralateral hemianopia or lower quadrantanopia as the sole manifestation. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In distal occlusion, visual field abnormalities (contralateral hemianopia or lower quadrantanopia) may be the sole manifestation without neuropsychological impairment, whatever the side of the infarct.
+
+S-Question: Patient presents with contralateral hemianopia or lower quadrantanopia as the sole manifestation. What is the implicated artery?
+S-Answer: distal angular artery
+
+L-Question: Patient presents with contralateral hemianopia or lower quadrantanopia as the sole manifestation. Where is the lesion located?
+L-Answer: angular artery territory
+
+
+N-Question: Patient presents with impaired tracking of visual targets directed toward the infarct side (optic ataxia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Impaired tracking of visual targets directed toward the infarct side, also known as optic ataxia, may be observed.
+
+S-Question: Patient presents with impaired tracking of visual targets directed toward the infarct side (optic ataxia). What is the implicated artery?
+S-Answer: angular artery
+
+L-Question: Patient presents with impaired tracking of visual targets directed toward the infarct side (optic ataxia). Where is the lesion located?
+L-Answer: angular artery territory
+
+
+N-Question: Patient presents with psychic gaze paralysis, visual inattention, and optic ataxia (Bálint's syndrome). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In bilateral posterior parietal and angular artery territory infarcts, Bálint’s syndrome, psychic gaze paralysis, visual inattention, and optic ataxia may be encountered
+
+S-Question: Patient presents with psychic gaze paralysis, visual inattention, and optic ataxia (Bálint's syndrome). What is the implicated artery?
+S-Answer: posterior parietal and angular arteries
+
+L-Question: Patient presents with psychic gaze paralysis, visual inattention, and optic ataxia (Bálint's syndrome). Where is the lesion located?
+L-Answer: bilateral posterior parietal and angular artery territory
+
+
+N-Question: Patient presents with finger agnosia, right–left disorientation, acalculia, and dysgraphia (Gerstmann's syndrome). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Gerstmann’s syndrome... isolated impairment in the reliable use of the correct finger of either hand in tasks... Fingeragnosie... disturbance in body orientation, right–left disorientation, acalculia, and dysgraphia, cited by some authors as the angular gyrus syndrome.
+
+S-Question: Patient presents with finger agnosia, right–left disorientation, acalculia, and dysgraphia (Gerstmann's syndrome). What is the implicated artery?
+S-Answer: angular artery
+
+L-Question: Patient presents with finger agnosia, right–left disorientation, acalculia, and dysgraphia (Gerstmann's syndrome). Where is the lesion located?
+L-Answer: region of the lower part of the parietal lobe and the middle occipital convolution directly adjoining it
+
+
+N-Question: Patient presents with transcortical sensory aphasia, anomic aphasia, Wernicke’s aphasia, alexia, or constructional disturbances. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Associated clinical syndromes may include transcortical sensory aphasia, anomic aphasia, Wernicke’s aphasia, alexia, or constructional disturbances mimicking Alzheimer’s disease.
+
+S-Question: Patient presents with transcortical sensory aphasia, anomic aphasia, Wernicke’s aphasia, alexia, or constructional disturbances. What is the implicated artery?
+S-Answer: angular artery
+
+L-Question: Patient presents with transcortical sensory aphasia, anomic aphasia, Wernicke’s aphasia, alexia, or constructional disturbances. Where is the lesion located?
+L-Answer: angular gyrus
+
+
+N-Question: Patient presents with hemispatial neglect with sensory predominance, hemiextinction on bilateral simultaneous stimulation, asomatognosia, visuoconstructive and visuospatial disturbances, and constructional apraxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In nondominant hemisphere lesions, hemispatial neglect with sensory predominance, hemiextinction on bilateral simultaneous stimulation, asomatognosia, visuoconstructive and visuospatial disturbances, and constructional apraxia are frequent
+
+S-Question: Patient presents with hemispatial neglect with sensory predominance, hemiextinction on bilateral simultaneous stimulation, asomatognosia, visuoconstructive and visuospatial disturbances, and constructional apraxia. What is the implicated artery?
+S-Answer: angular artery
+
+L-Question: Patient presents with hemispatial neglect with sensory predominance, hemiextinction on bilateral simultaneous stimulation, asomatognosia, visuoconstructive and visuospatial disturbances, and constructional apraxia. Where is the lesion located?
+L-Answer: nondominant hemisphere angular gyrus territory
+
+
+N-Question: Patient presents with neuropsychological impairment (dysphasia, visuospatial dysfunction, hemineglect) and motor, sensory, or visual field dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: large centrum ovale infarcts... neurological picture is similar to that found in large superficial or extended MCA territory infarcts, including neuropsychological impairment (dysphasia, visuospatial dysfunction, and hemineglect) and motor, sensory, or visual field dysfunction.
+
+S-Question: Patient presents with neuropsychological impairment (dysphasia, visuospatial dysfunction, hemineglect) and motor, sensory, or visual field dysfunction. What is the implicated artery?
+S-Answer: medullary arteries originating from the superficial (pial) MCA
+
+L-Question: Patient presents with neuropsychological impairment (dysphasia, visuospatial dysfunction, hemineglect) and motor, sensory, or visual field dysfunction. Where is the lesion located?
+L-Answer: large centrum ovale
+
+
+N-Question: Patient presents with a lacunar syndrome, such as pure motor stroke, pure sensory stroke, sensorimotor stroke, or ataxic hemiparesis, often with a partial distribution affecting mainly the upper limb. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: small centrum ovale infarcts... neurological picture is compatible with a so-called lacunar syndrome, although the motor or sensory distribution pattern is more often partial, affecting mainly the upper limb) rather than face, arm, and leg. Pure motor stroke is the most frequent pattern, but pure sensory and sensorimotor stroke and ataxic hemiparesis can be observed.
+
+S-Question: Patient presents with a lacunar syndrome, such as pure motor stroke, pure sensory stroke, sensorimotor stroke, or ataxic hemiparesis, often with a partial distribution affecting mainly the upper limb. What is the implicated artery?
+S-Answer: medullary arteries originating from the superficial (pial) MCA
+
+L-Question: Patient presents with a lacunar syndrome, such as pure motor stroke, pure sensory stroke, sensorimotor stroke, or ataxic hemiparesis, often with a partial distribution affecting mainly the upper limb. Where is the lesion located?
+L-Answer: small centrum ovale

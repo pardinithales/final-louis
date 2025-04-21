@@ -1,0 +1,23 @@
+N-Question: Patient presents with ipsilateral eye pain, occipital headache. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Posterior cerebral artery and intracranial ICA dissections often cause ipsilateral eye pain; PCA involvement is also accompanied by occipital headache.
+
+N-Question: Patient presents with severe retroorbital or temporal headaches, contralateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: spontaneous intracranial ICA dissections; The patients often presented with severe retroorbital or temporal headaches; a contralateral hemiparesis of varying severity most often followed closely after the onset of headache. The most common location of the dissection was in the supraclinoid ICA
+
+S-Question: Patient presents with contralateral hemiparesis. What is the implicated artery?
+S-Answer: ipsilateral ACA
+
+L-Question: Patient presents with contralateral hemiparesis. Where is the lesion located?
+L-Answer: supraclinoid portion of the ICA
+
+N-Question: Patient presents with sixth nerve palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In some patients, the dissection involves the vessel’s adventitia causing the development of a dissecting aneurysm... The sixth nerve can be affected when the carotid curves upward close to the anterior clinoid process in the cavernous trajectory.
+
+S-Question: Patient presents with sixth nerve palsy. What is the implicated artery?
+S-Answer: carotid artery
+
+N-Question: Patient presents with right eye pain, right ptosis, right miosis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: developed right eye pain and awoke with right ptosis and miosis. Magnetic resonance imaging nine days later showed a crescent-shaped hyperintense image in the right intracranial carotid artery. Magnetic resonance angiography showed an irregular stenosis in the cavernous portion of the ICA. A diagnosis of carotid artery dissection was made
+
+N-Question: Patient presents with left ptosis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: his assistant noted left ptosis... A new MRA showed aneurysmal dilation of the left petrous carotid artery with a postaneurysmal stenosis. The right VA also showed stenosis consistent with dissection.

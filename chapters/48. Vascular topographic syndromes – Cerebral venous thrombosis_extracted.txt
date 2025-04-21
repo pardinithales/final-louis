@@ -1,0 +1,18 @@
+N-Question: Patient presents with bilateral parasagittal hemorrhages. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: bilateral parasagittal hemorrhages are highly suggestive of combined SSS and cortical vein thromboses
+
+S-Question: Patient presents with bilateral parasagittal hemorrhages. What is the implicated artery?
+S-Answer: combined SSS and cortical vein thromboses
+
+L-Question: Patient presents with bilateral parasagittal hemorrhages. Where is the lesion located?
+L-Answer: bilateral parasagittal
+
+
+N-Question: Patient presents with bilateral involvement, hemorrhagic or not, of the thalamus, basal ganglia, and surrounding white matter. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: bilateral involvement, hemorrhagic or not, of the thalamus, basal ganglia, and surrounding white matter strongly suggests deep venous thrombosis of the internal cerebral veins, vein of Galen, and SS
+
+S-Question: Patient presents with bilateral involvement, hemorrhagic or not, of the thalamus, basal ganglia, and surrounding white matter. What is the implicated artery?
+S-Answer: deep venous thrombosis of the internal cerebral veins, vein of Galen, and SS
+
+L-Question: Patient presents with bilateral involvement, hemorrhagic or not, of the thalamus, basal ganglia, and surrounding white matter. Where is the lesion located?
+L-Answer: thalamus, basal ganglia, and surrounding white matter

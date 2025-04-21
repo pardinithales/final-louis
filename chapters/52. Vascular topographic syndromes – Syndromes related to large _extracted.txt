@@ -1,0 +1,287 @@
+N-Question: Patient presents with loss of pain and temperature sensation in the ipsilateral face and the contralateral trunk and limbs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The most common pattern of sensory abnormality is loss of pain and temperature sensation in the ipsilateral face and the contralateral trunk and limbs. This pattern is due to involvement of the spinal tract of V and the crossed lateral spinothalamic tract. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+S-Question: Patient presents with feeling dizzy or off-balance, vertigo, pulling or falling toward the ipsilateral side. What is the implicated artery?
+S-Answer: Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+L-Question: Patient presents with feeling dizzy or off-balance, vertigo, pulling or falling toward the ipsilateral side. Where is the lesion located?
+L-Answer: Dizziness and vertigo are related to involvement of the vestibular nuclei and their connections.
+
+S-Question: Patient presents with tilting, veering, or falling to the ipsilateral side when sitting or standing. What is the implicated artery?
+S-Answer: Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+L-Question: Patient presents with tilting, veering, or falling to the ipsilateral side when sitting or standing. Where is the lesion located?
+L-Answer: Ataxia is also a very common symptom. It can relate to involvement of the vestibular nuclei, the inferior cerebellar peduncle, or the cerebellum itself.
+
+N-Question: Patient presents with hypalgesia in the ipsilateral face and contralateral face, trunk, and limbs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The next most frequent combination is hypalgesia in the ipsilateral face and contralateral face, trunk, and limbs. This pattern of sensory loss is due to the added involvement of the crossed quintothalamic tract, which appends on the medial aspect of the spinothalamic tract. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+N-Question: Patient presents with solely contralateral hypalgesia involving the face, arm, and leg or sometimes only the face and arm. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Less often, the hypalgesia can be solely contralateral involving the face, arm, and leg or sometimes only the face and arm. This pattern is due to involvement of the crossed quintothalamic tract and the adjacent spinothalamic tract with sparing of the spinal tract and nucleus of V. These lesions are usually deep and more ventral than most lateral medullary infarcts. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+N-Question: Patient presents with hypalgesia involving only the contralateral trunk, arm, and leg, or parts therof. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The least common pattern of sensory loss is hypalgesia involving only the contralateral trunk, arm, and leg, or parts therof. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA. The pattern involves the lateral medulla oblongata.
+
+N-Question: Patient presents with ipsilateral ptosis and ipsilateral constricted pupil. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The ipsilateral eye often shows features of Horner’s syndrome. The descending sympathetic nervous system fibers that course through the lateral reticular substance are affected in most patients with lateral medullary infarcts. Ptosis is the most frequent component; the upper eyelid is usually only slightly drooped but the lower lid is elevated, thus narrowing the palpebral fissure from above and below. The ipsilateral pupil is usually constricted and is smaller than the contralateral pupil but retains normal reactivity to light. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+N-Question: Patient presents with paralysis of the ipsilateral palate, pharynx, and larynx, resulting in hoarseness and dysphagia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Weakness of bulbar muscles innervated by the lower cranial nerves is a very prominent feature in patients whose lateral medullary infarcts extend medially. Involvement of the nucleus ambiguus causes paralysis of the ipsilateral palate, pharynx, and larynx, resulting in hoarseness and dysphagia. Lateral medullary infarcts are most often explained by intrinsic disease, atherosclerotic stenosis frequently with superimposed thrombosis, or arterial dissection of the distal ECVA or the ICVA.
+
+N-Question: Patient presents with contralateral hemiparesis, sometimes involving the face. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The most consistent finding in patients with medial medullary ischemia is a contralateral hemiparesis. Usually the hemiparesis is complete and flaccid at onset. Later, increased tone and spasticity develop. In about half of patients, the face is also involved. Unilateral medial medullary infarction also results from atheromatous branch disease, or the vascular pathology within penetrating ASA branches that underlies lacunar infarction. Ischemia in the medial medullary base has accompanied lateral medullary ischemia (hemimedullary infarction) and is caused by occlusions of the ipsilateral ICVA.
+
+N-Question: Patient presents with paresthesias or dysesthesias in the contralateral lower limb and trunk, contralateral arm and hand, or slight loss of position and vibration sense in the contralateral foot. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The next most frequent signs relate to medial lemniscus ischemia. Some patients report paresthesias or, less often, dysesthesias in the contralateral lower limb and trunk. Less often, sensory symptoms occur in the arm and hand. Proprioceptive dysfunction with slight loss of position and vibration sense in the contralateral foot are found in some patients on examination. Unilateral medial medullary infarction also results from atheromatous branch disease, or the vascular pathology within penetrating ASA branches that underlies lacunar infarction. Ischemia in the medial medullary base has accompanied lateral medullary ischemia (hemimedullary infarction) and is caused by occlusions of the ipsilateral ICVA.
+
+N-Question: Patient presents with ipsilateral tongue paralysis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ipsilateral tongue paralysis is the least common but most topographically localizing sign of medial medullary infarction. Tongue weakness is probably most often related to involvement of the intraparenchymal hypoglossal (XII) nerve fibers as they pass ventrally to exit at the medullary base. Unilateral medial medullary infarction also results from atheromatous branch disease, or the vascular pathology within penetrating ASA branches that underlies lacunar infarction. Ischemia in the medial medullary base has accompanied lateral medullary ischemia (hemimedullary infarction) and is caused by occlusions of the ipsilateral ICVA.
+
+N-Question: Patient presents with contralateral hemiparesis, slight contralateral paresthesias and minor loss of posterior column sensory modalities, and ipsilateral tongue paresis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The syndrome of the medial medulla oblongata consists of three main findings: contralateral hemiparesis, slight contralateral paresthesias and minor loss of posterior column sensory modalities, and ipsilateral tongue paresis. Unilateral medial medullary infarction also results from atheromatous branch disease, or the vascular pathology within penetrating ASA branches that underlies lacunar infarction. Ischemia in the medial medullary base has accompanied lateral medullary ischemia (hemimedullary infarction) and is caused by occlusions of the ipsilateral ICVA.
+
+N-Question: Patient presents with symptoms of lateral medullary ischemia (e.g., ipsilateral facial sensory loss, contralateral body sensory loss, ipsilateral Horner's, ipsilateral palatal paralysis) plus a contralateral hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Occasionally, patients have infarction that involves both the lateral and medial medullary territories on one side. The symptom complex is identical to that found in patients with lateral medullary ischemia, with the addition of a hemiparesis contralateral to the lesion. Most often, ischemia in the medial medullary base has accompanied lateral medullary ischemia (hemimedullary infarction) and is caused by occlusions of the ipsilateral ICVA.
+
+S-Question: Patient presents with vertigo and dizziness. What is the implicated artery?
+S-Answer: ipsilateral ICVA
+
+L-Question: Patient presents with vertigo and dizziness. Where is the lesion located?
+L-Answer: lateral and medial medullary territories on one side
+
+S-Question: Patient presents with ataxia. What is the implicated artery?
+S-Answer: ipsilateral ICVA
+
+L-Question: Patient presents with ataxia. Where is the lesion located?
+L-Answer: lateral and medial medullary territories on one side
+
+N-Question: Patient presents with severe vertigo, prominent nystagmus, and feelings of magnetic pulling of the trunk to the ipsilateral side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarcts limited to the medial vermis in the territory of mPICA usually cause a vertiginous labyrithian syndrome that closely mimics a peripheral vestibulopathy. Severe vertigo with prominent nystagmus are the major findings. Some patients also have truncal lateropulsion characterized by feelings of magnetic pulling of the trunk to the ipsilateral side.
+
+N-Question: Patient presents with acute unsteadiness with ataxia, veering to the side of the lesion when walking, body sway toward the side of the lesion, and ipsilateral limb ataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Lateral cerebellar hemisphere PICA (lPICA) territory infarcts are usually characterized by minor degrees of dizziness and gait incoordination with veering to the side of the lesion. Minor limb hypotonia and incoordination are found. A common syndrome is acute unsteadiness with ataxia but without vertigo or dysarthria. Body sway toward the side of the lesion, ipsilateral limb ataxia, and abnormal rapid alternating movements are also common.
+
+S-Question: Patient presents with minor degrees of dizziness. What is the implicated artery?
+S-Answer: lateral branch of PICA (lPICA)
+
+L-Question: Patient presents with minor degrees of dizziness. Where is the lesion located?
+L-Answer: Lateral cerebellar hemisphere
+
+S-Question: Patient presents with gait incoordination. What is the implicated artery?
+S-Answer: lateral branch of PICA (lPICA)
+
+L-Question: Patient presents with gait incoordination. Where is the lesion located?
+L-Answer: Lateral cerebellar hemisphere
+
+S-Question: Patient presents with abnormal rapid alternating movements. What is the implicated artery?
+S-Answer: lateral branch of PICA (lPICA)
+
+L-Question: Patient presents with abnormal rapid alternating movements. Where is the lesion located?
+L-Answer: Lateral cerebellar hemisphere
+
+N-Question: Patient presents with headache in the ipsilateral occiput or high neck area, ipsilateral head tilt, and the body tilted or pulled ipsilaterally upon sitting or standing. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When the full PICA cerebellar territory is involved, headache is usually present in the occiput or high neck area on the ipsilateral side. The head may also be tilted with the occiput tending ipsilaterally. Vomiting, gait ataxia, truncal lateropulsion, and limb incoordination are other common findings. The truncal dysfunction is similar to that found in the lateral medullary syndrome; the body is often tilted or pulled ipsilaterally upon sitting or standing.
+
+S-Question: Patient presents with vomiting. What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with vomiting. Where is the lesion located?
+L-Answer: full PICA cerebellar territory
+
+S-Question: Patient presents with gait ataxia. What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with gait ataxia. Where is the lesion located?
+L-Answer: full PICA cerebellar territory
+
+S-Question: Patient presents with limb incoordination (mostly hypotonia). What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with limb incoordination (mostly hypotonia). Where is the lesion located?
+L-Answer: full PICA cerebellar territory
+
+N-Question: Patient presents with conjugate gaze paresis to the side of the lesion or paresis of abduction limited to the ipsilateral eye, following a large cerebellar infarct. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The syndrome of pseudotumoral cerebellar infarction is most often found after large full PICA territory infarcts. Most characteristic of large cerebellar space-taking infarcts are the oculomotor abnormalities that develop. Most common are a conjugate gaze paresis to the side of the lesion or a paresis of abduction limited to the ipsilateral eye.
+
+S-Question: Patient presents with increased headache and vomiting. What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with increased headache and vomiting. Where is the lesion located?
+L-Answer: large full PICA territory infarcts
+
+S-Question: Patient presents with decreased consciousness. What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with decreased consciousness. Where is the lesion located?
+L-Answer: large full PICA territory infarcts
+
+S-Question: Patient presents with bilateral Babinski signs. What is the implicated artery?
+S-Answer: full PICA
+
+L-Question: Patient presents with bilateral Babinski signs. Where is the lesion located?
+L-Answer: large full PICA territory infarcts
+
+N-Question: Patient presents with initial lateralized motor weakness (hemiparesis). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Fisher noted that the initial motor weakness was often lateralized; he referred to this phenomenon as the “herald hemiparesis” of basilar artery occlusion.
+
+N-Question: Patient presents with hemiparesis along with slight weakness, hyperreflexia, or an extensor plantar reflex on the nonhemiparetic side. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemiparetic patients with basilar artery occlusion almost always show some motor or reflex abnormalities on the nonhemiparetic side. The abnormality consists of slight weakness, hyperreflexia, an extensor plantar reflex, or abnormal spontaneous movements such as shivering, twitching, shaking, or jerking on the relatively spared side. Asymmetry but bilaterality is the rule.
+
+S-Question: Patient presents with limb adventitious movements (shivering, shuddering, jerking, shaking). What is the implicated artery?
+S-Answer: basilar artery
+
+L-Question: Patient presents with limb adventitious movements (shivering, shuddering, jerking, shaking). Where is the lesion located?
+L-Answer: basis pontis
+
+S-Question: Patient presents with bilateral ataxia (more severe in legs). What is the implicated artery?
+S-Answer: basilar artery
+
+L-Question: Patient presents with bilateral ataxia (more severe in legs). Where is the lesion located?
+L-Answer: corticopontocerebellar fibers that cross the basis pontis
+
+S-Question: Patient presents with bilateral bulbar muscle weakness (facial weakness, dysphonia, dysarthria, dysphagia). What is the implicated artery?
+S-Answer: basilar artery
+
+L-Question: Patient presents with bilateral bulbar muscle weakness (facial weakness, dysphonia, dysarthria, dysphagia). Where is the lesion located?
+L-Answer: corticobulbar fibers in the dorsal part of the basis pontis
+
+N-Question: Patient presents with weakness on one side of the face and the contralateral body. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The pattern may be that of crossed motor loss; for example, on one side of the face and the contralateral body... Crossed signs are usually due to hemipontine infarcts that involve the tegmentum and base or are restricted to the base. The unilateral cranial nerve motor weakness is explained by involvement of the cranial nerve nuclei in the tegmentum or their exiting intraparenchymatous nerve fibers as they traverse the base of the pons.
+
+N-Question: Patient presents with loss of all voluntary movement other than the eyes, retained consciousness, and ability to signal with eye blinks. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The most severe motor paralysis characterized by loss of all voluntary movement other than the eyes, when consciousness is retained, is now usually referred to as the “locked-in syndrome”. These patients may be able to signal with eye blinks. Pontine ischemia due to basilar artery disease is the typical cause, involving the ventral pons.
+
+N-Question: Patient presents with inability to abduct the eye ipsilaterally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When the fascicles of the abducens nerve are involved within or outside the pons, and not the VIth nerve nucleus, then the eye movement abnormality is limited to inability to abduct the eye ipsilaterally – a traditional VIth nerve palsy.
+
+N-Question: Patient presents with inability to adduct the ipsilateral eye on contralateral gaze, while the contralateral eye abducts with prominent nystagmus. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ischemic damage to the MLF on one side causes an inability to adduct the ipsilateral eye to the contralateral side on conjugate gaze. The abducting eye can move laterally but shows prominent nystagmus.
+
+S-Question: Patient presents with vertical nystagmus. What is the implicated artery?
+S-Answer: Basilar artery branches causing pontine lesions.
+
+L-Question: Patient presents with vertical nystagmus. Where is the lesion located?
+L-Answer: MLF on one side
+
+S-Question: Patient presents with skew deviation. What is the implicated artery?
+S-Answer: Basilar artery branches causing pontine lesions.
+
+L-Question: Patient presents with skew deviation. Where is the lesion located?
+L-Answer: MLF on one side
+
+N-Question: Patient presents with the ipsilateral eye fixed centrally unable to move horizontally, while the contralateral eye lies abducted and cannot be adducted past the midline. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Fisher used the term one-and-a-half syndrome to describe “paralysis of eye movement in which one eye lies centrally and fails completely to move horizontally while the other eye lies in an abducted position and cannot be adducted past the midline”. A unilateral pontine tegmental lesion that includes the PPRF and MLF on the same side causes this syndrome.
+
+N-Question: Patient presents with skew deviation and an ipsiversive tilt with the ipsilateral eye and ear undermost. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with lesions limited to the pons, skew deviation is usually accompanied by an INO, and an ipsiversive tilt with the ipsilateral eye and ear undermost.
+
+S-Question: Patient presents with an ocular tilt reaction. What is the implicated artery?
+S-Answer: Basilar artery branches causing pontine lesions.
+
+L-Question: Patient presents with an ocular tilt reaction. Where is the lesion located?
+L-Answer: pons
+
+S-Question: Patient presents with ocular torsion. What is the implicated artery?
+S-Answer: Basilar artery branches causing pontine lesions.
+
+L-Question: Patient presents with ocular torsion. Where is the lesion located?
+L-Answer: pons
+
+N-Question: Patient presents with symptoms similar to lateral medullary syndrome (e.g., ipsilateral facial sensory loss, contralateral body sensory loss, ipsilateral Horner's) but with ipsilateral facial paralysis and ipsilateral hearing loss/vertigo instead of pharyngeal/laryngeal paralysis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: When infarction is limited to unilateral AICA territory... the clinical findings are identical to those found in patients with lateral medullary infarcts except that VIIth and VIIIth nerve findings are present rather than symptoms and signs related to Xth nerve (nucleus ambiguus) dysfunction. The lesion may involve the facial, vestibular, and cochlear nuclei, or may affect the VIIth nerve fibers within the lateral tegmentum and base, or affect the VIIIth nerve peripheral fibers or the cochlea and vestibule. The AICAs always supply the lateral pontine tegmentum, the brachium pontis, and the flocculus.
+
+S-Question: Patient presents with tinnitus. What is the implicated artery?
+S-Answer: internal auditory artery, most often a branch of AICA
+
+L-Question: Patient presents with tinnitus. Where is the lesion located?
+L-Answer: inner ear structures supplied by the internal auditory artery
+
+S-Question: Patient presents with contralateral limb weakness and an extensor plantar sign. What is the implicated artery?
+S-Answer: AICA
+
+L-Question: Patient presents with contralateral limb weakness and an extensor plantar sign. Where is the lesion located?
+L-Answer: AICA territory infarct extending to the pontine base
+
+N-Question: Patient presents with amnesia and difficulty with memory for language-related activities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Amnesia has developed in patients with infarction in the anterolateral thalamic territory supplied by the polar (tuberothalamic) artery. Patients with left thalamic infarcts may have more difficulty with memory for language-related activities.
+
+S-Question: Patient presents with decreased spontaneity and abulia. What is the implicated artery?
+S-Answer: polar (tuberothalamic) artery
+
+L-Question: Patient presents with decreased spontaneity and abulia. Where is the lesion located?
+L-Answer: anterolateral thalamic territory
+
+N-Question: Patient presents with amnesia and difficulty with visuospatial memory tasks. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Amnesia has developed in patients with infarction in the anterolateral thalamic territory supplied by the polar (tuberothalamic) artery. Patients with right thalamic lesions have more difficulty with visuospatial memory tasks.
+
+S-Question: Patient presents with decreased spontaneity and abulia. What is the implicated artery?
+S-Answer: polar (tuberothalamic) artery
+
+L-Question: Patient presents with decreased spontaneity and abulia. Where is the lesion located?
+L-Answer: anterolateral thalamic territory
+
+N-Question: Patient presents with ipsilateral limb ataxia, ipsilateral Horner’s syndrome, contralateral loss of pain and temperature sensibility of the face, arm, leg, and trunk, and contralateral trochlear (IV) nerve palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The classical SCA syndrome is said to consist of: ipsilateral limb ataxia; ipsilateral Horner’s syndrome; contralateral loss of pain and temperature sensibility of the face, arm, leg, and trunk; and contralateral trochlear (IV) nerve palsy. The classical syndrome is present when the pontine and midbrain tegmentum and superior cerebellar surface are both infarcted.
+
+S-Question: Patient presents with abnormal ipsilateral spontaneous involuntary movements. What is the implicated artery?
+S-Answer: SCA
+
+L-Question: Patient presents with abnormal ipsilateral spontaneous involuntary movements. Where is the lesion located?
+L-Answer: pontine and midbrain tegmentum and superior cerebellar surface
+
+N-Question: Patient presents with prominent ipsilateral limb ataxia (slight clumsiness to severe incoordination and dysmetria) and ipsilateral axial lateropulsion (veering and pulling of the trunk to the ipsilateral side). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Nearly all patients [with lSCA territory infarction] had prominent limb ataxia, varying from slight clumsiness to severe incoordination and dysmetria... Cerebellar gait ataxia and veering and pulling of the trunk to the ipsilateral side, so-called axial lateropulsion, also occurred. The territory usually infarcted was predominantly in the rostral anterior cerebellum and sometimes included the dorsolateral pontine tegmentum.
+
+S-Question: Patient presents with dysarthria. What is the implicated artery?
+S-Answer: lSCA
+
+L-Question: Patient presents with dysarthria. Where is the lesion located?
+L-Answer: rostral anterior cerebellum and sometimes included the dorsolateral pontine tegmentum
+
+S-Question: Patient presents with cerebellar gait ataxia. What is the implicated artery?
+S-Answer: lSCA
+
+L-Question: Patient presents with cerebellar gait ataxia. Where is the lesion located?
+L-Answer: rostral anterior cerebellum and sometimes included the dorsolateral pontine tegmentum
+
+N-Question: Patient presents with contralateral hemisensory loss (paresthesias or numbness in face, limbs, trunk with reduced touch, pinprick, position sense) and contralateral hemianopia, without paralysis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with PCA territory infarcts, lateral thalamic ischemia is the major reason for somatosensory symptoms and signs. Patients describe paresthesias or numbness in the face, limbs, and trunk. On examination, touch, pinprick, and position sense are reduced. The combination of hemisensory loss with hemianopia without paralysis is virtually diagnostic of infarction in the PCA territory. The occlusive lesion is within the PCA before the thalamogeniculate branches to the lateral thalamus.
+
+N-Question: Patient presents with contralateral hemiplegia, contralateral hemisensory loss, and contralateral hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Rarely, occlusion of the proximal portion of the PCA can cause a hemiplegia. Proximal PCA occlusions cause hemiplegia due to midbrain peduncular infarction, accompanied by a hemisensory loss due to lateral thalamic infarction, and hemianopia due to occipital lobe infarction.
+
+N-Question: Patient presents seeing only in the left visual field, unable to read words or phrases but able to write normally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Infarction of the left occipital lobe and splenium of the corpus callosum is associated with a remarkable clinical syndrome... Alexia without agraphia... Because the left visual cortex is infarcted, patients see with their right occipital lobe and their left visual field... Although usually able to name individual letters or numbers, the patient cannot read words or phrases. Because the speech cortex is normal, they retain the ability to speak, repeat speech, write, and spell aloud. Although they are able to write a paragraph, they often cannot read it back moments later. The lesion is in the left PCA territory.
+
+S-Question: Patient presents with a defect in color naming. What is the implicated artery?
+S-Answer: left PCA
+
+L-Question: Patient presents with a defect in color naming. Where is the lesion located?
+L-Answer: left occipital lobe and splenium of the corpus callosum
+
+N-Question: Patient presents with difficulty telling right from left, difficulty in naming digits, agraphia, and difficulty in calculating. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: PCA territory infarction can undercut the angular gyrus, leading to a host of findings, usually lumped together as Gerstmann’s syndrome. These findings include difficulty telling right from left, difficulty in naming digits on their own or on others’ hands... agraphia, and difficulty in calculating. The lesion is in the left PCA territory.
+
+S-Question: Patient presents with constructional dyspraxia. What is the implicated artery?
+S-Answer: left PCA
+
+L-Question: Patient presents with constructional dyspraxia. Where is the lesion located?
+L-Answer: left PCA territory involving angular gyrus region
+
+N-Question: Patient presents with a defect in acquisition of new memories, particularly for language-related activities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A defect in acquisition of new memories is common when both medial temporal lobes are damaged but also occurs in lesions limited to the left temporal lobe. The lesion is in the left PCA territory.
+
+N-Question: Patient presents with visual neglect, ignoring stimuli in the left visual field. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Visual neglect is much more common after lesions of the right than of the left PCA territory. The lesion involves right occipitotemporal infarcts.
+
+S-Question: Patient presents with prosopagnosia (difficulty recognizing familiar faces). What is the implicated artery?
+S-Answer: right PCA
+
+L-Question: Patient presents with prosopagnosia (difficulty recognizing familiar faces). Where is the lesion located?
+L-Answer: right PCA territory
+
+S-Question: Patient presents with disorientation to place and inability to recall routes. What is the implicated artery?
+S-Answer: right PCA
+
+L-Question: Patient presents with disorientation to place and inability to recall routes. Where is the lesion located?
+L-Answer: right PCA territory infarcts

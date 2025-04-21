@@ -1,0 +1,335 @@
+N-Question: Patient presents with paresthesias or numbness on one side of the body, isolated hemisensory deficit. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: First, in patients with pure sensory stroke, the onset is usually marked by paresthesias or numbness on one side of the body, soon followed by the development of an isolated hemisensory deficit. Pure sensory syndrome in thalamic stroke is due to involvement of the ventroposterolateral (VPL) and ventroposteromedial (VPM) nuclei [supplied by the thalamogeniculate arteries].
+
+S-Question: Patient presents with paresthesias or numbness on one side of the body, isolated hemisensory deficit. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with paresthesias or numbness on one side of the body, isolated hemisensory deficit. Where is the lesion located?
+L-Answer: ventroposterolateral (VPL) and ventroposteromedial (VPM) nuclei
+
+N-Question: Patient presents with cerebellar-type hemiataxia, with oscillations, hypermetria, and dysdiadochokinesia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Even in association with impairment of proprioception, patients [with lateral thalamic infarcts supplied by thalamogeniculate arteries involving the ventroanterior and ventrolateral thalamic nuclei] can show features of cerebellar-type hemiataxia, with oscillations, hypermetria, and dysdiadochokinesia.
+
+S-Question: Patient presents with cerebellar-type hemiataxia, with oscillations, hypermetria, and dysdiadochokinesia. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with cerebellar-type hemiataxia, with oscillations, hypermetria, and dysdiadochokinesia. Where is the lesion located?
+L-Answer: lateral thalamic infarcts involving the ventroanterior and ventrolateral thalamic nuclei
+
+N-Question: Patient presents with an inability to stand and walk. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In some patients [with lateral thalamic infarcts supplied by thalamogeniculate arteries], an inability to stand and walk is predominant and is called thalamic astasia.
+
+S-Question: Patient presents with an inability to stand and walk. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with an inability to stand and walk. Where is the lesion located?
+L-Answer: lateral thalamic infarcts
+
+N-Question: Patient presents with hemidystonia and jerks in the hand, held in a fixed dystonic posture. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Abnormal movements, such as hemidystonia and jerks in the hand, can develop after several weeks [after lateral thalamic infarcts supplied by thalamogeniculate arteries]... The hand is held in a fixed dystonic posture: la main thalamique.
+
+S-Question: Patient presents with hemidystonia and jerks in the hand, held in a fixed dystonic posture. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with hemidystonia and jerks in the hand, held in a fixed dystonic posture. Where is the lesion located?
+L-Answer: lateral thalamic infarcts
+
+N-Question: Patient presents with transient and regressive motor abnormalities on the same side, with increased tendon reflexes, and a Babinski sign. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: occasionally, the sensory disturbances are accompanied by transient and regressive motor abnormalities on the same side, with increased tendon reflexes, and a Babinski sign. At times, the thalamogeniculate arteries supply a portion of the internal capsule just lateral to the thalamus.
+
+S-Question: Patient presents with transient and regressive motor abnormalities on the same side, with increased tendon reflexes, and a Babinski sign. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with transient and regressive motor abnormalities on the same side, with increased tendon reflexes, and a Babinski sign. Where is the lesion located?
+L-Answer: a portion of the internal capsule just lateral to the thalamus
+
+L-Question: Patient presents with temporary motor signs. Where is the lesion located?
+L-Answer: acute transient edema of the contiguous posterior limb of the internal capsule adjacent to the lateral nuclei
+
+N-Question: Patient presents with transient transcortical motor aphasia after a left-sided lesion. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: transient transcortical motor aphasia may be found, especially after left-sided lesions [in patients with lateral thalamic infarcts supplied by thalamogeniculate arteries].
+
+S-Question: Patient presents with transient transcortical motor aphasia after a left-sided lesion. What is the implicated artery?
+S-Answer: thalamogeniculate arteries
+
+L-Question: Patient presents with transient transcortical motor aphasia after a left-sided lesion. Where is the lesion located?
+L-Answer: left-sided lateral thalamic infarcts
+
+N-Question: Patient presents with slight clumsiness or difficulty with rapid alternating movements of the contralateral hand, slight arm drift, lack of expression in the contralateral side of the face in response to emotional stimuli, minor paresthesias in the contralateral limbs. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Slight clumsiness or difficulty with rapid alternating movements of the contralateral hand and slight arm drift are occasionally found [in infarcts in the territory of the polar artery]. Facial asymmetry is common and especially common is the lack of expression in the contralateral side of the face in response to emotional stimuli. Some reported patients have had minor paresthesias in the contralateral limbs.
+
+S-Question: Patient presents with slight clumsiness or difficulty with rapid alternating movements of the contralateral hand, slight arm drift, lack of expression in the contralateral side of the face in response to emotional stimuli, minor paresthesias in the contralateral limbs. What is the implicated artery?
+S-Answer: polar artery
+
+L-Question: Patient presents with slight clumsiness or difficulty with rapid alternating movements of the contralateral hand, slight arm drift, lack of expression in the contralateral side of the face in response to emotional stimuli, minor paresthesias in the contralateral limbs. Where is the lesion located?
+L-Answer: territory of the polar artery
+
+N-Question: Patient presents with verbal recall impairment, minor aphasic disturbances, mainly dysnomia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Verbal recall impairment is more common in patients with left thalamic infarcts [in the territory of the polar artery]... Left-sided infarcts are associated with minor aphasic disturbances, mainly dysnomia.
+
+S-Question: Patient presents with verbal recall impairment, minor aphasic disturbances, mainly dysnomia. What is the implicated artery?
+S-Answer: polar artery
+
+L-Question: Patient presents with verbal recall impairment, minor aphasic disturbances, mainly dysnomia. Where is the lesion located?
+L-Answer: left thalamic infarcts / Left-sided infarcts
+
+N-Question: Patient presents with visual memory deficits. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: visual memory deficits predominate in those with right-sided infarcts [in the territory of the polar artery].
+
+S-Question: Patient presents with visual memory deficits. What is the implicated artery?
+S-Answer: polar artery
+
+L-Question: Patient presents with visual memory deficits. Where is the lesion located?
+L-Answer: right-sided infarcts
+
+N-Question: Patient presents with severe abulia and amnestic abnormalities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with bilateral infarcts in the territory of the polar artery, abulia and amnestic abnormalities are severe and do not tend to diminish with time, leaving patients with a severe handicap.
+
+S-Question: Patient presents with severe abulia and amnestic abnormalities. What is the implicated artery?
+S-Answer: polar artery
+
+L-Question: Patient presents with severe abulia and amnestic abnormalities. Where is the lesion located?
+L-Answer: bilateral infarcts in the territory of the polar artery
+
+N-Question: Patient presents with acute decrease of consciousness, neuropsychological abnormalities especially amnesia, and vertical gaze paresis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Patients with unilateral infarcts of the paramedian thalamic-subthalamic arteries are characterized by a classical triad of symptoms: (i) acute decrease of consciousness, (ii) neuropsychological abnormalities especially amnesia, and (iii) vertical gaze paresis.
+
+S-Question: Patient presents with acute decrease of consciousness, neuropsychological abnormalities especially amnesia, and vertical gaze paresis. What is the implicated artery?
+S-Answer: paramedian thalamic-subthalamic arteries
+
+L-Question: Patient presents with acute decrease of consciousness, neuropsychological abnormalities especially amnesia, and vertical gaze paresis. Where is the lesion located?
+L-Answer: unilateral infarcts of the paramedian thalamic-subthalamic arteries
+
+N-Question: Patient presents with impairment of consciousness. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Impairment of consciousness [in unilateral infarcts of the paramedian thalamic-subthalamic arteries] is probably due to involvement of the intralaminar nuclei and the rostral midbrain reticular formation.
+
+S-Question: Patient presents with impairment of consciousness. What is the implicated artery?
+S-Answer: paramedian thalamic-subthalamic arteries
+
+L-Question: Patient presents with impairment of consciousness. Where is the lesion located?
+L-Answer: intralaminar nuclei and the rostral midbrain reticular formation
+
+N-Question: Patient presents with loss of psychic self-activation (apathy or abulia). Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Loss of psychic self-activation (apathy or abulia) is also a major issue in the management of patients with paramedian lesions, especially after bilateral lesions.
+
+S-Question: Patient presents with loss of psychic self-activation (apathy or abulia). What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with loss of psychic self-activation (apathy or abulia). Where is the lesion located?
+L-Answer: bilateral paramedian lesions
+
+N-Question: Patient presents with aphasia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Aphasia... may be observed in patients with left-...sided [paramedian] lesions.
+
+S-Question: Patient presents with aphasia. What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with aphasia. Where is the lesion located?
+L-Answer: left-sided [paramedian] lesions
+
+N-Question: Patient presents with neglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: neglect may be observed in patients with... right-sided [paramedian] lesions.
+
+S-Question: Patient presents with neglect. What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with neglect. Where is the lesion located?
+L-Answer: right-sided [paramedian] lesions
+
+N-Question: Patient presents with up-gaze palsy or combined up- and down-gaze palsy, skew-deviation. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with paramedian thalamic strokes, vertical gaze function is characteristically disturbed, with up-gaze palsy or combined up- and down-gaze palsy. Skew-deviation is also common.
+
+S-Question: Patient presents with up-gaze palsy or combined up- and down-gaze palsy, skew-deviation. What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with up-gaze palsy or combined up- and down-gaze palsy, skew-deviation. Where is the lesion located?
+L-Answer: paramedian thalamic strokes
+
+N-Question: Patient presents with pure down-gaze palsy. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Pure down-gaze palsy is found only in patients with bilateral paramedian infarcts.
+
+S-Question: Patient presents with pure down-gaze palsy. What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with pure down-gaze palsy. Where is the lesion located?
+L-Answer: bilateral paramedian infarcts
+
+N-Question: Patient presents with hypometric contralateral saccades and low-gain ipsilateral pursuit, with interposed saccades. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Horizontal-gaze dysfunction... consists of hypometric contralateral saccades and low-gain ipsilateral pursuit, with interposed saccades [in patients with paramedian thalamic strokes].
+
+S-Question: Patient presents with hypometric contralateral saccades and low-gain ipsilateral pursuit, with interposed saccades. What is the implicated artery?
+S-Answer: paramedian [thalamosubthalamic] arteries
+
+L-Question: Patient presents with hypometric contralateral saccades and low-gain ipsilateral pursuit, with interposed saccades. Where is the lesion located?
+L-Answer: paramedian thalamic strokes
+
+N-Question: Patient presents with ptosis with or without Horner’s syndrome and blepharospasm, ipsilateral to the lesion. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Ptosis with or without Horner’s syndrome and blepharospasm are sometimes found ipsilateral to the lesion in this territory [paramedian] or in polar artery lesions.
+
+S-Question: Patient presents with ptosis with or without Horner’s syndrome and blepharospasm, ipsilateral to the lesion. What is the implicated artery?
+S-Answer: paramedian territory or polar artery lesions
+
+L-Question: Patient presents with ptosis with or without Horner’s syndrome and blepharospasm, ipsilateral to the lesion. Where is the lesion located?
+L-Answer: ipsilateral to the lesion in this [paramedian] territory or in polar artery lesions
+
+N-Question: Patient presents with visual field cuts including upper- or lower-quadrantanopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Medioposterior choroidal artery territory infarcts typically cause visual field cuts including upper- or lower-quadrantanopia [caused by infarction of the lateral geniculate body].
+
+S-Question: Patient presents with visual field cuts including upper- or lower-quadrantanopia. What is the implicated artery?
+S-Answer: Medioposterior choroidal artery
+
+L-Question: Patient presents with visual field cuts including upper- or lower-quadrantanopia. Where is the lesion located?
+L-Answer: lateral geniculate body / Medioposterior choroidal artery territory
+
+N-Question: Patient presents with horizontal wedge-shaped or tubular sectoranopias. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: lateroposterior choroidal artery territory infarcts cause horizontal wedge-shaped or tubular sectoranopias [caused by infarction of the lateral geniculate body].
+
+S-Question: Patient presents with horizontal wedge-shaped or tubular sectoranopias. What is the implicated artery?
+S-Answer: lateroposterior choroidal artery
+
+L-Question: Patient presents with horizontal wedge-shaped or tubular sectoranopias. Where is the lesion located?
+L-Answer: lateral geniculate body / lateroposterior choroidal artery territory
+
+N-Question: Patient presents with impairment of ipsilateral pursuit, contralateral saccades. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Involvement of the pulvinar, posterior nuclei [by posterior choroidal artery infarcts], can produce... impairment of ipsilateral pursuit, contralateral saccades.
+
+S-Question: Patient presents with impairment of ipsilateral pursuit, contralateral saccades. What is the implicated artery?
+S-Answer: posterior choroidal arteries
+
+L-Question: Patient presents with impairment of ipsilateral pursuit, contralateral saccades. Where is the lesion located?
+L-Answer: pulvinar, posterior nuclei
+
+N-Question: Patient presents with slight hemiparesis and/or hemisensory abnormalities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Involvement of the pulvinar, posterior nuclei [by posterior choroidal artery infarcts], can produce... slight hemiparesis and/or hemisensory abnormalities.
+
+S-Question: Patient presents with slight hemiparesis and/or hemisensory abnormalities. What is the implicated artery?
+S-Answer: posterior choroidal arteries
+
+L-Question: Patient presents with slight hemiparesis and/or hemisensory abnormalities. Where is the lesion located?
+L-Answer: pulvinar, posterior nuclei
+
+N-Question: Patient presents with hemineglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Hemineglect is a common finding after right pulvinar infarcts [in the territory of the posterior choroidal arteries].
+
+S-Question: Patient presents with hemineglect. What is the implicated artery?
+S-Answer: posterior choroidal arteries
+
+L-Question: Patient presents with hemineglect. Where is the lesion located?
+L-Answer: right pulvinar infarcts
+
+N-Question: Patient presents with third nerve palsy with contralateral hemiparesis or hemiataxia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients [with diencephalic-mesencephalic infarction due to blockage of superior mesencephalic/thalamosubthalamic arteries from basilar apex occlusion] may have a third nerve palsy with contralateral hemiparesis or hemiataxia.
+
+S-Question: Patient presents with third nerve palsy with contralateral hemiparesis or hemiataxia. What is the implicated artery?
+S-Answer: superior mesencephalic arteries occasionally arise from a common pedicle with the thalamosubthalamic arteries... Blockage of these arteries by occlusion of the basilar apex
+
+L-Question: Patient presents with third nerve palsy with contralateral hemiparesis or hemiataxia. Where is the lesion located?
+L-Answer: bilateral mesencephalic periaqueductal gray matter, third nerve nuclei and their fascicles, intralaminar and parafascicular nuclei, portions of the median and central nuclei, and superior cerebellar peduncle
+
+N-Question: Patient presents with a vertical one-and-a-half syndrome. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients [with diencephalic-mesencephalic infarction due to blockage of superior mesencephalic/thalamosubthalamic arteries from basilar apex occlusion] may have... a vertical one-and-a-half syndrome.
+
+S-Question: Patient presents with a vertical one-and-a-half syndrome. What is the implicated artery?
+S-Answer: superior mesencephalic arteries occasionally arise from a common pedicle with the thalamosubthalamic arteries... Blockage of these arteries by occlusion of the basilar apex
+
+L-Question: Patient presents with a vertical one-and-a-half syndrome. Where is the lesion located?
+L-Answer: bilateral mesencephalic periaqueductal gray matter, third nerve nuclei and their fascicles, intralaminar and parafascicular nuclei, portions of the median and central nuclei, and superior cerebellar peduncle
+
+N-Question: Patient presents with bilateral complete ptosis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: patients [with diencephalic-mesencephalic infarction due to blockage of superior mesencephalic/thalamosubthalamic arteries from basilar apex occlusion] may have... bilateral complete ptosis.
+
+S-Question: Patient presents with bilateral complete ptosis. What is the implicated artery?
+S-Answer: superior mesencephalic arteries occasionally arise from a common pedicle with the thalamosubthalamic arteries... Blockage of these arteries by occlusion of the basilar apex
+
+L-Question: Patient presents with bilateral complete ptosis. Where is the lesion located?
+L-Answer: bilateral mesencephalic periaqueductal gray matter, third nerve nuclei and their fascicles, intralaminar and parafascicular nuclei, portions of the median and central nuclei, and superior cerebellar peduncle
+
+N-Question: Patient presents with ipsilateral third nerve palsy and contralateral hemiplegia, hemisensory loss, hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Proximal occlusion of the PCA can cause infarction in the territory of the paramedian and peduncular perforating arteries in the thalamus and midbrain as well as in the occipital and temporal lobes. Ipsilateral third nerve palsy and contralateral hemiplegia are associated with hemisensory loss, hemianopia, and behavior abnormalities.
+
+S-Question: Patient presents with ipsilateral third nerve palsy and contralateral hemiplegia, hemisensory loss, hemianopia. What is the implicated artery?
+S-Answer: Proximal occlusion of the PCA... paramedian and peduncular perforating arteries
+
+L-Question: Patient presents with ipsilateral third nerve palsy and contralateral hemiplegia, hemisensory loss, hemianopia. Where is the lesion located?
+L-Answer: thalamus and midbrain as well as in the occipital and temporal lobes
+
+N-Question: Patient presents with clinical findings of lateral thalamic infarction combined with temporal and occipital lobe deficits, including hemianopia, amnesia, dyslexia, anomic or transcortical sensory aphasia, or visual neglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: occlusion of the proximal PCA spares the very origin of the artery, and the resulting infarct involves the lateral thalamus and a portion of the hemispheric territory of the PCA. Patients present the clinical findings of lateral thalamic infarction due to occlusion of the thalamogeniculate and/or posterior choroidal arteries, combined with temporal and occipital lobe deficits, including hemianopia, amnesia, dyslexia, anomic or transcortical sensory aphasia, or visual neglect.
+
+S-Question: Patient presents with clinical findings of lateral thalamic infarction combined with temporal and occipital lobe deficits, including hemianopia, amnesia, dyslexia, anomic or transcortical sensory aphasia, or visual neglect. What is the implicated artery?
+S-Answer: proximal PCA... thalamogeniculate and/or posterior choroidal arteries
+
+L-Question: Patient presents with clinical findings of lateral thalamic infarction combined with temporal and occipital lobe deficits, including hemianopia, amnesia, dyslexia, anomic or transcortical sensory aphasia, or visual neglect. Where is the lesion located?
+L-Answer: lateral thalamus and a portion of the hemispheric territory of the PCA... temporal and occipital lobe
+
+N-Question: Patient presents with rapidly progressive hemiparesis, sensory loss, vertical gaze abnormalities, with upgaze palsy and tonic down-gaze eye deviation and convergence, and small, fixed, or sluggish pupils. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: The most typical clinical features found in patients with large thalamic hemorrhages include a rapidly progressive hemiparesis, with sensory loss, vertical gaze abnormalities, with upgaze palsy and tonic down-gaze eye deviation and convergence, and small, fixed, or sluggish pupils.
+
+L-Question: Patient presents with rapidly progressive hemiparesis, sensory loss, vertical gaze abnormalities, with upgaze palsy and tonic down-gaze eye deviation and convergence, and small, fixed, or sluggish pupils. Where is the lesion located?
+L-Answer: large thalamic hemorrhages
+
+N-Question: Patient presents with motor neglect. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: More complex motor abnormalities, such as motor neglect after right-sided hemorrhages... are occasionally observed [in patients with large thalamic hemorrhages].
+
+L-Question: Patient presents with motor neglect. Where is the lesion located?
+L-Answer: right-sided [large thalamic] hemorrhages
+
+N-Question: Patient presents with sensory ataxic hemiparesis with incoordination of the contralateral limbs and severe impairment of proprioceptive sensation. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Sensory ataxic hemiparesis with incoordination of the contralateral limbs and severe impairment of proprioceptive sensation has been reported in hemorrrhages involving the ventrolateral thalamus.
+
+L-Question: Patient presents with sensory ataxic hemiparesis with incoordination of the contralateral limbs and severe impairment of proprioceptive sensation. Where is the lesion located?
+L-Answer: ventrolateral thalamus
+
+N-Question: Patient presents with dissociated or conjugate eye deviation toward the side of the lesion or toward the opposite side. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Instead of purely vertical gaze abnormalities, some patients [with large thalamic hemorrhages] may have skew deviation, or dissociated or conjugate eye deviation toward the side of the lesion or toward the opposite side.
+
+L-Question: Patient presents with dissociated or conjugate eye deviation toward the side of the lesion or toward the opposite side. Where is the lesion located?
+L-Answer: [large] thalamic hemorrhages
+
+N-Question: Patient presents with crossed thalamic aphasia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: rarely right thalamic hemorrhage may lead to crossed thalamic aphasia.
+
+L-Question: Patient presents with crossed thalamic aphasia. Where is the lesion located?
+L-Answer: right thalamic hemorrhage
+
+N-Question: Patient presents with hemineglect with or without anosognosia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: After right thalamic hemorrhages, hemineglect with or without anosognosia is common.
+
+L-Question: Patient presents with hemineglect with or without anosognosia. Where is the lesion located?
+L-Answer: right thalamic hemorrhages
+
+N-Question: Patient presents with severe hemiparesis and sensory loss. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Posterolateral hemorrhages... are usually characterized by severe hemiparesis and sensory loss.
+
+L-Question: Patient presents with severe hemiparesis and sensory loss. Where is the lesion located?
+L-Answer: Posterolateral hemorrhages
+
+N-Question: Patient presents with horizonal nystagmus and homonymous hemianopia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: More rarely, horizonal nystagmus and homonymous hemianopia have been described as a consequence of lateral geniculate body hemorrhages.
+
+L-Question: Patient presents with horizonal nystagmus and homonymous hemianopia. Where is the lesion located?
+L-Answer: lateral geniculate body hemorrhages
+
+N-Question: Patient presents with frontal-type neuropsychological abnormalities associated with mild hemiparesis and hemihypesthesia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Patients with anterolateral hemorrhages, corresponding to infarcts in the territory of the polar artery, present frontal-type neuropsychological abnormalities associated with mild hemiparesis and hemihypesthesia.
+
+L-Question: Patient presents with frontal-type neuropsychological abnormalities associated with mild hemiparesis and hemihypesthesia. Where is the lesion located?
+L-Answer: anterolateral hemorrhages
+
+N-Question: Patient presents with a decreased level of consciousness, vertical and horizontal gaze palsies, amnesia, and abulia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: A decreased level of consciousness, vertical and horizontal gaze palsies, amnesia, and abulia are typical findings in patients with medially located hemorrhages, corresponding to infarcts in the territory of the paramedian thalamosubthalamic arteries.
+
+L-Question: Patient presents with a decreased level of consciousness, vertical and horizontal gaze palsies, amnesia, and abulia. Where is the lesion located?
+L-Answer: medially located hemorrhages
+
+N-Question: Patient presents with minimal transient hemiparesis and hemihypesthesia, apraxia, aphasia, and amnesia. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Minimal transient hemiparesis and hemihypesthesia, apraxia, aphasia, and amnesia have been noted in patients with dorsal hemorrhages, corresponding to infarcts in the territory of the posterior choroidal arteries.
+
+L-Question: Patient presents with minimal transient hemiparesis and hemihypesthesia, apraxia, aphasia, and amnesia. Where is the lesion located?
+L-Answer: dorsal hemorrhages
+
+N-Question: Patient presents with progressive headaches, decreased level of consciousness, oculomotor findings, long tract signs, drowsiness and lethargy, disturbances of pupillary reflexes, visual field defects, and mild hemiparesis. Which syndrome or clinical pattern explains this presentation, and where is the lesion located?
+N-Answer: Venous thrombosis of the deep cerebral venous system... usually leads to bilateral thalamic (and basal ganglionic) edema... Classical symptoms include progressive headaches, decreased level of consciousness, oculomotor findings, and long tract signs... Minor presentations may be limited to drowsiness and lethargy, disturbances of pupillary reflexes, visual field defects, and mild hemiparesis.
+
+L-Question: Patient presents with progressive headaches, decreased level of consciousness, oculomotor findings, long tract signs, drowsiness and lethargy, disturbances of pupillary reflexes, visual field defects, and mild hemiparesis. Where is the lesion located?
+L-Answer: bilateral thalamic (and basal ganglionic) edema

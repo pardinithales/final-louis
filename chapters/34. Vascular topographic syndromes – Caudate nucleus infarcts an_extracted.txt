@@ -1,0 +1,66 @@
+N-Question: Patient presents with severe and persistent abulia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Abulia is more severe and more persistent in bilateral caudate nucleus infarcts.
+
+
+N-Question: Patient presents with akinesia, characterized by severe mental and affective stagnation, decreased spontaneous activity and speech, lack of initiative for action and speech, and prolonged latency in responding to questions and other stimuli. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Clinically, the patients show akinesia, characterized by severe mental and affective stagnation, decreased spontaneous activity and speech, lack of initiative for action and speech, and prolonged latency in responding to questions and other stimuli. These features have been described in patients with bilateral globus pallidus or putaminal lesions.
+
+
+L-Question: Patient presents with akinesia, characterized by severe mental and affective stagnation, decreased spontaneous activity and speech, lack of initiative for action and speech, and prolonged latency in responding to questions and other stimuli. Where is the lesion located?
+L-Answer: bilateral globus pallidus
+
+
+L-Question: Patient presents with akinesia, characterized by severe mental and affective stagnation, decreased spontaneous activity and speech, lack of initiative for action and speech, and prolonged latency in responding to questions and other stimuli. Where is the lesion located?
+L-Answer: putaminal lesions
+
+
+N-Question: Patient presents with contralateral motor and visuospatial hemineglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Contralateral motor and visuospatial hemineglect develop in a quarter of the patients with a right caudate nucleus lesion, particularly if the anterior limb of the internal capsule is also involved.
+
+
+L-Question: Patient presents with contralateral motor and visuospatial hemineglect. Where is the lesion located?
+L-Answer: anterior limb of the internal capsule
+
+
+N-Question: Patient presents with global dementia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Global dementia may develop following a bilateral infarction of the heads of the caudate nuclei
+
+
+L-Question: Patient presents with global dementia. Where is the lesion located?
+L-Answer: heads of the caudate nuclei
+
+
+N-Question: Patient presents with semantic and verbal paraphasias, perseverations without comprehension impairment. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Different types of aphasia, such as transcortical, non-fluent aphasia, characterized by semantic and verbal paraphasias and perseverations without comprehension impairment, may develop after left caudate nucleus vascular lesions.
+
+
+L-Question: Patient presents with semantic and verbal paraphasias, perseverations without comprehension impairment. Where is the lesion located?
+L-Answer: left caudate nucleus vascular lesions
+
+
+N-Question: Patient presents with contralateral ballistic, choreic movements. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Movement disorders following caudate nucleus infarcts have been described but not in detail. The abnormal movements usually are contralateral to the lesion and usually occur at the time of stroke onset. These abnormal movements have been described as ballistic, choreic, or both.
+
+
+N-Question: Patient presents with movement disorders beginning at once in all limbs bilaterally. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Movement disorders following caudate nucleus infarcts have been described but not in detail. Very rarely, movement disorders may begin at once in all limbs bilaterally.
+
+
+N-Question: Patient presents with IVH and ventricular dilatation on the ipsilateral side, but no prominent motor, sensory, or visual abnormalities. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Most patients show no prominent motor, sensory, or visual abnormalities if the hematoma is limited to the head or body of the caudate nucleus and dissects medially into the ipsilateral ventricle causing IVH and ventricular dilatation on the ipsilateral side.
+
+
+L-Question: Patient presents with IVH and ventricular dilatation on the ipsilateral side, but no prominent motor, sensory, or visual abnormalities. Where is the lesion located?
+L-Answer: head or body of the caudate nucleus
+
+
+L-Question: Patient presents with IVH and ventricular dilatation on the ipsilateral side, but no prominent motor, sensory, or visual abnormalities. Where is the lesion located?
+L-Answer: ipsilateral ventricle
+
+
+N-Question: Patient presents with hemiballism. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Rarely, a caudate nucleus hemorrhage can cause a movement disorder like hemiballism.
+
+
+L-Question: Patient presents with hemiballism. Where is the lesion located?
+L-Answer: caudate nucleus hemorrhage

@@ -1,0 +1,168 @@
+N-Question: Patient presents with bibrachial paralysis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In patients with bilateral anterior watershed infarcts (between the territories of the MCA and the anterior cerebral artery (ACA)), a picture of bibrachial paralysis (man-in-the-barrel syndrome) can occur.
+
+S-Question: Patient presents with bibrachial paralysis (man-in-the-barrel syndrome). What is the implicated artery?
+S-Answer: MCA and the anterior cerebral artery (ACA)
+
+L-Question: Patient presents with bibrachial paralysis (man-in-the-barrel syndrome). Where is the lesion located?
+L-Answer: bilateral anterior watershed infarcts
+
+
+N-Question: Patient presents with global aphasia, left hemianopia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: global aphasia with left hemianopia; [multiple infarcts involving the anterior circulation]
+
+S-Question: Patient presents with global aphasia with left hemianopia. What is the implicated artery?
+S-Answer: anterior circulation
+
+L-Question: Patient presents with global aphasia with left hemianopia. Where is the lesion located?
+L-Answer: anterior circulation
+
+
+N-Question: Patient presents with Broca’s aphasia, left hemiplegia, left sensory loss. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Broca’s aphasia with left hemiplegia and sensory loss; [multiple infarcts involving the anterior circulation]
+
+S-Question: Patient presents with Broca’s aphasia with left hemiplegia and sensory loss. What is the implicated artery?
+S-Answer: anterior circulation
+
+L-Question: Patient presents with Broca’s aphasia with left hemiplegia and sensory loss. Where is the lesion located?
+L-Answer: anterior circulation
+
+
+N-Question: Patient presents with hemianopia, hemiplegia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: simultaneous double infarction in one hemisphere... a specific clinical syndrome, including hemianopia and hemiplegia... occurred in relation to simultaneous involvement of motor and visual cortex or pathways by two remote infarcts.
+
+S-Question: Patient presents with hemianopia and hemiplegia. What is the implicated artery?
+S-Answer: [anterior superficial MCA plus the posterior superficial MCA OR anterior superficial MCA plus the posterior watershed]
+
+L-Question: Patient presents with hemianopia and hemiplegia. Where is the lesion located?
+L-Answer: one cerebral hemisphere... motor and visual cortex or pathways
+
+
+N-Question: Patient presents with acute conduction aphasia, hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: simultaneous double infarction in one hemisphere... a specific clinical syndrome... acute conduction aphasia with hemiparesis occurred by involvement of the region of the supramarginal gyrus sparing the sensory cortex, together with involvement of the motor cortex and underlying white matter.
+
+S-Question: Patient presents with acute conduction aphasia with hemiparesis. What is the implicated artery?
+S-Answer: [MCA branches supplying supramarginal gyrus and motor cortex]
+
+L-Question: Patient presents with acute conduction aphasia with hemiparesis. Where is the lesion located?
+L-Answer: one cerebral hemisphere... region of the supramarginal gyrus... motor cortex and underlying white matter
+
+
+N-Question: Patient presents with exploratory-motor and perceptual-sensory neglect without hemiparesis. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: A unique simultaneous double infarct pattern of the right hemisphere was identified... characterized by exploratory-motor and perceptual-sensory neglect without hemiparesis. All cases had anterior cortical and posterior cortical infarctions in which the motor strip and corticospinal pathways were spared.
+
+L-Question: Patient presents with exploratory-motor and perceptual-sensory neglect without hemiparesis. Where is the lesion located?
+L-Answer: right hemisphere... anterior cortical and posterior cortical infarctions
+
+
+N-Question: Patient presents with cerebral pseudoparalytic syndromes, akinetic mutism with incontinence, abulia, bilateral grasp reflex. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Simultaneous bilateral ACA infarction... Cerebral pseudoparalytic syndromes, akinetic mutism with incontinence, abulia, and the presence of a bilateral grasp reflex are suggestive of this type of infarction.
+
+S-Question: Patient presents with bilateral grasp reflex. What is the implicated artery?
+S-Answer: bilateral ACA
+
+L-Question: Patient presents with bilateral grasp reflex. Where is the lesion located?
+L-Answer: Bilateral medial aspects of the hemispheres
+
+S-Question: Patient presents with akinetic mutism with incontinence. What is the implicated artery?
+S-Answer: bilateral ACA
+
+L-Question: Patient presents with akinetic mutism with incontinence. Where is the lesion located?
+L-Answer: Bilateral medial aspects of the hemispheres
+
+S-Question: Patient presents with abulia. What is the implicated artery?
+S-Answer: bilateral ACA
+
+L-Question: Patient presents with abulia. Where is the lesion located?
+L-Answer: Bilateral medial aspects of the hemispheres
+
+
+N-Question: Patient presents with hemianopia, hemiplegia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: The syndrome of hemianopia–hemiplegia... is suggestive of this type of infarct [ICA occlusion causing simultaneous infarcts in the PCA and MCA territories].
+
+S-Question: Patient presents with hemianopia–hemiplegia syndrome. What is the implicated artery?
+S-Answer: ICA occlusion... PCA and MCA territories
+
+L-Question: Patient presents with hemianopia–hemiplegia syndrome. Where is the lesion located?
+L-Answer: PCA and MCA territories
+
+
+N-Question: Patient presents with global aphasia, left hemianopia, without hemiplegia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: global aphasia with left hemianopia without hemiplegia is suggestive of this type of infarct [ICA occlusion causing simultaneous infarcts in the PCA and MCA territories].
+
+S-Question: Patient presents with global aphasia with left hemianopia without hemiplegia. What is the implicated artery?
+S-Answer: ICA occlusion... PCA and MCA territories
+
+L-Question: Patient presents with global aphasia with left hemianopia without hemiplegia. Where is the lesion located?
+L-Answer: PCA and MCA territories
+
+
+N-Question: Patient presents with cortical blindness or bilateral hemianopias, often sparing macular vision. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral infarction in the PCA territory may result from occlusion of the apex of the basilar artery... This type of infarct usually causes cortical blindness or bilateral hemianopias, often sparing macular vision.
+
+S-Question: Patient presents with cortical blindness or bilateral hemianopias. What is the implicated artery?
+S-Answer: PCA territory... apex of the basilar artery
+
+L-Question: Patient presents with cortical blindness or bilateral hemianopias. Where is the lesion located?
+L-Answer: Bilateral PCA territory
+
+
+N-Question: Patient presents with selective upgaze, downgaze, or combined dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral paramedian thalamic infarction may develop due to occlusion of a paramedian pedicle... Bilateral infarcts frequently produce selective upgaze, downgaze, or combined dysfunction.
+
+S-Question: Patient presents with selective upgaze, downgaze, or combined dysfunction. What is the implicated artery?
+S-Answer: paramedian pedicle
+
+L-Question: Patient presents with selective upgaze, downgaze, or combined dysfunction. Where is the lesion located?
+L-Answer: Bilateral paramedian thalamic infarction
+
+S-Question: Patient presents with sudden onset of loss of consciousness, somnolence, apathy, lack of insight, amnesia, confabulations, slurred speech, flattened affect, impairment of spontaneous acting (thalamic dementia). What is the implicated artery?
+S-Answer: paramedian pedicle
+
+L-Question: Patient presents with sudden onset of loss of consciousness, somnolence, apathy, lack of insight, amnesia, confabulations, slurred speech, flattened affect, impairment of spontaneous acting (thalamic dementia). Where is the lesion located?
+L-Answer: Bilateral paramedian thalamic infarction
+
+
+N-Question: Patient presents with acute confusion, disorientation, psychic akinesia. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Simultaneous bilateral caudate nucleus infarction... is characterized by acute confusion and disorientation at stroke onset, and on the following days the patients may show severe impairment of mental and psychic activity and loss of affective and motor response to external stimuli, referred to as psychic akinesia.
+
+L-Question: Patient presents with psychic akinesia. Where is the lesion located?
+L-Answer: bilateral caudate nucleus infarction
+
+S-Question: Patient presents with acute confusion and disorientation. Where is the lesion located?
+L-Answer: bilateral caudate nucleus infarction
+
+
+N-Question: Patient presents with oculomotor signs including pseudo-sixth nerve paralysis, skew deviation. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Occlusive disease of the rostral basilar artery frequently causes infarctions of the midbrain, thalamus, and portions of the temporal and occipital lobes fed by the posterior communicating and posterior cerebral arterial branches of the basilar artery; this clinical picture is called the top-of-the-basilar syndrome. The main clinical feature is characterized by oculomotor signs, including... pseudo-sixth nerve paralysis... skew deviation...
+
+S-Question: Patient presents with pseudo-sixth nerve paralysis, skew deviation. What is the implicated artery?
+S-Answer: rostral basilar artery... posterior communicating and posterior cerebral arterial branches of the basilar artery
+
+L-Question: Patient presents with pseudo-sixth nerve paralysis, skew deviation. Where is the lesion located?
+L-Answer: midbrain, thalamus, and portions of the temporal and occipital lobes
+
+S-Question: Patient presents with convergence spasm. What is the implicated artery?
+S-Answer: rostral basilar artery
+
+L-Question: Patient presents with convergence spasm. Where is the lesion located?
+L-Answer: midbrain
+
+S-Question: Patient presents with elevation and retraction of the upper eyelids. What is the implicated artery?
+S-Answer: rostral basilar artery
+
+L-Question: Patient presents with elevation and retraction of the upper eyelids. Where is the lesion located?
+L-Answer: midbrain
+
+S-Question: Patient presents with vivid hallucinations, dream-like behavior, amnestic dysfunctions, agitated behavior. What is the implicated artery?
+S-Answer: rostral basilar artery... posterior communicating and posterior cerebral arterial branches
+
+L-Question: Patient presents with vivid hallucinations, dream-like behavior, amnestic dysfunctions, agitated behavior. Where is the lesion located?
+L-Answer: midbrain, thalamus, and portions of the temporal and occipital lobes
+
+
+N-Question: Patient presents with slowness of motor, speech, mental, and mood functions. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Bilateral paramedian thalamic and caudate nucleus infarction may induce a characteristic clinical picture with slowness of motor, speech, mental, and mood functions.
+
+L-Question: Patient presents with slowness of motor, speech, mental, and mood functions. Where is the lesion located?
+L-Answer: Bilateral paramedian thalamic and caudate nucleus infarction

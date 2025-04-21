@@ -1,0 +1,77 @@
+N-Question: Patient presents with contralateral hemiplegia, hemisensory loss, hemianopia, ipsilateral conjugate gaze deviation, language dysfunction in dominant hemispheric lesions, and neglect in nondominant hemispheric lesions. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: contralateral hemiplegia, hemisensory loss, hemianopia, ipsilateral conjugate gaze deviation, language dysfunction in dominant hemispheric lesions, and neglect in nondominant hemispheric lesions. Fisher’s descriptions based on clinicopathological findings of very large basal ganglionic hemorrhages (BGH) were considered as the classical syndromes
+
+L-Question: Patient presents with contralateral hemiplegia, hemisensory loss, hemianopia, ipsilateral conjugate gaze deviation, language dysfunction in dominant hemispheric lesions, and neglect in nondominant hemispheric lesions. Where is the lesion located?
+L-Answer: basal ganglionic hemorrhages (BGH)
+
+N-Question: Patient presents with consciousness impairment, dysphasia, contralateral hemiparesis, conjugate gaze deviation to the lesion side, and hemisensory deficits. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: This type of BGH causes a variety of clinical syndromes and presents with consciousness impairment, dysphasia, contralateral hemiparesis, conjugate gaze deviation to the lesion side, and hemisensory deficits in variable combinations. The middle type is relatively uncommon and located in the medial lenticulostriate artery territory. It involves the globus pallidus, a portion of the medial putamen, and occasionally the genu portion of the internal capsule
+
+S-Question: Patient presents with consciousness impairment, dysphasia, contralateral hemiparesis, conjugate gaze deviation to the lesion side, and hemisensory deficits. What is the implicated artery?
+S-Answer: medial lenticulostriate artery
+
+L-Question: Patient presents with consciousness impairment, dysphasia, contralateral hemiparesis, conjugate gaze deviation to the lesion side, and hemisensory deficits. Where is the lesion located?
+L-Answer: globus pallidus, a portion of the medial putamen, and occasionally the genu portion of the internal capsule
+
+L-Question: Patient presents with contralateral hemiparesis of mild to moderate degree. Where is the lesion located?
+L-Answer: globus pallidus, a portion of the medial putamen, and occasionally the genu portion of the internal capsule
+
+N-Question: Patient presents with motor weakness of mild to moderate degree of the contralateral face and limbs, with or without dysarthria. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: This type presents with motor-related lacunar syndromes like pure motor stroke or sensorimotor stroke, with or without dysarthria. Motor weakness of mild to moderate degree of the contralateral face and limbs is observed in almost all patients. The posteromedial type is very rare. It usually causes injuries to the anterior half of the posterior limb of the internal capsule, and thus can be called a capsular hemorrhage. The ruptured vessel is the anterior choroidal artery.
+
+S-Question: Patient presents with motor weakness of mild to moderate degree of the contralateral face and limbs, with or without dysarthria. What is the implicated artery?
+S-Answer: anterior choroidal artery
+
+L-Question: Patient presents with motor weakness of mild to moderate degree of the contralateral face and limbs, with or without dysarthria. Where is the lesion located?
+L-Answer: anterior half of the posterior limb of the internal capsule
+
+L-Question: Patient presents with motor weakness of mild to moderate degree of the contralateral face and limbs, with or without dysarthria. Where might the lesion spread?
+L-Answer: may spill into the medial part of the putamen or the lateral thalamus
+
+N-Question: Patient presents with weakness of the contralateral side, possible sensory impairment, and prominent cortical dysfunctions like aphasia (with left-sided BGH) and neglect. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: This type causes well-recognized neurological syndromes of BGH. Weakness of the contralateral side is invariably present. Sensory impairment may be associated. Cortical dysfunctions like aphasia and neglect are usually prominent. Aphasia is commonly observed with a left-sided BGH. The posterolateral type is most common. It affects the posterior half of the putamen and retrolenticular portion of the internal capsule and often dissects into the temporal isthmus white matter. The ruptured vessel is a posteromedial branch of the lateral lenticulostriate artery.
+
+S-Question: Patient presents with weakness of the contralateral side, possible sensory impairment, and prominent cortical dysfunctions like aphasia (with left-sided BGH) and neglect. What is the implicated artery?
+S-Answer: posteromedial branch of the lateral lenticulostriate artery
+
+L-Question: Patient presents with weakness of the contralateral side, possible sensory impairment, and prominent cortical dysfunctions like aphasia (with left-sided BGH) and neglect. Where is the lesion located?
+L-Answer: posterior half of the putamen and retrolenticular portion of the internal capsule
+
+L-Question: Patient presents with weakness of the contralateral side, possible sensory impairment, and prominent cortical dysfunctions like aphasia (with left-sided BGH) and neglect. Where might the lesion dissect?
+L-Answer: temporal isthmus white matter
+
+N-Question: Patient presents with only hemisensory signs and Wernicke’s type aphasia with left hemispheral bleeding. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In some patients, the hematoma spreads into the temporal isthmus. These patients may present with only hemisensory signs and Wernicke’s type aphasia if the bleeding is left hemispheral. The posterolateral type... The ruptured vessel is a posteromedial branch of the lateral lenticulostriate artery.
+
+S-Question: Patient presents with only hemisensory signs and Wernicke’s type aphasia with left hemispheral bleeding. What is the implicated artery?
+S-Answer: posteromedial branch of the lateral lenticulostriate artery
+
+L-Question: Patient presents with only hemisensory signs and Wernicke’s type aphasia with left hemispheral bleeding. Where is the lesion located?
+L-Answer: temporal isthmus
+
+N-Question: Patient presents with contralateral hemiparesis of mild to moderate degree and transient language dysfunctions, while a sensory deficit is uncommon. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Most patients remain alert and present contralateral hemiparesis of mild to moderate degree, while a sensory deficit is uncommon. Transient language dysfunctions are common. The lateral type is relatively common and is primarily located in the subinsular white matter between the external capsule and insular cortex, which is supplied by the most lateral branches of the lenticulostriate arteries.
+
+S-Question: Patient presents with contralateral hemiparesis of mild to moderate degree and transient language dysfunctions. What is the implicated artery?
+S-Answer: most lateral branches of the lenticulostriate arteries
+
+L-Question: Patient presents with contralateral hemiparesis of mild to moderate degree and transient language dysfunctions. Where is the lesion located?
+L-Answer: subinsular white matter between the external capsule and insular cortex
+
+N-Question: Patient presents with impaired consciousness and marked contralateral hemiparesis, potentially progressing to decreasing level of consciousness, quadriparesis, and oculomotor signs of upper brainstem dysfunction. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: In most patients, consciousness is impaired and marked contralateral hemiparesis develops. The hematomas often cause midline shift, obstruction of the foramen of Monro, and typical central or uncal herniation with decreasing level of consciousness, quadriparesis, and oculomotor signs of upper brainstem dysfunction. The massive type is also common and involves the entire basal ganglionic region. The bleeding focus seems to be the same as in the posterolateral type.
+
+S-Question: Patient presents with impaired consciousness and marked contralateral hemiparesis, potentially progressing to decreasing level of consciousness, quadriparesis, and oculomotor signs of upper brainstem dysfunction. What is the implicated artery?
+S-Answer: The bleeding focus seems to be the same as in the posterolateral type.
+
+L-Question: Patient presents with impaired consciousness and marked contralateral hemiparesis, potentially progressing to decreasing level of consciousness, quadriparesis, and oculomotor signs of upper brainstem dysfunction. Where is the lesion located?
+L-Answer: entire basal ganglionic region
+
+L-Question: Patient presents with impaired consciousness and marked contralateral hemiparesis, potentially progressing to decreasing level of consciousness, quadriparesis, and oculomotor signs of upper brainstem dysfunction. Where might the hematoma rupture?
+L-Answer: The hematomas frequently rupture into the anterior horn of the lateral ventricle and the frontal lobe.
+
+N-Question: Patient presented with progressing right hemiparesis and dysarthria due to compression of the posterior limb of the internal capsule. Which syndrome or clinical pattern explains this presentation, which artery is involved, and where is the lesion located?
+N-Answer: Before surgery, the patient had presented progressing right hemiparesis and dysarthria due to compression of the posterior limb of the internal capsule. A case of the posterolateral type of basal ganglionic hemorrage after stereotactic surgical aspiration of hematoma performed 10 hours after onset.
+
+L-Question: Patient presented with progressing right hemiparesis and dysarthria. Where is the lesion located?
+L-Answer: posterior limb of the internal capsule
