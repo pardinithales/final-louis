@@ -5,6 +5,11 @@
 # - Configura rotas e middlewares
 # - Estabelece eventos de inicialização
 
+# Hack para sqlite3 ANTES de qualquer importação que possa usar chromadb
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import logging
 from contextlib import asynccontextmanager
 
