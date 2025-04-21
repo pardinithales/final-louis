@@ -7,8 +7,12 @@ pydantic-settings>=2.2.1   # Carrega variaveis do .env
 
 # --- RAG / IA ---
 sentence-transformers>=2.7.0  # Embeddings
+# Fixa a versão do tokenizers para compatibilidade com transformers e Python 3.8
+tokenizers==0.20.0
 openai>=1.25.0                # Cliente OpenAI
-chromadb>=0.4.24              # Vector Store persistente
+chromadb==0.4.24
+# Fixa a versão do tenacity para compatibilidade com langchain
+tenacity<9.0.0
 langchain>=0.1.11             # RecursiveCharacterTextSplitter
 
 # --- Uploads e arquivos ---
@@ -21,10 +25,12 @@ streamlit>=1.34.0         # Dashboard simples
 # --- Utilidades ---
 python-dotenv>=1.0.1      # Carrega .env em scripts standalone
 typing_extensions>=4.11.0 # Tipagem retrocompativel
+# Necessário para chromadb em sistemas com sqlite3 < 3.35.0 (como Ubuntu 20.04)
+pysqlite3-binary
 
 # --- Dependencias de desenvolvimento/teste ---
 pytest>=8.0.0,<9.0.0
 pytest-cov>=4.0.0,<6.0.0 # Opcional: para cobertura de testes
 requests>=2.31.0,<2.33.0 # TestClient do FastAPI usa requests
-numpy>=1.26.0,<2.0.0
+# numpy>=1.26.0,<2.0.0     # Comentado - Incompatível com Python 3.8 padrão do Ubuntu 20.04
 pytest-asyncio>=0.23.0,<0.24.0

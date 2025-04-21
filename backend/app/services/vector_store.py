@@ -10,6 +10,10 @@ from fastapi import HTTPException
 
 from backend.app.core.config import settings
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # Configuração básica do logging para este módulo
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
