@@ -4,6 +4,7 @@ import logging
 from pydantic_settings import BaseSettings, SettingsConfigDict
 import os
 from pydantic import Field
+from pathlib import Path
 
 # Configuração básica do logging para este módulo
 logging.basicConfig(level=logging.DEBUG)
@@ -38,7 +39,7 @@ class Settings(BaseSettings):
 
     # Configuração para carregar variáveis de um arquivo .env
     model_config = SettingsConfigDict(
-        env_file='../.env',
+        env_file=Path(__file__).resolve().parent.parent.parent / '.env',
         env_file_encoding='utf-8',
         extra='ignore' # Ignora variáveis extras no .env que não estão definidas aqui
     )
