@@ -43,26 +43,27 @@ if not os.path.exists(IMAGES_FOLDER):
 
 # Lista para armazenar caminhos de imagens disponíveis
 available_images = []
+# Novo: dicionário para mapeamento case-insensitive
+image_name_map = {}
 
 def clear_available_images_cache():
     """
     Limpa o cache da lista de imagens disponíveis, forçando uma nova busca na próxima chamada.
     """
-    global available_images
+    global available_images, image_name_map
     available_images = []
+    image_name_map = {}
     logger.info("Cache de imagens disponíveis limpo.")
 
 def get_available_images() -> List[str]:
     """
     Obtém a lista de imagens disponíveis no diretório de imagens.
-    
+    Também constrói o dicionário de mapeamento case-insensitive.
     Returns:
         List[str]: Lista com os nomes das imagens encontradas (não os caminhos completos)
     """
-    global available_images
-    
-    # Se a lista já tiver sido carregada, retorna a versão em cache
-    if available_images:
+    global available_images, image_name_map
+    if available_images and image_name_map:
         logger.info(f"Retornando {len(available_images)} imagens do cache")
         return available_images
     
@@ -90,6 +91,8 @@ def get_available_images() -> List[str]:
                 logger.info(f"Encontradas {len(image_files)} imagens no diretório {img_dir}")
                 # Armazena apenas os nomes dos arquivos (não os caminhos completos)
                 available_images = image_files
+                # Novo: construir dicionário de mapeamento case-insensitive
+                image_name_map = {img.lower(): img for img in image_files}
                 return available_images
     
     logger.warning("Nenhuma imagem encontrada em nenhum dos diretórios possíveis")
@@ -97,46 +100,22 @@ def get_available_images() -> List[str]:
 
 def get_image_by_exact_name(image_name: str) -> Optional[Dict[str, str]]:
     """
-    Busca uma imagem pelo nome exato (com ou sem extensão).
-    
-    Args:
-        image_name (str): Nome da imagem a ser buscada (com ou sem a extensão)
-        
-    Returns:
-        Optional[Dict[str, str]]: Dicionário com a URL da imagem encontrada ou None se não encontrada
+    Busca uma imagem pelo nome exato (com ou sem extensão), de forma case-insensitive.
     """
-    # Certifica-se de que temos as imagens carregadas
-    image_files = get_available_images()
-    
+    get_available_images()  # Garante que image_name_map está atualizado
+    global image_name_map
     # Remove a extensão .png, se presente
     if image_name.lower().endswith('.png'):
         search_name = image_name[:-4]
     else:
         search_name = image_name
-    
-    # Busca exata - primeiro tenta encontrar uma correspondência exata
-    for filename in image_files:
-        name_without_ext = os.path.splitext(filename)[0]
-        
-        # Verifica se o nome corresponde exatamente (case sensitive)
-        if name_without_ext == search_name:
-            # Construir a URL para a imagem no diretório static
-            image_url = f"/images/{filename}"
-            logger.info(f"Imagem encontrada com correspondência exata: {filename}")
-            return {"image_url": image_url, "message": f"Imagem encontrada: {name_without_ext}"}
-    
-    # Busca case-insensitive - se não encontrar uma correspondência exata
-    for filename in image_files:
-        name_without_ext = os.path.splitext(filename)[0]
-        
-        # Verifica se o nome corresponde ignorando case
-        if name_without_ext.lower() == search_name.lower():
-            # Construir a URL para a imagem no diretório static
-            image_url = f"/images/{filename}"
-            logger.info(f"Imagem encontrada com correspondência case-insensitive: {filename}")
-            return {"image_url": image_url, "message": f"Imagem encontrada: {name_without_ext}"}
-    
-    # Se não encontrar nenhuma correspondência
+    # Busca case-insensitive no dicionário
+    key = f"{search_name}.png".lower()
+    if key in image_name_map:
+        real_name = image_name_map[key]
+        image_url = f"/images/{real_name}"
+        logger.info(f"Imagem encontrada (case-insensitive): {real_name}")
+        return {"image_url": image_url, "message": f"Imagem encontrada: {real_name}"}
     logger.warning(f"Nenhuma imagem encontrada com o nome: {image_name}")
     return None
 
@@ -151,8 +130,9 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         Nome do arquivo de imagem ou None se falhar
     """
     try:
+        get_available_images()  # Garante que image_name_map está atualizado
+        global image_name_map, available_images
         # Obter lista atualizada de imagens
-        available_images = get_available_images()
         if not available_images:
             logger.warning("Não há imagens disponíveis para seleção")
             return None
@@ -191,12 +171,14 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         elif not response.lower().endswith('.png'):
             response = f"{response}.png"
         
-        # Verificar se a resposta é um dos arquivos disponíveis
-        if response in available_images:
-            logger.info(f"Imagem selecionada com sucesso: {response}")
-            return response
+        # Busca case-insensitive no dicionário
+        key = response.lower()
+        if key in image_name_map:
+            real_name = image_name_map[key]
+            logger.info(f"Imagem selecionada com sucesso (case-insensitive): {real_name}")
+            return real_name
         else:
-            # Tentar encontrar correspondência parcial
+            # Tentar encontrar correspondência parcial (fallback)
             for image in available_images:
                 if image.lower() == response.lower():
                     logger.info(f"Imagem encontrada por correspondência case-insensitive: {image}")
