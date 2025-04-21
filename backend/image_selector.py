@@ -143,8 +143,9 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         # Construir prompt específico
         prompt = (
             "INSTRUÇÃO:\n"
-            "Você deve escolher EXATAMENTE um arquivo .png da LISTA DE ARQUIVOS DISPONÍVEIS que melhor represente a artéria primária "
+            "Você deve escolher um arquivo .png da LISTA DE ARQUIVOS DISPONÍVEIS que melhor represente a artéria ou local ou síndrome primária "
             "associada à síndrome vascular em questão.\n\n"
+            "PRIORIZE SÍNDROME --> DEPOIS ARTÉRIA --> SÓ SE NÃO ENCONTRAR NENHUM VÁ PARA LOCAL\n\n"
             "PRIORIDADE PARA SELEÇÃO:\n"
             "1) Nome da síndrome presente no nome do arquivo;\n"
             "2) Nome da artéria presente no nome do arquivo;\n"
