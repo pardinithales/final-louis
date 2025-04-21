@@ -142,11 +142,21 @@ async def select_image_for_syndrome(lesion_site: str) -> Optional[str]:
         
         # Construir prompt específico
         prompt = (
-            f"INSTRUÇÃO: Selecione exatamente um nome de arquivo da lista abaixo que melhor "
-            f"corresponda ao local anatômico: '{lesion_site}'.\n"
-            f"Retorne APENAS o nome EXATO do arquivo, sem texto adicional, sem explicações, "
-            f"sem formatação especial, apenas o nome do arquivo com a extensão .png.\n\n"
-            f"LISTA DE ARQUIVOS DISPONÍVEIS:\n"
+            "INSTRUÇÃO:\n"
+            "Você deve escolher EXATAMENTE um arquivo .png da LISTA DE ARQUIVOS DISPONÍVEIS que melhor represente a artéria primária "
+            "associada à síndrome vascular em questão.\n\n"
+            "PRIORIDADE PARA SELEÇÃO:\n"
+            "1) Nome da artéria presente no nome do arquivo;\n"
+            "2) Nome da síndrome presente no nome do arquivo;\n"
+            "3) Local anatômico (lesion_site) presente no nome do arquivo.\n\n"
+            "DADOS DISPONÍVEIS:\n"
+            f"• syndrome: '{locals().get('syndrome', '')}'\n"
+            f"• artery:   '{locals().get('artery', '')}'\n"
+            f"• lesion_site: '{lesion_site}'\n\n"
+            "RETORNO OBRIGATÓRIO:\n"
+            "• Apenas o nome EXATO do arquivo selecionado, com a extensão .png;\n"
+            "• Sem texto adicional, sem explicações, sem formatação especial.\n\n"
+            "LISTA DE ARQUIVOS DISPONÍVEIS:\n"
             f"{', '.join(available_images)}"
         )
         
