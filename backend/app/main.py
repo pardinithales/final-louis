@@ -147,17 +147,17 @@ app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 app.include_router(api_router, prefix="/api/v1")
 
 # Configuração do CORS
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"], # Permite todas as origens (ajuste em produção!)
-    allow_credentials=True,
-    # Métodos HTTP permitidos (todos)
-    allow_methods=["*"],
-    # Cabeçalhos permitidos nas requisições
-    allow_headers=["*"], # Permite todos os cabeçalhos
-    # Cabeçalhos expostos
-    expose_headers=["*"],
-)
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=["*"], # Permite todas as origens (ajuste em produção!)
+#     allow_credentials=True,
+#     # Métodos HTTP permitidos (todos)
+#     allow_methods=["*"],
+#     # Cabeçalhos permitidos nas requisições
+#     allow_headers=["*"], # Permite todos os cabeçalhos
+#     # Cabeçalhos expostos
+#     expose_headers=["*"],
+# )
 
 @app.get("/")
 async def root():
