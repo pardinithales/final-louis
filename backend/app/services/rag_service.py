@@ -130,14 +130,19 @@ class RAGService:
                         '   • \"syndrome\": Title Case (no abbreviations)\n'
                         '   • \"artery\": always \"Full Artery Name (ABBR)\", repeat the full form whenever a **new** abbreviation appears '
                         '(e.g. \"Lateral Branch of Posterior Inferior Cerebellar Artery (lPICA)\").\n'
-                        '   • \"lesion_site\": precise singular anatomical noun; strip words \"territory\", \"region\", or \"area\".\n'
+                        '   • \"lesion_site\": precise singular anatomical noun; never use only \"bulbo\"; prefer \"lateral medulla\" or '
+                        '\"lateral bulbo medullary\"; strip words \"territory\", \"region\", or \"area\".\n'
                         "7 Do NOT select an image or include any Imagem line in your response. The system will handle image selection separately.\n"
-                        "8 Write a rationale paragraph of **exactly five** sentences (≤ 25 words each), prefixed \"#1:\" … \"#5:\".\n"
+                        "8 Write a rationale paragraph of **exactly five** explanatory sentences (≤ 25 words each), prefixed \"#1:\" … \"#5:\".\n"
                         "   • #1 compares 1 vs 2; #2 compares 2 vs 3; #3 compares 3 vs 4; #4 explains why #1 addresses every keyword; "
                         "#5 gives a practical drawback of #4.\n"
                         "   • In every sentence cite ≤ 10 words from CTX or EN_QUERY inside double quotes.\n"
                         "9 Translate the finished answer back to L₀, keeping JSON keys, artery names and anatomical terms in English.\n"
                         "10 End with \"[database]\".\n\n"
+                        
+                        "Synonym constraints:\n"
+                        "• Treat \"Wallenberg Syndrome\" and \"Síndrome Bulbo Lateral\" (a.k.a. \"Lateral Medullary Syndrome\") as EXACT synonyms; "
+                        "never list them separately or count them as different syndromes.\n\n"
                         
                         "Response format (output nothing else):\n"
                         "Lista de síndromes: [{\"syndrome\":\"…\",\"artery\":\"…\",\"lesion_site\":\"…\"}, … ×4]\n"
