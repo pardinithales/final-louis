@@ -1,0 +1,50 @@
+# final-louis/traefik/traefik.yml
+
+# Configuração Estática do Traefik
+
+global:
+  checkNewVersion: true
+  sendAnonymousUsage: false # Desabilitar envio de dados anônimos
+
+# Pontos de entrada (HTTP e HTTPS)
+entryPoints:
+  web:
+    address: ":80"
+    # Redirecionamento global de HTTP para HTTPS (opcional, mas recomendado)
+    http:
+      redirections:
+        entryPoint:
+          to: websecure
+          scheme: https
+          permanent: true
+  websecure:
+    address: ":443"
+    http:
+      tls:
+        certResolver: myresolver # Nome do resolvedor de certificados (Let's Encrypt)
+
+# Provedores de configuração (Docker neste caso)
+providers:
+  docker:
+    endpoint: "unix:///var/run/docker.sock" # Conecta ao socket do Docker
+    exposedByDefault: false # Não expor containers por padrão
+    network: web # Nome da rede Docker a ser usada (definida no docker-compose.yml)
+
+# Resolvedor de Certificados (Let's Encrypt)
+certificatesResolvers:
+  myresolver:
+    acme:
+      email: pardinithales@gmail.com # <<< SUBSTITUA PELO SEU E-MAIL
+      storage: /letsencrypt/acme.json # Caminho dentro do container Traefik para armazenar certificados
+      httpChallenge:
+        entryPoint: web # Usar o entrypoint HTTP para o desafio ACME
+
+# API e Dashboard do Traefik (Opcional)
+api:
+  dashboard: true
+  insecure: true # Mantenha 'true' APENAS para testes locais. Para produção, proteja com autenticação!
+
+# Logs (Opcional)
+log:
+  level: INFO # Níveis: DEBUG, INFO, WARNING, ERROR, CRITICAL
+accessLog: {} # Habilita log de acesso com configurações padrão

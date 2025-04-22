@@ -154,3 +154,6 @@ data_test/
 **/venv/
 **/.venv*
 .vercel
+
+
+copiar_estrutura.py

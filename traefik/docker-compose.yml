@@ -1,0 +1,64 @@
+# final-louis/docker-compose.yml
+version: '3.8'
+
+services:
+  traefik:
+    image: traefik:v2.10 # Use uma versão estável do Traefik v2
+    container_name: traefik
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - web # Conecta à rede 'web'
+    ports:
+      - "80:80"   # Mapeia porta 80 do host para 80 do container (HTTP)
+      - "443:443" # Mapeia porta 443 do host para 443 do container (HTTPS)
+      - "8080:8080" # Mapeia porta para o dashboard do Traefik (se api.insecure=true)
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro # Monta o socket Docker (read-only)
+      - ./traefik/traefik.yml:/etc/traefik/traefik.yml:ro # Monta a config estática (read-only)
+      - letsencrypt:/letsencrypt # Volume para armazenar certificados Let's Encrypt
+    command:
+      - "--api.insecure=true" # Habilita dashboard inseguro
+      - "--api.dashboard=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.websecure.address=:443"
+      - "--certificatesresolvers.myresolver.acme.email=your_email@example.com" # <<< SUBSTITUA PELO SEU E-MAIL
+      - "--certificatesresolvers.myresolver.acme.storage=/letsencrypt/acme.json"
+      - "--certificatesresolvers.myresolver.acme.httpchallenge=true"
+      - "--certificatesresolvers.myresolver.acme.httpchallenge.entrypoint=web"
+      # - "--log.level=DEBUG" # Descomente para debug
+
+  backend:
+    build:
+      context: . # Contexto de build é o diretório atual (final-louis)
+      dockerfile: Dockerfile # Usa o Dockerfile na raiz
+    container_name: louis_backend
+    restart: unless-stopped
+    networks:
+      - web # Conecta à rede 'web'
+    volumes:
+      # Volume nomeado para persistir os dados do ChromaDB fora do container
+      - chroma_data:/app/backend/data
+    env_file:
+      - ./backend/.env # Carrega variáveis do arquivo .env dentro da pasta backend
+    labels:
+      # --- Configuração do Traefik para este serviço ---
+      - "traefik.enable=true" # Habilita Traefik para este container
+      - "traefik.http.routers.backend-secure.rule=Host(`louis.tpfbrain.com`)" # <<< SUBSTITUA PELO SEU DOMÍNIO
+      - "traefik.http.routers.backend-secure.entrypoints=websecure"
+      - "traefik.http.routers.backend-secure.tls=true"
+      - "traefik.http.routers.backend-secure.tls.certresolver=myresolver" # Usa o resolvedor Let's Encrypt
+      - "traefik.http.services.backend-service.loadbalancer.server.port=8000" # Porta interna da aplicação FastAPI
+
+# Define a rede
+networks:
+  web:
+    driver: bridge
+
+# Define os volumes nomeados
+volumes:
+  letsencrypt: # Volume para certificados
+  chroma_data: # Volume para dados do ChromaDB
