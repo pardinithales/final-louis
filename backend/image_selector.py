@@ -28,18 +28,22 @@ logger = logging.getLogger(__name__)
 # Obter o caminho absoluto para o diretório images usando o caminho do script atual
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(script_dir)  # Subir um nível para a raiz do projeto
-IMAGES_DIR = os.path.join(project_root, "images")
+
+# -- Definição dos Diretórios de Imagens --
+# Diretório onde o FastAPI serve os arquivos estáticos (relativo ao script atual)
+# image_selector.py está em 'backend/', main.py está em 'backend/app/'
+# O diretório estático é 'backend/app/static/images'
+APP_STATIC_IMAGES_DIR = os.path.abspath(os.path.join(script_dir, "app", "static", "images"))
+
+# Diretório original das imagens na raiz do projeto (usado para sincronização)
+SOURCE_IMAGES_DIR = os.path.abspath(os.path.join(project_root, "images"))
+
+# Outros diretórios possíveis (menos prováveis, mas mantidos como fallback)
+LEGACY_IMAGES_DIR_BACKEND = os.path.abspath(os.path.join(script_dir, "images"))
+LEGACY_IMAGES_DIR_ROOT_STATIC = os.path.abspath(os.path.join(project_root, "static", "images"))
+# -----------------------------------------
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-# Configuração de caminhos
-# Base dir é o diretório raiz do projeto
-BASE_DIR = Path(__file__).resolve().parent
-IMAGES_FOLDER = os.path.join(BASE_DIR, "images")
-STATIC_IMAGES_FOLDER = os.path.join(BASE_DIR, "static", "images")
-
-# Verificar se o diretório de imagens existe
-if not os.path.exists(IMAGES_FOLDER):
-    logger.warning(f"O diretório de imagens não foi encontrado: {IMAGES_FOLDER}")
 
 # Lista para armazenar caminhos de imagens disponíveis
 available_images = []
@@ -57,7 +61,7 @@ def clear_available_images_cache():
 
 def get_available_images() -> List[str]:
     """
-    Obtém a lista de imagens disponíveis no diretório de imagens.
+    Obtém a lista de imagens disponíveis, priorizando o diretório servido pelo FastAPI.
     Também constrói o dicionário de mapeamento case-insensitive.
     Returns:
         List[str]: Lista com os nomes das imagens encontradas (não os caminhos completos)
@@ -66,36 +70,46 @@ def get_available_images() -> List[str]:
     if available_images and image_name_map:
         logger.info(f"Retornando {len(available_images)} imagens do cache")
         return available_images
-    
-    # Caminho base do projeto - diretório raiz
-    base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-    
-    # Verificar múltiplos possíveis diretórios para as imagens
-    possible_dirs = [
-        os.path.join(base_path, "images"),             # [raiz]/images
-        os.path.join(base_path, "static", "images"),   # [raiz]/static/images
-        os.path.join(os.path.dirname(__file__), "images"),           # backend/images
-        os.path.join(os.path.dirname(__file__), "static", "images"), # backend/static/images
-        os.path.join(os.path.dirname(os.path.dirname(__file__)), "static", "images"), # [raiz]/backend/static/images
+
+    # Definir a ordem de prioridade dos diretórios
+    # 1. Diretório servido pelo FastAPI (mais importante)
+    # 2. Diretório original na raiz (fonte da sincronização)
+    # 3. Diretórios legados/fallback
+    search_dirs = [
+        APP_STATIC_IMAGES_DIR, 
+        SOURCE_IMAGES_DIR,
+        LEGACY_IMAGES_DIR_ROOT_STATIC,
+        LEGACY_IMAGES_DIR_BACKEND,
     ]
-    
-    logger.info(f"Buscando imagens nos diretórios: {possible_dirs}")
-    
-    # Buscar imagens em todos os diretórios possíveis
-    for img_dir in possible_dirs:
+
+    logger.info(f"Buscando imagens nos diretórios (priorizados): {search_dirs}")
+
+    # Buscar imagens na ordem de prioridade
+    for img_dir in search_dirs:
         if os.path.exists(img_dir):
-            # Lista todos os arquivos com extensão .png no diretório de imagens
-            image_files = [f for f in os.listdir(img_dir) if f.lower().endswith('.png')]
-            
-            if image_files:
-                logger.info(f"Encontradas {len(image_files)} imagens no diretório {img_dir}")
-                # Armazena apenas os nomes dos arquivos (não os caminhos completos)
-                available_images = image_files
-                # Novo: construir dicionário de mapeamento case-insensitive
-                image_name_map = {img.lower(): img for img in image_files}
-                return available_images
-    
-    logger.warning("Nenhuma imagem encontrada em nenhum dos diretórios possíveis")
+            try:
+                # Lista todos os arquivos com extensão .png no diretório de imagens
+                # Usar listdir para garantir que o case original seja capturado
+                image_files = [f for f in os.listdir(img_dir) 
+                               if os.path.isfile(os.path.join(img_dir, f)) and f.lower().endswith('.png')]
+
+                if image_files:
+                    logger.info(f"Encontradas {len(image_files)} imagens no diretório prioritário: {img_dir}")
+                    # Armazena apenas os nomes dos arquivos (com case original)
+                    available_images = image_files
+                    # Construir dicionário de mapeamento case-insensitive -> case original
+                    image_name_map = {img.lower(): img for img in image_files}
+                    return available_images
+                else:
+                    logger.debug(f"Nenhuma imagem .png encontrada em: {img_dir}")
+            except OSError as e:
+                logger.error(f"Erro ao acessar o diretório {img_dir}: {e}")
+        else:
+            logger.debug(f"Diretório não encontrado, pulando: {img_dir}")
+
+    logger.warning("Nenhuma imagem encontrada em nenhum dos diretórios de busca.")
+    available_images = []
+    image_name_map = {}
     return []
 
 def get_image_by_exact_name(image_name: str) -> Optional[Dict[str, str]]:
