@@ -48,7 +48,8 @@ async def select_image(
             
             if result:
                 # Ajustar URL para o formato esperado pela aplicação
-                image_url = f"/static{result['image_url']}"
+                # A URL já vem formatada de get_image_by_exact_name
+                image_url = result['image_url'] 
                 logger.info(f"Imagem encontrada: {image_url}")
                 return ImageOutput(image_url=image_url, message=result.get('message'))
             else:
