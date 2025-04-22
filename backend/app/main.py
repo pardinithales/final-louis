@@ -145,10 +145,11 @@ app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 # Lista de origens permitidas (adicione outras se necessário, como localhost para dev)
 origins = [
     "https://app-louis.tpfbrain.com", # Domínio do seu frontend DEPLOYADO
+    "https://louis.tpfbrain.com", # Domínio da API em produção
     "http://localhost", # Comum para desenvolvimento local Expo Web
     "http://localhost:8081", # Porta padrão do Metro Bundler (React Native Dev)
     # Adicione a porta que você usa para dev web local se for diferente, ex:
-    # "http://localhost:3000",
+    "http://localhost:3000",
 ]
 
 app.add_middleware(
@@ -157,6 +158,9 @@ app.add_middleware(
     allow_credentials=True, # Permite cookies (se usar autenticação)
     allow_methods=["*"], # Permite todos os métodos (GET, POST, etc.)
     allow_headers=["*"], # Permite todos os cabeçalhos
+    expose_headers=["*"], # Expõe todos os cabeçalhos para o cliente
+    allow_origin_regex=None, # Opcional: Use regex para permitir múltiplos subdomínios
+    max_age=600, # Tempo em segundos que o navegador pode armazenar em cache a resposta preflight
 )
 # ---------------------------
 
