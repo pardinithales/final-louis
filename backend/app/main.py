@@ -141,23 +141,28 @@ app = FastAPI(
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 # -------------------------------
 
+# --- Configuração do CORS ---
+# Lista de origens permitidas (adicione outras se necessário, como localhost para dev)
+origins = [
+    "https://app-louis.tpfbrain.com", # Domínio do seu frontend DEPLOYADO
+    "http://localhost", # Comum para desenvolvimento local Expo Web
+    "http://localhost:8081", # Porta padrão do Metro Bundler (React Native Dev)
+    # Adicione a porta que você usa para dev web local se for diferente, ex:
+    # "http://localhost:3000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins, # Permite as origens listadas
+    allow_credentials=True, # Permite cookies (se usar autenticação)
+    allow_methods=["*"], # Permite todos os métodos (GET, POST, etc.)
+    allow_headers=["*"], # Permite todos os cabeçalhos
+)
+# ---------------------------
 
 # Inclusão do roteador da API com prefixo /api/v1
 # Todas as rotas definidas em api_router (query, image, etc.) terão /api/v1 na frente
 app.include_router(api_router, prefix="/api/v1")
-
-# Configuração do CORS
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=["*"], # Permite todas as origens (ajuste em produção!)
-#     allow_credentials=True,
-#     # Métodos HTTP permitidos (todos)
-#     allow_methods=["*"],
-#     # Cabeçalhos permitidos nas requisições
-#     allow_headers=["*"], # Permite todos os cabeçalhos
-#     # Cabeçalhos expostos
-#     expose_headers=["*"],
-# )
 
 @app.get("/")
 async def root():
