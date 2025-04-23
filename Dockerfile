@@ -21,11 +21,11 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Copie todo o conteúdo do diretório local ANTES de executar scripts
+COPY . .
+
 # Execute o script load_chapters.py durante o build
 RUN python backend/load_chapters.py
-
-# Copie todo o conteúdo do diretório local (incluindo backend, images, chapters, etc.) para o diretório de trabalho no container
-COPY . .
 
 # Exponha a porta que a aplicação FastAPI usa (definida em start_api.py ou uvicorn command)
 EXPOSE 8000
