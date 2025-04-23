@@ -231,14 +231,19 @@ class RAGService:
         self, query: str, top_k: Optional[int] = None
     ) -> List[RetrievedChunk]:
         """Recupera chunks mais relevantes para a query de localização de AVC."""
+        logger.debug(f"Iniciando retrieve_relevant_chunks para query: '{query}'")
         if not query:
+            logger.warning("Query vazia recebida em retrieve_relevant_chunks.")
             return []
 
         k = top_k if (top_k and top_k > 0) else settings.DEFAULT_TOP_K
+        logger.debug(f"Gerando embedding para a query...")
         query_embedding = await self._generate_embeddings([query])
         if not query_embedding:
+            logger.error("Falha ao gerar embedding para a query.")
             return []
 
+        logger.debug(f"Consultando vector store com top_k={k}...")
         results = await self.vector_store.query_documents(
             query_embeddings=query_embedding, n_results=k
         )
@@ -248,19 +253,23 @@ class RAGService:
         metas = results.get("metadatas", [[]])[0]
         dists = results.get("distances", [[]])[0]
 
+        logger.debug(f"Vector store retornou {len(ids)} resultados.")
+
         chunks: List[RetrievedChunk] = []
         for i, cid in enumerate(ids):
             score = 1.0 - dists[i] if dists[i] is not None else 0.0
             meta = metas[i] if metas else {}
-            chunks.append(
-                RetrievedChunk(
-                    document_id=meta.get("document_id", "desconhecido"),
-                    chunk_id=cid,
-                    text=docs[i],
-                    score=score,
-                    metadata=meta,
-                )
+            chunk_data = RetrievedChunk(
+                document_id=meta.get("document_id", "desconhecido"),
+                chunk_id=cid,
+                text=docs[i],
+                score=score,
+                metadata=meta,
             )
+            chunks.append(chunk_data)
+            logger.debug(f"Chunk recuperado: ID={cid}, Score={score:.4f}")
+
+        logger.debug(f"Total de {len(chunks)} chunks relevantes recuperados.")
         return chunks
 
     async def analyze_stroke_location(
