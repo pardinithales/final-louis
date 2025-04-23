@@ -124,7 +124,7 @@ class RAGService:
                         "2 If L₀ ≠ English, translate the full input to English with gpt‑4o‑mini → EN_QUERY.\n"
                         "3 Retrieve context passages (CTX) with EN_QUERY.\n"
                         "4 Extract the three most salient *symptom* keywords from EN_QUERY, ignoring stop‑words.\n"
-                        "5 From CTX + EN_QUERY, retain only vascular syndromes whose classic picture includes **all** keywords; "
+                        "5 From CTX + EN_QUERY, retain only vascular syndromes whose classic picture includes most important keywords; "
                         "rank the top four (#1 → #4).\n"
                         "6 For each ranked syndrome output KEY‑VALUE pairs exactly as follows:\n"
                         '   • \"syndrome\": Title Case (no abbreviations)\n'
@@ -133,10 +133,10 @@ class RAGService:
                         '   • \"lesion_site\": precise singular anatomical noun; never use only \"bulbo\"; prefer \"lateral medulla\" or '
                         '\"lateral bulbo medullary\"; strip words \"territory\", \"region\", or \"area\".\n'
                         "7 Do NOT select an image or include any Imagem line in your response. The system will handle image selection separately.\n"
-                        "8 Write a rationale paragraph of **exactly five** explanatory sentences (≤ 25 words each), prefixed \"#1:\" … \"#5:\".\n"
+                        "8 Write a rationale paragraph of **exactly five** explanatory sentences (≤ 40 words each), prefixed \"#1:\" … \"#5:\".\n"
                         "   • #1 compares 1 vs 2; #2 compares 2 vs 3; #3 compares 3 vs 4; #4 explains why #1 addresses every keyword; "
                         "#5 gives a practical drawback of #4.\n"
-                        "   • In every sentence cite ≤ 10 words from CTX or EN_QUERY inside double quotes.\n"
+                        "   • In every sentence cite ≤ 10 words from CTX or EN_QUERY explaining your tough choices.\n"
                         "9 Translate the finished answer back to L₀, keeping JSON keys, artery names and anatomical terms in English.\n"
                         "10 End with \"[database]\".\n\n"
                         
@@ -161,7 +161,7 @@ class RAGService:
             completion = await self.ai_client.chat.completions.create(
                 model="gpt-4o",
                 messages=messages,
-                temperature=0.1,
+                temperature=0.4,
                 max_tokens=1500,
                 presence_penalty=0.1,
                 frequency_penalty=0.2,
