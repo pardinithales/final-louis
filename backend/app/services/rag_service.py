@@ -128,6 +128,7 @@ class RAGService:
                         "Vascular Syndromes with names are valuable. You always should think which should be first / most probable; "
                         "rank the top four (#1 → #4).\n"
                         "TRY TO NOT LIMIT ONLY TO BRAINSTEM SYNDROMES! You should consider all possible syndromes.\n"
+                        "IDEAL: TRY TO FIT INTO SYNDROME WITH A SPECIFIC NAME --> SYNDROME OF A SPECIFIC LOCAL (E.G: LATERAL MEDULLARY SYNDROME) --> ONLY SYNDROMES THAT INCLUDE MAIN SYMPTOMS\n"
                         "6 For each ranked syndrome output KEY‑VALUE pairs exactly as follows:\n"
                         '   • \"syndrome\": Title Case (no abbreviations)\n'
                         '   • \"artery\": always \"Full Artery Name (ABBR)\", repeat the full form whenever a **new** abbreviation appears '
