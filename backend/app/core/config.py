@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     # Configurações do chunking
     CHUNK_SIZE: int = 1500
     CHUNK_OVERLAP: int = 200
-    DEFAULT_TOP_K: int = 5
+    DEFAULT_TOP_K: int = 6
 
     # Front-end config
     APP_TITLE: str = "LouiS Stroke - Neurological Localization System"
