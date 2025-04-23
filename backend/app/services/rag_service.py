@@ -127,6 +127,7 @@ class RAGService:
                         "5 From CTX + EN_QUERY, retain mainly vascular syndromes whose classic picture includes most important keywords; "
                         "Vascular Syndromes with names are valuable. You always should think which should be first / most probable; "
                         "rank the top four (#1 → #4).\n"
+                        "TRY TO NOT LIMIT ONLY TO BRAINSTEM SYNDROMES! You should consider all possible syndromes.\n"
                         "6 For each ranked syndrome output KEY‑VALUE pairs exactly as follows:\n"
                         '   • \"syndrome\": Title Case (no abbreviations)\n'
                         '   • \"artery\": always \"Full Artery Name (ABBR)\", repeat the full form whenever a **new** abbreviation appears '
