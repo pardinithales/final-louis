@@ -18,6 +18,10 @@ interface QueryResponse {
   query: string;
   answer: string;
   retrieved_chunks: RetrievedChunk[];
+  image?: {
+    path: string;
+    name: string;
+  } | null;
 }
 
 export default function HomePage() {
@@ -28,7 +32,7 @@ export default function HomePage() {
   const [activeTab, setActiveTab] = useState<'sindromes' | 'observacoes' | 'contexto'>('sindromes');
 
   // API Base URL
-  const apiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL;
+  const apiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL?.replace('localhost', '127.0.0.1');
 
   // Parse da resposta
   const parsedAnswer: ParsedAnswer | null = useMemo(() => {
@@ -54,7 +58,7 @@ export default function HomePage() {
     setResponse(null);
 
     try {
-      const endpoint = `${apiBaseUrl.replace(/\/$/, '')}/query`;
+      const endpoint = `${apiBaseUrl?.replace(/\/$/, '')}/query`;
       console.log(`Sending to: ${endpoint}`);
       const res = await fetch(endpoint, {
         method: 'POST',
@@ -92,106 +96,118 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b border-gray-200 mb-8">
-        <div className="container-app py-6">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center space-x-3">
-              <Image src="/logo_louis.png" alt="LouiS logo" width={40} height={40} className="rounded-lg" />
+      <header className="bg-white shadow-sm border-b border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex justify-between items-center py-6">
+            <div className="flex items-center space-x-4">
+              <Image src="/newlogo.png" alt="LouiS" width={48} height={48} priority className="rounded-lg" />
               <h1 className="text-2xl font-bold text-gray-900">LouiS Stroke RAG</h1>
             </div>
-            <div className="text-sm text-gray-600">
-              <span className="font-medium">Neurological Analysis System</span>
-            </div>
+            <nav className="hidden md:flex space-x-8">
+              <a href="#" className="text-gray-600 hover:text-blue-600 font-medium">Home</a>
+              <a href="#" className="text-gray-600 hover:text-blue-600 font-medium">About</a>
+              <a href="https://github.com/pardinithales/final-louis" target="_blank" className="text-gray-600 hover:text-blue-600 font-medium">GitHub</a>
+            </nav>
           </div>
         </div>
       </header>
 
-      <main className="container-app pb-12">
-        {/* Seção de consulta */}
-        <section className="mb-10">
-          <div className="card">
-            <div className="card-header border-b">
-              <h2 className="text-xl font-bold text-gray-900">Clinical Case Analysis</h2>
-              <p className="text-gray-600 text-sm mt-2">
-                Enter patient clinical data to identify vascular syndromes and neuroanatomical locations.
-              </p>
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* Hero section */}
+        <div className="text-center mb-16">
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">Clinical Case Analysis</h2>
+          <p className="text-xl text-gray-600 max-w-3xl mx-auto">Enter patient clinical data and let our AI suggest vascular syndromes and neuroanatomical locations.</p>
+        </div>
+
+        {/* Clinical Analysis Section */}
+        <div className="max-w-4xl mx-auto mb-12">
+          <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8">
+            <div className="mb-6">
+              <label htmlFor="queryInput" className="block text-lg font-medium text-gray-900 mb-3">
+                Patient Clinical Data
+              </label>
+              <textarea
+                id="queryInput"
+                rows={6}
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                disabled={isLoading}
+                placeholder="Example: Patient presents right hemiparesis, expressive aphasia, conjugated gaze deviation to the left, with sudden onset symptoms..."
+                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-none"
+              />
             </div>
-            <div className="card-body">
-              <div className="mb-6">
-                <label htmlFor="queryInput" className="block text-sm font-medium text-gray-700 mb-2">
-                  Patient Clinical Data
-                </label>
-                <textarea
-                  id="queryInput"
-                  rows={5}
-                  value={query}
-                  onChange={(e) => setQuery(e.target.value)}
-                  disabled={isLoading}
-                  placeholder="Ex: Patient presents right hemiparesis, expressive aphasia, conjugated gaze deviation to the left..."
-                  className="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
-                />
-              </div>
-              <div className="flex justify-end">
-                <button
-                  onClick={handleQuery}
-                  disabled={isLoading}
-                  className="btn btn-primary btn-lg font-semibold"
-                >
-                  {isLoading ? 'Processing...' : 'Analyze Case'}
-                </button>
-              </div>
+            <div className="flex justify-center">
+              <button
+                onClick={handleQuery}
+                disabled={isLoading || !query.trim()}
+                className="bg-blue-600 hover:bg-blue-700 disabled:bg-gray-400 text-white px-8 py-3 rounded-lg font-medium transition-colors"
+              >
+                {isLoading ? 'Processing Analysis...' : 'Analyze Case'}
+              </button>
             </div>
           </div>
-        </section>
+        </div>
 
         {/* Mensagem de erro */}
         {error && (
-          <div className="mb-10 bg-red-50 border-l-4 border-red-500 p-5 rounded-md">
-            <div className="flex">
-              <div className="ml-3">
-                <h3 className="text-base font-medium text-red-800">Error</h3>
-                <p className="text-base text-red-700 mt-2">{error}</p>
-              </div>
+          <div className="max-w-4xl mx-auto mb-8">
+            <div className="bg-red-50 border border-red-200 rounded-lg p-4">
+              <h3 className="text-red-800 font-medium">Error</h3>
+              <p className="text-red-700 mt-1">{error}</p>
             </div>
           </div>
         )}
 
         {/* Resultados da análise */}
         {parsedAnswer && (
-          <section className="mb-10">
-            <div className="card overflow-hidden">
-              {/* Abas de navegação */}
+          <div className="max-w-6xl mx-auto">
+            <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
+              {/* Navigation tabs */}
               <div className="border-b border-gray-200">
-                <div className="tab-nav">
-                  <button
-                    onClick={() => setActiveTab('sindromes')}
-                    className={`tab-button ${activeTab === 'sindromes' ? 'tab-button-active' : 'tab-button-inactive'}`}
-                  >
-                    Diagnoses
-                  </button>
-                  <button
-                    onClick={() => setActiveTab('observacoes')}
-                    className={`tab-button ${activeTab === 'observacoes' ? 'tab-button-active' : 'tab-button-inactive'}`}
-                  >
-                    Observations
-                  </button>
-                  <button
-                    onClick={() => setActiveTab('contexto')}
-                    className={`tab-button ${activeTab === 'contexto' ? 'tab-button-active' : 'tab-button-inactive'}`}
-                  >
-                    Context
-                  </button>
-                </div>
+                <nav className="flex space-x-8 px-8">
+                  {[
+                    { key: 'sindromes', label: 'Diagnoses' },
+                    { key: 'observacoes', label: 'Observations' },
+                    { key: 'contexto', label: 'Context' }
+                  ].map(tab => (
+                    <button
+                      key={tab.key}
+                      onClick={() => setActiveTab(tab.key as any)}
+                      className={`py-4 px-1 border-b-2 font-medium text-sm ${
+                        activeTab === tab.key
+                          ? 'border-blue-500 text-blue-600'
+                          : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                      }`}
+                    >
+                      {tab.label}
+                    </button>
+                  ))}
+                </nav>
               </div>
 
-              {/* Conteúdo da aba selecionada */}
+              {/* Tab content */}
               <div className="p-8">
-                {/* Diagnósticos */}
+                {/* Image display */}
+                {activeTab === 'sindromes' && response?.image?.path && (
+                  <div className="text-center mb-8">
+                    <h4 className="text-lg font-medium text-gray-900 mb-4">Neuroanatomical Diagram</h4>
+                    <div className="inline-block bg-gray-50 rounded-lg p-4">
+                      <Image
+                        src={`${apiBaseUrl?.replace('/api/v1', '').replace(/\/$/, '')}/${response.image.path}`}
+                        alt={response.image.name || 'Stroke diagram'}
+                        width={400}
+                        height={300}
+                        className="rounded-lg"
+                      />
+                    </div>
+                  </div>
+                )}
+
+                {/* Diagnoses */}
                 {activeTab === 'sindromes' && (
                   <div>
-                    <h3 className="text-xl font-semibold mb-8">Main Diagnostic Hypotheses (Syndromes)</h3>
-                    
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <h3 className="text-xl font-semibold text-gray-900 mb-6">Diagnostic Hypotheses</h3>
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                       {parsedAnswer.syndromes.map((syndrome, index) => (
                         <SyndromeCard 
                           key={`${syndrome.syndrome}-${index}`} 
@@ -203,34 +219,32 @@ export default function HomePage() {
                   </div>
                 )}
 
-                {/* Observações */}
+                {/* Observations */}
                 {activeTab === 'observacoes' && parsedAnswer.notes && (
                   <div>
-                    <h3 className="text-xl font-semibold mb-6">Observations and Additional Analysis</h3>
-                    <div className="bg-blue-50 rounded-lg p-6 prose">
-                      <p className="whitespace-pre-wrap text-base">{parsedAnswer.notes}</p>
+                    <h3 className="text-xl font-semibold text-gray-900 mb-6">Clinical Observations</h3>
+                    <div className="bg-blue-50 rounded-lg p-6">
+                      <p className="text-gray-800 whitespace-pre-wrap">{parsedAnswer.notes}</p>
                     </div>
                   </div>
                 )}
 
-                {/* Contexto */}
+                {/* Context */}
                 {activeTab === 'contexto' && response?.retrieved_chunks && (
                   <div>
-                    <h3 className="text-xl font-semibold mb-6">Context Used in Analysis</h3>
-                    <div className="space-y-6">
+                    <h3 className="text-xl font-semibold text-gray-900 mb-6">Reference Context</h3>
+                    <div className="space-y-4">
                       {response.retrieved_chunks.map((chunk, index) => (
-                        <div key={chunk.chunk_id || `chunk-${index}`} className="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm">
-                          <div className="bg-gray-50 px-6 py-3 border-b border-gray-200 flex justify-between items-center">
-                            <div className="text-sm font-medium text-gray-700">
+                        <div key={chunk.chunk_id || `chunk-${index}`} className="bg-gray-50 rounded-lg p-4">
+                          <div className="flex justify-between items-center mb-2">
+                            <span className="text-sm font-medium text-gray-700">
                               {chunk.metadata?.filename || chunk.metadata?.source || 'Document'}
-                            </div>
-                            <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                            </span>
+                            <span className="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded">
                               Score: {chunk.score.toFixed(2)}
                             </span>
                           </div>
-                          <div className="p-6">
-                            <p className="text-base text-gray-700 leading-relaxed">{chunk.text}</p>
-                          </div>
+                          <p className="text-gray-700 text-sm">{chunk.text}</p>
                         </div>
                       ))}
                     </div>
@@ -238,17 +252,19 @@ export default function HomePage() {
                 )}
               </div>
             </div>
-          </section>
+          </div>
         )}
       </main>
+      
 
       {/* Footer */}
-      <footer className="bg-white border-t border-gray-200 py-8 mt-12">
-        <div className="container-app">
-          <div className="text-center text-sm text-gray-600">
-            <p>© {new Date().getFullYear()} LouiS Stroke RAG - Neurological Analysis System</p>
-            <p className="mt-2">Developed to assist in the diagnosis of neurovascular syndromes</p>
-          </div>
+      <footer className="bg-gray-900 text-white py-8 mt-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-lg font-medium mb-2">LouiS Stroke RAG</p>
+          <p className="text-gray-400 mb-4">AI-Powered Neurological Analysis System</p>
+          <p className="text-sm text-gray-500">
+            &copy; {new Date().getFullYear()} LouiS Stroke RAG. Developed to assist in neurovascular syndrome diagnosis.
+          </p>
         </div>
       </footer>
     </div>

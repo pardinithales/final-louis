@@ -39,7 +39,8 @@ async def perform_query(
         return QueryOutput(
              query=query_input.query,
              answer=result["answer"],
-             retrieved_chunks=result["retrieved_chunks"]
+             retrieved_chunks=result["retrieved_chunks"],
+             image=result.get("image")
         )
 
     except Exception as e:

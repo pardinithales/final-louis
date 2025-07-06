@@ -305,8 +305,8 @@ class RAGService:
         image_match = re.search(r'Imagem: (.*?)\.png', llm_response)
         if image_match:
             image_name = f"{image_match.group(1)}.png"
-            # Caminho completo para a imagem
-            image_path = os.path.join("images", image_name)
+            # A imagem é servida pelo FastAPI em /static/images/<arquivo>
+            image_path = f"static/images/{image_name}"
             
             # Remover a linha da imagem da resposta para separá-la
             llm_response = re.sub(r'Imagem: .*?\.png\n', '', llm_response)

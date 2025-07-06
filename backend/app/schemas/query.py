@@ -5,6 +5,12 @@ from typing import List, Optional, Dict, Any
 
 from backend.app.core.config import settings # Importa para usar o valor padrão de top_k
 
+# Image info must be defined before it is referenced in QueryOutput
+
+class ImageInfo(BaseModel):
+    name: Optional[str] | None = None
+    path: Optional[str] | None = None
+
 class QueryInput(BaseModel):
     query: str = Field(..., description="Texto da consulta do usuário")
     top_k: Optional[int] = Field(5, description="Número de chunks a recuperar")
@@ -20,6 +26,7 @@ class QueryOutput(BaseModel):
     query: str
     answer: str
     retrieved_chunks: List[RetrievedChunk]
+    image: Optional[ImageInfo] | None = None
 
 class QueryRequest(BaseModel):
     """
@@ -52,6 +59,7 @@ class QueryResponse(BaseModel):
     query: str = Field(..., description="A pergunta original feita pelo usuário.")
     answer: str = Field(..., description="A resposta gerada pelo sistema RAG (pode ser apenas os chunks concatenados inicialmente).")
     retrieved_chunks: List[RetrievedChunk] = Field(..., description="Lista dos chunks mais relevantes recuperados.")
+    image: Optional[ImageInfo] | None = Field(None, description="Informações da imagem associada à resposta, se houver.")
 
     model_config = {
         "json_schema_extra": {
